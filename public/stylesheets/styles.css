@@ -1,8 +1,33 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.red-text {
+  color: #c00;
+  font-weight: bold;
 }
 
-a {
-  color: #00B7FF;
+.green-text {
+  color: green;
+  font-weight: bold;
+}
+
+.grey-text {
+  color: #999;
+}
+
+.results-summary {
+  font-size: 2em;
+  text-align: center;
+}
+
+.results-summary span {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#incorrect-wrapper {
+  padding-left: 20px;
+  border-left: 3px solid #c00;
+}
+
+#correct-wrapper {
+  padding-left: 20px;
+  border-left: 3px solid green;
 }

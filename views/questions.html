@@ -1,19 +1,29 @@
 {% extends "layout.html" %}
 
 {% block body %}
-  <h1>Question {{question.number}}</h1>
-  <p>{{question.question}}</p>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <h1>
+        <small>Q {{question.number}}</small><br />
+        {{question.question}}
+      </h1>
 
-  <form action="{{question.number}}" method="post">
-    <p><input type="submit" name="answer" value="{{question.a}}"></p>
-    <p><input type="submit" name="answer" value="{{question.b}}"></p>
-    <p><input type="submit" name="answer" value="{{question.c}}"></p>
-    <p><input type="submit" name="answer" value="{{question.d}}"></p>
-    <input type="hidden" name="number" value="{{question.number}}">
-    <input type="hidden" name="id" value="{{question.id}}">
-    <input type="hidden" name="question" value="{{question.question}}">
-    <input type="hidden" name="correct" value="{{question.correct}}">
-  </ul>
+      <hr />
+
+      <form action="{{question.number}}" method="post">
+        <p><input class="btn btn-default btn-lg" type="submit" name="answer" value="{{question.a}}"></p>
+        <p><input class="btn btn-default btn-lg" type="submit" name="answer" value="{{question.b}}"></p>
+        <p><input class="btn btn-default btn-lg" type="submit" name="answer" value="{{question.c}}"></p>
+        <p><input class="btn btn-default btn-lg" type="submit" name="answer" value="{{question.d}}"></p>
+        <input type="hidden" name="number" value="{{question.number}}">
+        <input type="hidden" name="id" value="{{question.id}}">
+        <input type="hidden" name="question" value="{{question.question}}">
+        <input type="hidden" name="correct" value="{{question.correct}}">
+      </ul>
+    </div>
+  </div>
+</div>
 {% endblock %}
 
 {% block pageScripts %}

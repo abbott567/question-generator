@@ -1,26 +1,96 @@
-<h1>Results</h1>
+{% extends "layout.html" %}
 
-<p>Correct: {{results.correctTotal}}</p>
-<p>Incorrect: {{results.incorrectTotal}}</p>
-<p>Percentage: {{results.percentage}}</p>
+{% block body %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <h1>Results</h1>
 
-<h2>Incorrect Questions:</h2>
-<ul>
-  {% for incorrect in results.incorrectQuestions %}
-    <h4>{{ incorrect.question }}</h4>
-    <p><span style="color: red;">{{ incorrect.answer }}</span></p>
-    <p><span style="color: #999;">{{ incorrect.correct }}</span></p>
-  {% endfor %}
-</ul>
+      <hr />
 
-<br />
+      <div class="col-md-4">
+        <p class="results-summary">
+          Correct:<br />
+          <span class="green-text">{{results.correctTotal}}</span>
+        </p>
+      </div>
 
-<h2>Correct Questions:</h2>
-<ul>
-  {% for correct in results.correctQuestions %}
-    <h4>{{ correct.question }}</h4>
-    <p><span style="color: green;">{{ correct.answer }}</span></p>
-  {% endfor %}
-</ul>
+      <div class="col-md-4">
+        <p class="results-summary">
+          Incorrect:<br />
+          <span class="red-text">{{results.incorrectTotal}}</span>
+        </p>
+      </div>
 
-<a href="/reset">Reset</a>
+      <div class="col-md-4">
+        <p class="results-summary">
+          Percentage:<br />
+          <span>{{results.percentage}}%</span>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <hr />
+
+      <h2>Incorrect:</h2>
+      <a id="reveal-incorrect" href="#">Show incorrect answers</a>
+
+      <div id="incorrect-wrapper" style="display:none;">
+        {% for incorrect in results.incorrectQuestions %}
+          <h4>{{ incorrect.question }}</h4>
+          <p><span class="red-text">{{ incorrect.answer }}</span></p>
+          <p><span class="grey-text">{{ incorrect.correct }}</span></p>
+          <hr />
+        {% endfor %}
+      </div>
+
+      <br />
+
+      <h2>Correct:</h2>
+      <a id="reveal-correct" href="#">Show correct answers</a>
+
+      <div id="correct-wrapper" style="display:none;">
+        {% for correct in results.correctQuestions %}
+          <h4>{{ correct.question }}</h4>
+          <p><span class="green-text">{{ correct.answer }}</span></p>
+          <hr />
+        {% endfor %}
+      </div>
+
+      <hr />
+      <a class="btn btn-primary btn-lg" href="/reset" role="button">Reset</a>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block pageScripts %}
+  <script>
+    $(document).on('click', '#reveal-incorrect', function (e) {
+      e.preventDefault();
+
+      if ($('#incorrect-wrapper').css('display') === 'none') {
+        $(this).text('Hide incorrect answers')
+        $('#incorrect-wrapper').show();
+      } else {
+        $(this).text('Show incorrect answers')
+        $('#incorrect-wrapper').hide();
+      }
+    });
+
+    $(document).on('click', '#reveal-correct', function (e) {
+      e.preventDefault();
+
+      if ($('#correct-wrapper').css('display') === 'none') {
+        $(this).text('Hide correct answers')
+        $('#correct-wrapper').show();
+      } else {
+        $(this).text('Show correct answers')
+        $('#correct-wrapper').hide();
+      }
+    });
+  </script>
+{% endblock %}
