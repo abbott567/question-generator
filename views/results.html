@@ -1,0 +1,26 @@
+<h1>Results</h1>
+
+<p>Correct: {{results.correctTotal}}</p>
+<p>Incorrect: {{results.incorrectTotal}}</p>
+<p>Percentage: {{results.percentage}}</p>
+
+<h2>Incorrect Questions:</h2>
+<ul>
+  {% for incorrect in results.incorrectQuestions %}
+    <h4>{{ incorrect.question }}</h4>
+    <p><span style="color: red;">{{ incorrect.answer }}</span></p>
+    <p><span style="color: #999;">{{ incorrect.correct }}</span></p>
+  {% endfor %}
+</ul>
+
+<br />
+
+<h2>Correct Questions:</h2>
+<ul>
+  {% for correct in results.correctQuestions %}
+    <h4>{{ correct.question }}</h4>
+    <p><span style="color: green;">{{ correct.answer }}</span></p>
+  {% endfor %}
+</ul>
+
+<a href="/reset">Reset</a>
