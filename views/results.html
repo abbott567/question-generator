@@ -35,32 +35,42 @@
     <div class="col-md-8 col-md-offset-2">
       <hr />
 
-      <h2>Incorrect:</h2>
-      <a id="reveal-incorrect" href="#">Show incorrect answers</a>
+      {% if results.incorrectQuestions %}
 
-      <div id="incorrect-wrapper" style="display:none;">
-        {% for incorrect in results.incorrectQuestions %}
-          <h4>{{ incorrect.question }}</h4>
-          <p><span class="red-text">{{ incorrect.answer }}</span></p>
-          <p><span class="grey-text">{{ incorrect.correct }}</span></p>
-          <hr />
-        {% endfor %}
-      </div>
+        <h2>Incorrect:</h2>
+        <a id="reveal-incorrect" href="#">Show incorrect answers</a>
+
+        <div id="incorrect-wrapper" style="display:none;">
+          {% for incorrect in results.incorrectQuestions %}
+            <h4>{{ incorrect.question }}</h4>
+            <p><span class="red-text">{{ incorrect.answer }}</span></p>
+            <p><span class="grey-text">{{ incorrect.correct }}</span></p>
+            <hr />
+          {% endfor %}
+        </div>
+      {% endif %}
 
       <br />
 
-      <h2>Correct:</h2>
-      <a id="reveal-correct" href="#">Show correct answers</a>
+      {% if results.correctQuestions %}
+        <h2>Correct:</h2>
+        <a id="reveal-correct" href="#">Show correct answers</a>
 
-      <div id="correct-wrapper" style="display:none;">
-        {% for correct in results.correctQuestions %}
-          <h4>{{ correct.question }}</h4>
-          <p><span class="green-text">{{ correct.answer }}</span></p>
-          <hr />
-        {% endfor %}
-      </div>
+        <div id="correct-wrapper" style="display:none;">
+          {% for correct in results.correctQuestions %}
+            <h4>{{ correct.question }}</h4>
+            <p><span class="green-text">{{ correct.answer }}</span></p>
+            <hr />
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
 
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
       <hr />
+
       <a class="btn btn-primary btn-lg" href="/reset" role="button">Reset</a>
     </div>
   </div>

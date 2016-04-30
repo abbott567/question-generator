@@ -13,13 +13,13 @@
 }
 
 .results-summary {
-  font-size: 2em;
+  font-size: 200%;
   text-align: center;
 }
 
 .results-summary span {
   font-weight: bold;
-  font-size: 2em;
+  font-size: 200%;
 }
 
 #incorrect-wrapper {
@@ -30,4 +30,23 @@
 #correct-wrapper {
   padding-left: 20px;
   border-left: 3px solid green;
+}
+
+@media (max-width: 767px) {
+  .btn {
+    width: 93%;
+  }
+}
+
+.radio label {
+  padding: 20px;
+  padding-left: 40px;
+  font-size: 1.3em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+}
+
+.radio input {
+  display: none;
 }

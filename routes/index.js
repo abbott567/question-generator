@@ -984,18 +984,6 @@ router.post('/questions/:id', function (req, res) {
     results.incorrectQuestions.push({question: req.body.question, answer: req.body.answer, correct: req.body.correct});
   }
 
-  router.get('/questions/:id', function (req, res) {
-    const question = shuffle(questions).pop();
-
-    if (question) {
-      question.number = parseInt(req.params.id, 10);
-      question.nextNumber = question.number + 1;
-      res.render('questions.html', {question});
-    } else {
-      res.redirect('results');
-    }
-  });
-
   res.redirect(nextQuestion);
 });
 
