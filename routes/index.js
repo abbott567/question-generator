@@ -4,7 +4,6 @@ const express = require('express');
 const router = new express.Router();
 const jsonQuestions = require('../routes/questions');
 const reset = jsonQuestions.load();
-
 const questions = [];
 
 for (var i = 0; i < reset.length; i++) {
