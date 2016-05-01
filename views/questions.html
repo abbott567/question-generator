@@ -61,12 +61,24 @@
 {% block pageScripts %}
   <script>
     $(document).on('change', 'input[type="radio"]', function () {
-
       $('input[type="radio"]').each(function () {
         $(this).parent().css({'background': '#fff', 'border': '1px solid #ccc'});
       });
-
       $(this).parent().css({'background': '#d9edf7', 'border': '1px solid #bce8f1'});
+    });
+
+    $(document).on('submit', 'form', function (e) {
+      var checked = [];
+      $('input[type="radio"]').each(function () {
+        if ($(this).is(':checked')) {
+          checked.push($(this));
+          return;
+        }
+      });
+      
+      if (checked.length === 0) {
+        e.preventDefault();
+      }
     });
   </script>
 {% endblock %}
