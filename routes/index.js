@@ -976,7 +976,7 @@ router.post('/questions/:id', function (req, res) {
   const correct = req.body.correct;
   const answer = req.body.answer;
 
-  if (answer === correct) {
+  if (answer.toLowerCase() === correct.toLowerCase()) {
     results.correctTotal++;
     results.correctQuestions.push({question: req.body.question, answer: req.body.answer, correct: req.body.correct});
   } else {
