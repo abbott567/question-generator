@@ -15,28 +15,28 @@
         <div class="radio">
           <label>
             <input type="radio" name="answer" id="optionsRadios1" value="{{question.a}}">
-            {{question.a}}
+            {{question.answers[0].answer}}
           </label>
         </div>
 
         <div class="radio">
           <label>
             <input type="radio" name="answer" id="optionsRadios2" value="{{question.b}}">
-            {{question.b}}
+            {{question.answers[1].answer}}
           </label>
         </div>
 
         <div class="radio">
           <label>
             <input type="radio" name="answer" id="optionsRadios2" value="{{question.c}}">
-            {{question.c}}
+            {{question.answers[2].answer}}
           </label>
         </div>
 
         <div class="radio">
           <label>
             <input type="radio" name="answer" id="optionsRadios2" value="{{question.d}}">
-            {{question.d}}
+            {{question.answers[3].answer}}
           </label>
         </div>
 
@@ -75,7 +75,7 @@
           return;
         }
       });
-      
+
       if (checked.length === 0) {
         e.preventDefault();
       }

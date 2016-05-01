@@ -23,6 +23,7 @@ router.get('/', function (req, res) {
 
 router.get('/questions/:id', function (req, res) {
   const question = shuffle(questions).pop();
+  question.answers = shuffle(question.answers);
 
   if (question) {
     question.number = parseInt(req.params.id, 10);
