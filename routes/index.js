@@ -41,15 +41,6 @@ const reset = [
   },
 
   {
-    question: "Which statement is false:",
-    a: "Cytoplasm is an aqueous solution",
-    b: "Cytoplasm is surrounded by a plasma membrane",
-    c: "Ribosomes are located in the cytoplasm",
-    d: "Cytoplasm has a pH of 5.5",
-    correct: "Cytoplasm has a pH of 5.5"
-  },
-
-  {
     question: "Which is true:",
     a: "Plasma membrane is impermeable",
     b: "plasma membrane has a protein bi-layer",
