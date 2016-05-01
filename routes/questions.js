@@ -691,7 +691,7 @@ const questions = {
         b: "cardiac",
         c: "smooth",
         d: "striated",
-        correct: "smooth"
+        correct: "skeletal"
       },
 
       {
