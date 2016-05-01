@@ -14,35 +14,34 @@
       <form action="{{question.number}}" method="post">
         <div class="radio">
           <label>
-            <input type="radio" name="answer" id="optionsRadios1" value="{{question.a}}">
+            <input type="radio" name="answer" id="optionsRadios1" value="{{question.answers[0].answer}}">
             {{question.answers[0].answer}}
           </label>
         </div>
 
         <div class="radio">
           <label>
-            <input type="radio" name="answer" id="optionsRadios2" value="{{question.b}}">
+            <input type="radio" name="answer" id="optionsRadios2" value="{{question.answers[1].answer}}">
             {{question.answers[1].answer}}
           </label>
         </div>
 
         <div class="radio">
           <label>
-            <input type="radio" name="answer" id="optionsRadios2" value="{{question.c}}">
+            <input type="radio" name="answer" id="optionsRadios2" value="{{question.answers[2].answer}}">
             {{question.answers[2].answer}}
           </label>
         </div>
 
         <div class="radio">
           <label>
-            <input type="radio" name="answer" id="optionsRadios2" value="{{question.d}}">
+            <input type="radio" name="answer" id="optionsRadios2" value="{{question.answers[3].answer}}">
             {{question.answers[3].answer}}
           </label>
         </div>
 
 
         <input type="hidden" name="number" value="{{question.number}}">
-        <input type="hidden" name="id" value="{{question.id}}">
         <input type="hidden" name="question" value="{{question.question}}">
         <input type="hidden" name="correct" value="{{question.correct}}">
 
