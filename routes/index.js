@@ -70,7 +70,12 @@ router.get('/results', function (req, res) {
 });
 
 router.get('/reset', function (req, res) {
-
+  for (let cookie in req.cookies) {
+    if (req.cookies.hasOwnProperty(cookie)) {
+      res.clearCookie(cookie);
+    }
+  }
+  res.redirect('/');
 });
 
 module.exports = router;
