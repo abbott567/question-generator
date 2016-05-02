@@ -2950,5 +2950,104 @@ module.exports = [
       {answer: "cerebrum"}
     ],
     correct: "hypothalamus"
+  },
+
+  {
+    question: "Organ that receives blood from the snakes caudal tail vein?",
+    answers: [
+      {answer: "kidney"},
+      {answer: "liver"},
+      {answer: "brain"},
+      {answer: "pancreas"}
+    ],
+    correct: "kidney"
+  },
+
+  {
+    question: "Takes place in the renal nephrons?",
+    answers: [
+      {answer: "assimilation"},
+      {answer: "reabsorption"},
+      {answer: "storage"},
+      {answer: "destruction of worn out cells"}
+    ],
+    correct: "reabsorption"
+  },
+
+  {
+    question: "Angiotensin I is converted by ACE to?",
+    answers: [
+      {answer: "angiotensin II"},
+      {answer: "pepsin"},
+      {answer: "chyme"},
+      {answer: "renin"}
+    ],
+    correct: "angiotensin II"
+  },
+
+  {
+    question: "The trigone is located in the?",
+    answers: [
+      {answer: "kidney"},
+      {answer: "bladder"},
+      {answer: "nephron"},
+      {answer: "liver"}
+    ],
+    correct: "bladder"
+  },
+
+  {
+    question: "Inner aspect of the kidney?",
+    answers: [
+      {answer: "medulla"},
+      {answer: "cortex"},
+      {answer: "vein"},
+      {answer: "trigone"}
+    ],
+    correct: "medulla"
+  },
+
+  {
+    question: "ADH is reponsible for?",
+    answers: [
+      {answer: "water expulsion"},
+      {answer: "water reabsorption"},
+      {answer: "ultrafiltration"},
+      {answer: "trigone dilation"}
+    ],
+    correct: "water reabsorption"
+  },
+
+  {
+    question: "Which of the following does not happen in the PCT?",
+    answers: [
+      {answer: "glucose reabsorption"},
+      {answer: "water reabsorption"},
+      {answer: "secretion of drugs"},
+      {answer: "adjustment of pH"}
+    ],
+    correct: "adjustment of pH"
+  },
+
+  {
+    question: "Normal urine contains?",
+    answers: [
+      {answer: "glucose"},
+      {answer: "crystals"},
+      {answer: "salts"},
+      {answer: "protein"}
+    ],
+    correct: "salts"
+  },
+
+  {
+    question: "Deamination takes place in the?",
+    answers: [
+      {answer: "kidney"},
+      {answer: "bladder"},
+      {answer: "nephron"},
+      {answer: "liver"}
+    ],
+    correct: "liver"
   }
 ];
