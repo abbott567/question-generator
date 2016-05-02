@@ -5,7 +5,12 @@ const allQuestions = require('../routes/questions');
 
 router.get('/', function (req, res) {
   const qOrder = getOrder();
+  const correct = [];
+  const incorrect = [];
+
   res.cookie('qOrder', qOrder);
+  res.cookie('correct', JSON.stringify(correct));
+  res.cookie('incorrect', JSON.stringify(incorrect));
   res.redirect('questions/1');
 });
 
@@ -29,20 +34,8 @@ router.post('/questions/:id', function (req, res) {
   const nextQuestion = parseInt(req.params.id, 10) + 1;
   const correct = req.body.correct.toLowerCase();
   const answer = req.body.answer.toLowerCase();
-  let correctArray;
-  let incorrectArray;
-
-  if (req.cookies.correct) {
-    correctArray = JSON.parse(req.cookies.correct);
-  } else {
-    correctArray = [];
-  }
-
-  if (req.cookies.incorrect) {
-    incorrectArray = JSON.parse(req.cookies.incorrect);
-  } else {
-    incorrectArray = [];
-  }
+  let correctArray = JSON.parse(req.cookies.correct);
+  let incorrectArray = JSON.parse(req.cookies.incorrect);
 
   if (answer === correct) {
     correctArray.push(req.body.arrayPos);
