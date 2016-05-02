@@ -1609,7 +1609,7 @@ module.exports = [
     question: "synarthrosis joint?",
     answers: [
       {answer: "temporomandibular"},
-      {answer: "skull sutures"},
+      {answer: "knee"},
       {answer: "between vertebrae bodies"},
       {answer: "mandibular symphysis"}
     ],
