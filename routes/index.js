@@ -79,6 +79,32 @@ router.get('/reset', function (req, res) {
   res.redirect('/');
 });
 
+router.get('/question-checker', function (req, res) {
+  const mismatch = [];
+
+  for (let i = 0; i < allQuestions.length; i++) {
+    let answerNum = 0;
+    let correct = 0;
+
+    for (let n = 0; n < allQuestions[i].answers.length; n++) {
+      let thisAnswer = allQuestions[i].answers[n].answer.toLowerCase();
+      let correctAnswer = allQuestions[i].correct.toLowerCase();
+
+      if (thisAnswer === correctAnswer) {
+        correct++;
+      }
+
+      answerNum++;
+    }
+
+    if (answerNum === 4 && correct === 0) {
+      mismatch.push(allQuestions[i].question);
+    }
+  }
+
+  res.render('question-checker.html', {mismatch});
+});
+
 module.exports = router;
 
 function shuffle(array) {

@@ -2028,7 +2028,7 @@ module.exports = [
       {answer: "cephalic"},
       {answer: "carotid"}
     ],
-    correct: "azygous vein"
+    correct: "azygous"
   },
   {
     question: "Transmit an electrical impulse down the heart septum?",
@@ -2188,7 +2188,7 @@ module.exports = [
       {answer: "neutrophils"},
       {answer: "eosinophils"},
       {answer: "lymphocytes"},
-      {answer: "monocytes"}
+      {answer: "basophil"}
     ],
     correct: "basophil"
   },
@@ -2212,7 +2212,7 @@ module.exports = [
       {answer: "antiserum"},
       {answer: "albumin"}
     ],
-    correct: "antiboby"
+    correct: "antibody"
   },
 
   {
@@ -2403,7 +2403,7 @@ module.exports = [
       {answer: "limits heart rate"},
       {answer: "slows heart rate"}
     ],
-    correct: "prevents over inspiration"
+    correct: "prevent over inspiration"
   },
   {
     question: "Movement of the diaphragm in respiration?",

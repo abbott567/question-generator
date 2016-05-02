@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <h1>
+        Question checker
+      </h1>
+
+      {% for question in mismatch %}
+        <p>{{ question }}</p>
+      {% endfor %}
+
+
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block pageScripts %}
+{% endblock %}
