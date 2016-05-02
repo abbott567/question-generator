@@ -2533,5 +2533,422 @@ module.exports = [
       {answer: "parabronchi"}
     ],
     correct: "parabronchi"
+  },
+
+  {
+    question: "Food travels through the small intestine via?",
+    answers: [
+      {answer: "duodenum, jejunum, ileum"},
+      {answer: "duodenum, ileum, jejunum"},
+      {answer: "ileum, duodenum, jejunum"},
+      {answer: "none of the above"}
+    ],
+    correct: "duodenum, jejunum, ileum"
+  },
+
+  {
+    question: "Digestive enzyme secreted by the pancreas?",
+    answers: [
+      {answer: "trypsin"},
+      {answer: "pancrease"},
+      {answer: "pepsin"},
+      {answer: "secretin"}
+    ],
+    correct: "trypsin"
+  },
+
+  {
+    question: "Which of the following is not a region of the stomach?",
+    answers: [
+      {answer: "pylorus"},
+      {answer: "fundus"},
+      {answer: "cardia"},
+      {answer: "gastric"}
+    ],
+    correct: "gastric"
+  },
+
+  {
+    question: "Rennin is secreted by young animals in the?",
+    answers: [
+      {answer: "stomach"},
+      {answer: "duodenum, ileum, jejunum"},
+      {answer: "mouth"},
+      {answer: "colon"}
+    ],
+    correct: "stomach"
+  },
+
+  {
+    question: "Acidic semi solid food is known as?",
+    answers: [
+      {answer: "chyle"},
+      {answer: "gastrin"},
+      {answer: "chyme"},
+      {answer: "secretin"}
+    ],
+    correct: "chyme"
+  },
+
+  {
+    question: "The lacteals secrete?",
+    answers: [
+      {answer: "chyle"},
+      {answer: "gastrin"},
+      {answer: "chyme"},
+      {answer: "secretin"}
+    ],
+    correct: "chyle"
+  },
+  {
+    question: "The stomach of the dog produces?",
+    answers: [
+      {answer: "pepsinogen"},
+      {answer: "amylase"},
+      {answer: "bile"},
+      {answer: "secretin"}
+    ],
+    correct: "pepsinogen"
+  },
+
+  {
+    question: "Absorption of nutrients takes place mainly in?",
+    answers: [
+      {answer: "stomach"},
+      {answer: "jejunum"},
+      {answer: "mouth"},
+      {answer: "colon"}
+    ],
+    correct: "jejunum"
+  },
+
+  {
+    question: "digestion of nutrients takes place mainly in?",
+    answers: [
+      {answer: "duodenum"},
+      {answer: "jejunum"},
+      {answer: "mouth"},
+      {answer: "colon"}
+    ],
+    correct: "duodenum"
+  },
+
+  {
+    question: "Bile is?",
+    answers: [
+      {answer: "acidic"},
+      {answer: "very acidic"},
+      {answer: "alkaline"},
+      {answer: "pH7"}
+    ],
+    correct: "alkaline"
+  },
+
+  {
+    question: "Enterokinase is produced by?",
+    answers: [
+      {answer: "pancreas"},
+      {answer: "brunners glands"},
+      {answer: "mouth"},
+      {answer: "colon"}
+    ],
+    correct: "brunners glands"
+  },
+
+  {
+    question: "Enterokinase role?",
+    answers: [
+      {answer: "converts trypsinogen to trypsin"},
+      {answer: "digests carbohydrates"},
+      {answer: "produces mucus"},
+      {answer: "digests proteins"}
+    ],
+    correct: "converts trypsinogen to trypsin"
+  },
+
+  {
+    question: "Salivary gland that lies within the orbit of the eye?",
+    answers: [
+      {answer: "zygomatic"},
+      {answer: "brunners glands"},
+      {answer: "mandibular"},
+      {answer: "sublingual"}
+    ],
+    correct: "zygomatic"
+  },
+
+  {
+    question: "Enzyme produced by omnivorous animals as a component of their saliva?",
+    answers: [
+      {answer: "protease"},
+      {answer: "amylase"},
+      {answer: "chitin"},
+      {answer: "lipase"}
+    ],
+    correct: "amylase"
+  },
+
+  {
+    question: "Connects the oropharynx to the middle ear?",
+    answers: [
+      {answer: "eustachian tube"},
+      {answer: "mallus"},
+      {answer: "lacrimal duct"},
+      {answer: "stapes"}
+    ],
+    correct: "eustachian tube"
+  },
+
+  {
+    question: "Producer of success enteric?",
+    answers: [
+      {answer: "crypts f lieberkuhn"},
+      {answer: "parietal cells"},
+      {answer: "brunners glands"},
+      {answer: "lacteals"}
+    ],
+    correct: "brunners glands"
+  },
+
+  {
+    question: "Enzyme present in small quantities of the unweaned animal?",
+    answers: [
+      {answer: "gastric amylase"},
+      {answer: "gastric lipase"},
+      {answer: "gastric lactase"},
+      {answer: "gastric lactose"}
+    ],
+    correct: "gastric lipase"
+  },
+
+  {
+    question: "The penis points caudally in the?",
+    answers: [
+      {answer: "cat"},
+      {answer: "dog"},
+      {answer: "horse"},
+      {answer: "rabbit"}
+    ],
+    correct: "cat"
+  },
+
+  {
+    question: "The penis points cranially in the?",
+    answers: [
+      {answer: "cat"},
+      {answer: "dog"},
+      {answer: "horse"},
+      {answer: "rabbit"}
+    ],
+    correct: "dog"
+  },
+
+  {
+    question: "Changes the position of the testes when it's cold?",
+    answers: [
+      {answer: "dartos"},
+      {answer: "cruciate ligament"},
+      {answer: "cremaster muscle"},
+      {answer: "retractor testicular"}
+    ],
+    correct: "cremaster muscle"
+  },
+
+  {
+    question: "Fertilisation takes place in the?",
+    answers: [
+      {answer: "testes"},
+      {answer: "ovary"},
+      {answer: "oviduct"},
+      {answer: "uterus"}
+    ],
+    correct: "oviduct"
+  },
+
+  {
+    question: "Spontaneous ovulation takes place in the?",
+    answers: [
+      {answer: "cat"},
+      {answer: "dog"},
+      {answer: "horse"},
+      {answer: "rabbit"}
+    ],
+    correct: "dog"
+  },
+
+  {
+    question: "oestrogen production takes place in?",
+    answers: [
+      {answer: "sertoli cells"},
+      {answer: "leydig cells"},
+      {answer: "seminiferous tubule cells"},
+      {answer: "ovary"}
+    ],
+    correct: "sertoli cells"
+  },
+
+  {
+    question: "testosterone production takes place in?",
+    answers: [
+      {answer: "sertoli cells"},
+      {answer: "leydig cells"},
+      {answer: "seminiferous tubule cells"},
+      {answer: "ovary"}
+    ],
+    correct: "leydig cells"
+  },
+
+  {
+    question: "Stimulates contractions in the uterus?",
+    answers: [
+      {answer: "progesterone"},
+      {answer: "oestrogen"},
+      {answer: "testosterone"},
+      {answer: "oxytocin"}
+    ],
+    correct: "oxytocin"
+  },
+
+  {
+    question: "Does not have a bulb urethral gland?",
+    answers: [
+      {answer: "cat"},
+      {answer: "dog"},
+      {answer: "horse"},
+      {answer: "rabbit"}
+    ],
+    correct: "dog"
+  },
+
+  {
+    question: "Hormone that maintains pregnancy?",
+    answers: [
+      {answer: "progesterone"},
+      {answer: "oestrogen"},
+      {answer: "testosterone"},
+      {answer: "oxytocin"}
+    ],
+    correct: "progesterone"
+  },
+
+  {
+    question: "Dogs os penis is?",
+    answers: [
+      {answer: "ventral to urethra"},
+      {answer: "dorsal to urethra"},
+      {answer: "distal to urethra"},
+      {answer: "dogs don't have an os penis"}
+    ],
+    correct: "dorsal to urethra"
+  },
+
+  {
+    question: "Gives birth to precocial young?",
+    answers: [
+      {answer: "cat"},
+      {answer: "horse"},
+      {answer: "rabbit"},
+      {answer: "chinchilla"}
+    ],
+    correct: "chinchilla"
+  },
+
+  {
+    question: "Gives birth to precocial young?",
+    answers: [
+      {answer: "cat"},
+      {answer: "horse"},
+      {answer: "rabbit"},
+      {answer: "guinea pig"}
+    ],
+    correct: "guinea pig"
+  },
+
+  {
+    question: "A surge in this hormone stimulates ovulation?",
+    answers: [
+      {answer: "LH"},
+      {answer: "oestrogen"},
+      {answer: "FSH"},
+      {answer: "oxytocin"}
+    ],
+    correct: "LH"
+  },
+
+  {
+    question: "A surge in this hormone stimulates maturation of the griffin follicle?",
+    answers: [
+      {answer: "LH"},
+      {answer: "oestrogen"},
+      {answer: "FSH"},
+      {answer: "oxytocin"}
+    ],
+    correct: "FSH"
+  },
+
+  {
+    question: "Layer of peritoneum that covers testes?",
+    answers: [
+      {answer: "dartos"},
+      {answer: "cruciate ligament"},
+      {answer: "cremaster muscle"},
+      {answer: "tunica vaginalis"}
+    ],
+    correct: "tunica vaginalis"
+  },
+
+  {
+    question: "Stimulates milk production?",
+    answers: [
+      {answer: "LH"},
+      {answer: "oestrogen"},
+      {answer: "FSH"},
+      {answer: "prolactin"}
+    ],
+    correct: "prolactin"
+  },
+
+  {
+    question: "Hormone secreted by the corpus luteum?",
+    answers: [
+      {answer: "LH"},
+      {answer: "oestrogen"},
+      {answer: "FSH"},
+      {answer: "progesterone"}
+    ],
+    correct: "progesterone"
+  },
+
+  {
+    question: "Stimulates milk let down?",
+    answers: [
+      {answer: "LH"},
+      {answer: "oestrogen"},
+      {answer: "FSH"},
+      {answer: "oxytocin"}
+    ],
+    correct: "oxytocin"
+  },
+
+  {
+    question: "Dilation of the cervix?",
+    answers: [
+      {answer: "relaxin"},
+      {answer: "oestrogen"},
+      {answer: "progesterone"},
+      {answer: "oxytocin"}
+    ],
+    correct: "relaxin"
+  },
+
+  {
+    question: "Releases GnRH?",
+    answers: [
+      {answer: "hypothalamus"},
+      {answer: "medulla oblongata"},
+      {answer: "pituitary gland"},
+      {answer: "cerebrum"}
+    ],
+    correct: "hypothalamus"
   }
 ];
