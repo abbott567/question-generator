@@ -16,11 +16,12 @@ router.get('/questions/:id', function (req, res) {
   res.cookie('qOrder', qOrder);
 
   if (question) {
+    question.answers = shuffle(question.answers);
     question.number = req.params.id;
     question.arrayPos = getQ;
     res.render('questions.html', {question});
   } else {
-    res.redirect('results');
+    res.redirect('/results');
   }
 });
 
