@@ -189,7 +189,7 @@ module.exports = [
   {
     question: "Neutrophils are rich in:",
     answers: [
-{answer: "centrosomes"},
+      {answer: "centrosomes"},
       {answer: "nucleoulus"},
       {answer: "cilia"},
       {answer: "lysosomes"}
@@ -2202,5 +2202,336 @@ module.exports = [
       {answer: "syrup"}
     ],
     correct: "serum"
+  },
+
+  {
+    question: "What does the immune system release in response to an allergin/ antigen?",
+    answers: [
+      {answer: "antigen"},
+      {answer: "antibody"},
+      {answer: "antiserum"},
+      {answer: "albumin"}
+    ],
+    correct: "antiboby"
+  },
+
+  {
+    question: "What triggers the release of an antibody?",
+    answers: [
+      {answer: "antigen"},
+      {answer: "antibody"},
+      {answer: "antiserum"},
+      {answer: "albumin"}
+    ],
+    correct: "antigen"
+  },
+
+  {
+    question: "Which lymph node can be palpated behind the stifle?",
+    answers: [
+      {answer: "popliteal"},
+      {answer: "axillary"},
+      {answer: "inguinal"},
+      {answer: "parotid"}
+    ],
+    correct: "popliteal"
+  },
+  {
+    question: "Which lymph node can be palpated under the armpit?",
+    answers: [
+      {answer: "popliteal"},
+      {answer: "axillary"},
+      {answer: "inguinal"},
+      {answer: "parotid"}
+    ],
+    correct: "axillary"
+  },
+
+  {
+    question: "Which cell is involved in the humoral immune response?",
+    answers: [
+      {answer: "macrophage"},
+      {answer: "B lymphocyte"},
+      {answer: "T lymphocyte"},
+      {answer: "neutrophil"}
+    ],
+    correct: "B lymphocyte"
+  },
+  {
+    question: "Which lymphatic capillary absorbs fatty acids and glycerol from the small intestine?",
+    answers: [
+      {answer: "lymph node"},
+      {answer: "lacteal"},
+      {answer: "lactate"},
+      {answer: "parotid"}
+    ],
+    correct: "lacteal"
+  },
+
+  {
+    question: "Which cell produces antibodies?",
+    answers: [
+      {answer: "macrophage"},
+      {answer: "B lymphocyte"},
+      {answer: "T lymphocyte"},
+      {answer: "neutrophil"}
+    ],
+    correct: "B lymphocyte"
+  },
+  {
+    question: "Which lymph node is associated with the small intestine?",
+    answers: [
+      {answer: "popliteal"},
+      {answer: "peyers patches"},
+      {answer: "inguinal"},
+      {answer: "parotid"}
+    ],
+    correct: "peyers patches"
+  },
+
+  {
+    question: "Blood plasma is a component of?",
+    answers: [
+      {answer: "intracellular fluid"},
+      {answer: "transcellular fluid"},
+      {answer: "extracellular fluid"},
+      {answer: "intercellular fluid"}
+    ],
+    correct: "extracellular fluid"
+  },
+
+  {
+    question: "Non functional lymphatic tissue in the adult- adjacent to heart?",
+    answers: [
+      {answer: "popliteal"},
+      {answer: "peyers patches"},
+      {answer: "thymus"},
+      {answer: "parotid"}
+    ],
+    correct: "thymus"
+  },
+
+  {
+    question: "Which cell produces cytotoxins?",
+    answers: [
+      {answer: "macrophage"},
+      {answer: "B lymphocyte"},
+      {answer: "T lymphocyte"},
+      {answer: "neutrophil"}
+    ],
+    correct: "T lymphocyte"
+  },
+
+  {
+    question: "Which cell produces cellular immune response?",
+    answers: [
+      {answer: "macrophage"},
+      {answer: "B lymphocyte"},
+      {answer: "T lymphocyte"},
+      {answer: "neutrophil"}
+    ],
+    correct: "T lymphocyte"
+  },
+  {
+    question: "Lymphatic duct that arises in the abdomen?",
+    answers: [
+      {answer: "right lymphatic duct"},
+      {answer: "aortic"},
+      {answer: "thoracic"},
+      {answer: "lacteal"}
+    ],
+    correct: "thoracic"
+  },
+  {
+    question: "Amount of air exhaled in a normal breath?",
+    answers: [
+      {answer: "total lung capacity"},
+      {answer: "tidal lung volume"},
+      {answer: "vital lung capacity"},
+      {answer: "residual volume"}
+    ],
+    correct: "tidal lung volume"
+  },
+
+  {
+    question: "Maximum amount of air exhaled forcefully?",
+    answers: [
+      {answer: "total lung capacity"},
+      {answer: "tidal lung volume"},
+      {answer: "vital lung capacity"},
+      {answer: "residual volume"}
+    ],
+    correct: "vital lung capacity"
+  },
+
+  {
+    question: "Amount of air left in the airways and lungs after exhalation?",
+    answers: [
+      {answer: "total lung capacity"},
+      {answer: "dead space"},
+      {answer: "vital lung capacity"},
+      {answer: "residual volume"}
+    ],
+    correct: "residual volume"
+  },
+
+  {
+    question: "Site of gaseous exchange in the lungs?",
+    answers: [
+      {answer: "bronchioles"},
+      {answer: "alveoli"},
+      {answer: "larynx"},
+      {answer: "pleural membranes"}
+    ],
+    correct: "alveoli"
+  },
+  {
+    question: "location of vocal cords?",
+    answers: [
+      {answer: "trachea"},
+      {answer: "oesophagus"},
+      {answer: "hyoid apparatus"},
+      {answer: "larynx"}
+    ],
+    correct: "larynx"
+  },
+  {
+    question: "Role of Hering-breur reflex?",
+    answers: [
+      {answer: "prevent over inspiration"},
+      {answer: "prevent over exhalation"},
+      {answer: "limits heart rate"},
+      {answer: "slows heart rate"}
+    ],
+    correct: "prevents over inspiration"
+  },
+  {
+    question: "Movement of the diaphragm in respiration?",
+    answers: [
+      {answer: "contracts and moves caudally"},
+      {answer: "contracts and moves cranially"},
+      {answer: "relaxes and moves cranially"},
+      {answer: "relax and moves ventrally"}
+    ],
+    correct: "contracts and moves caudally"
+  },
+  {
+    question: "component of the respiratory and digestive systems?",
+    answers: [
+      {answer: "trachea"},
+      {answer: "oesophagus"},
+      {answer: "pharynx"},
+      {answer: "larynx"}
+    ],
+    correct: "pharynx"
+  },
+  {
+    question: "Prevents food from entering the nasal chambers when swallowing?",
+    answers: [
+      {answer: "soft palate"},
+      {answer: "epiglottis"},
+      {answer: "pharynx"},
+      {answer: "larynx"}
+    ],
+    correct: "soft palate"
+  },
+
+  {
+    question: "Fourth lobe of the right lung of the dog?",
+    answers: [
+      {answer: "apical"},
+      {answer: "cardiac"},
+      {answer: "accessory"},
+      {answer: "none of the above"}
+    ],
+    correct: "accessory"
+  },
+
+  {
+    question: "The accessory lobe of the right lung of the dog?",
+    answers: [
+      {answer: "apical"},
+      {answer: "third lobe"},
+      {answer: "fourth lobe"},
+      {answer: "none of the above"}
+    ],
+    correct: "fourth lobe"
+  },
+
+  {
+    question: "Chemoreceptors that monitor the oxygen and pH levels of the blood are situated in the?",
+    answers: [
+      {answer: "lungs"},
+      {answer: "aortic and carotid bodies, medulla oblongata"},
+      {answer: "hypothalamus"},
+      {answer: "pancreas"}
+    ],
+    correct: "aortic and carotid bodies, medulla oblongata"
+  },
+
+  {
+    question: "Percentage of oxygen in inhaled air?",
+    answers: [
+      {answer: "16"},
+      {answer: "21"},
+      {answer: "5"},
+      {answer: "4"}
+    ],
+    correct: "21"
+  },
+
+  {
+    question: "Percentage of oxygen in exhaled air?",
+    answers: [
+      {answer: "16"},
+      {answer: "21"},
+      {answer: "5"},
+      {answer: "4"}
+    ],
+    correct: "16"
+  },
+
+  {
+    question: "Percentage of oxygen used up on inspiration?",
+    answers: [
+      {answer: "16"},
+      {answer: "21"},
+      {answer: "5"},
+      {answer: "4"}
+    ],
+    correct: "5"
+  },
+
+  {
+    question: "Which is none functional in the snake?",
+    answers: [
+      {answer: "apical lobe of lung"},
+      {answer: "third lobe of right lung"},
+      {answer: "entire left lung"},
+      {answer: "none of the above"}
+    ],
+    correct: "entire left lung"
+  },
+
+  {
+    question: "The trachea rings are made up of?",
+    answers: [
+      {answer: "firbocartilage"},
+      {answer: "spongey cartilage"},
+      {answer: "hyaline cartilage"},
+      {answer: "epiphyseal growth plates"}
+    ],
+    correct: "hyaline cartilage"
+  },
+
+  {
+    question: "Gaseous exchange takes place in a birds?",
+    answers: [
+      {answer: "lung alveoli"},
+      {answer: "syrinx"},
+      {answer: "bronchi"},
+      {answer: "parabronchi"}
+    ],
+    correct: "parabronchi"
   }
 ];
