@@ -1,73 +1,76 @@
 "use strict";
-
 const express = require('express');
 const router = new express.Router();
-const jsonQuestions = require('../routes/questions');
-const reset = jsonQuestions.load();
-const questions = [];
-
-for (var i = 0; i < reset.length; i++) {
-  questions.push(reset[i]);
-}
-
-const results = {
-  correctQuestions: [],
-  incorrectQuestions: [],
-  correctTotal: 0,
-  incorrectTotal: 0
-};
+const allQuestions = require('../routes/questions');
 
 router.get('/', function (req, res) {
+  const qOrder = getOrder();
+  res.cookie('qOrder', qOrder);
   res.redirect('questions/1');
 });
 
 router.get('/questions/:id', function (req, res) {
-  const question = shuffle(questions).pop();
-  question.answers = shuffle(question.answers);
+  const qOrder = req.cookies.qOrder;
+  const getQ = shuffle(qOrder).pop();
+  const question = allQuestions[getQ];
+  res.cookie('qOrder', qOrder);
 
   if (question) {
-    question.number = parseInt(req.params.id, 10);
-    question.nextNumber = question.number + 1;
+    question.number = req.params.id;
+    question.arrayPos = getQ;
     res.render('questions.html', {question});
   } else {
-    res.redirect('/results');
+    res.redirect('results');
   }
 });
 
 router.post('/questions/:id', function (req, res) {
-  const questionNumber = parseInt(req.body.number, 10);
-  const nextQuestion = questionNumber + 1;
-  const correct = req.body.correct;
-  const answer = req.body.answer;
-console.log(req.body)
-  if (answer.toLowerCase() === correct.toLowerCase()) {
-    results.correctTotal++;
-    results.correctQuestions.push({question: req.body.question, answer: req.body.answer, correct: req.body.correct});
+  const nextQuestion = parseInt(req.params.id, 10) + 1;
+  const correct = req.body.correct.toLowerCase();
+  const answer = req.body.answer.toLowerCase();
+  let correctArray;
+  let incorrectArray;
+
+  if (req.cookies.correct) {
+    correctArray = JSON.parse(req.cookies.correct);
   } else {
-    results.incorrectTotal++;
-    results.incorrectQuestions.push({question: req.body.question, answer: req.body.answer, correct: req.body.correct});
+    correctArray = [];
   }
 
-  res.redirect(nextQuestion);
+  if (req.cookies.incorrect) {
+    incorrectArray = JSON.parse(req.cookies.incorrect);
+  } else {
+    incorrectArray = [];
+  }
+
+  if (answer === correct) {
+    correctArray.push(req.body.arrayPos);
+    res.cookie('correct', JSON.stringify(correctArray));
+  } else {
+    incorrectArray.push(req.body.arrayPos);
+    res.cookie('incorrect', JSON.stringify(incorrectArray));
+  }
+  res.redirect(`${nextQuestion}`);
 });
 
 router.get('/results', function (req, res) {
-  var total = results.correctTotal + results.incorrectTotal;
+  const correctArray = JSON.parse(req.cookies.correct);
+  const incorrectArray = JSON.parse(req.cookies.incorrect);
+
+  const results = {
+    correctQuestions: correctArray,
+    incorrectQuestions: incorrectArray,
+    correctTotal: correctArray.length,
+    incorrectTotal: incorrectArray.length
+  };
+
+  const total = results.correctTotal + results.incorrectTotal;
   results.percentage = Math.round((results.correctTotal / total) * 100);
-  res.render('results.html', {results});
+  res.render('results.html', {results, allQuestions});
 });
 
 router.get('/reset', function (req, res) {
-  for (var i = 0; i < reset.length; i++) {
-    questions.push(reset[i]);
-  }
 
-  results.correctQuestions = [];
-  results.incorrectQuestions = [];
-  results.correctTotal = 0;
-  results.incorrectTotal = 0;
-
-  res.redirect('/');
 });
 
 module.exports = router;
@@ -88,3 +91,12 @@ function shuffle(array) {
   return array;
 }
 
+function getOrder() {
+  const qOrder = [];
+
+  for (let i = 0; i < allQuestions.length; i++) {
+    qOrder.push(i);
+  }
+  shuffle(qOrder);
+  return qOrder;
+}

@@ -42,9 +42,9 @@
 
         <div id="incorrect-wrapper" style="display:none;">
           {% for incorrect in results.incorrectQuestions %}
-            <h4>{{ incorrect.question }}</h4>
-            <p><span class="red-text">{{ incorrect.answer }}</span></p>
-            <p><span class="grey-text">{{ incorrect.correct }}</span></p>
+            <h4>{{allQuestions[incorrect].question}}</h4>
+            <p><span class="red-text">{{ allQuestions[incorrect].answer }}</span></p>
+            <p><span class="green-text">{{ allQuestions[incorrect].correct }}</span></p>
             <hr />
           {% endfor %}
         </div>
@@ -58,8 +58,8 @@
 
         <div id="correct-wrapper" style="display:none;">
           {% for correct in results.correctQuestions %}
-            <h4>{{ correct.question }}</h4>
-            <p><span class="green-text">{{ correct.answer }}</span></p>
+            <h4>{{ allQuestions[correct].question }}</h4>
+            <p><span class="green-text">{{ allQuestions[correct].correct }}</span></p>
             <hr />
           {% endfor %}
         </div>
