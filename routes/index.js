@@ -50,6 +50,7 @@ router.post('/questions/:id', function (req, res) {
 router.get('/results', function (req, res) {
   const correctArray = JSON.parse(req.cookies.correct);
   const incorrectArray = JSON.parse(req.cookies.incorrect);
+  const show = {correct: false, incorrect: false};
 
   const results = {
     correctQuestions: correctArray,
@@ -60,7 +61,16 @@ router.get('/results', function (req, res) {
 
   const total = results.correctTotal + results.incorrectTotal;
   results.percentage = Math.round((results.correctTotal / total) * 100);
-  res.render('results.html', {results, allQuestions});
+
+  if (results.correctTotal > 0) {
+    show.correct = true;
+  }
+
+  if (results.incorrectTotal > 0) {
+    show.incorrect = true;
+  }
+
+  res.render('results.html', {results, allQuestions, show});
 });
 
 router.get('/reset', function (req, res) {

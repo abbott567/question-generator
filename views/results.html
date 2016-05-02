@@ -35,7 +35,7 @@
     <div class="col-md-8 col-md-offset-2">
       <hr />
 
-      {% if results.incorrectQuestions %}
+      {% if show.incorrect %}
 
         <h2>Incorrect:</h2>
         <a id="reveal-incorrect" href="#">Show incorrect answers</a>
@@ -52,7 +52,7 @@
 
       <br />
 
-      {% if results.correctQuestions %}
+      {% if show.correct %}
         <h2>Correct:</h2>
         <a id="reveal-correct" href="#">Show correct answers</a>
 
