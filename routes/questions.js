@@ -125,7 +125,7 @@ module.exports = [
     answers: [
       {answer: "water will move out by osmosis"},
       {answer: "water will enter by osmosis"},
-      {answer: "water will ove in both directions"},
+      {answer: "water will move in both directions"},
       {answer: "no water movement"}
     ],
     correct: "water will enter by osmosis"
@@ -407,7 +407,7 @@ module.exports = [
   },
 
   {
-    question: "The followng is not a connective tissue:",
+    question: "The following is not a connective tissue:",
     answers: [
       {answer: "blood"},
       {answer: "muscle"},
@@ -440,7 +440,7 @@ module.exports = [
   },
 
   {
-    question: "The follwing stabilises a synovial joint:",
+    question: "The following stabilises a synovial joint:",
     answers: [
       {answer: "ligament"},
       {answer: "tendon"},
@@ -451,7 +451,7 @@ module.exports = [
   },
 
   {
-    question: "connective tissue able to withstand pressue from different directions:",
+    question: "connective tissue able to withstand pressure from different directions:",
     answers: [
       {answer: "regular dense"},
       {answer: "irregular dense"},
@@ -627,7 +627,7 @@ module.exports = [
   },
 
   {
-    question: "suffic centesis means:",
+    question: "suffix centesis means:",
     answers: [
       {answer: "pain"},
       {answer: "deificency"},
@@ -638,7 +638,7 @@ module.exports = [
   },
 
   {
-    question: "Suffix 'phagia' 'means:",
+    question: "Suffix 'phagia' means:",
     answers: [
       {answer: "swallowing"},
       {answer: "mentation"},
@@ -728,7 +728,7 @@ module.exports = [
   {
     question: "allows the neuron to receive oxygen",
     answers: [
-      {answer: "schwann cekk"},
+      {answer: "schwann cell"},
       {answer: "myelin sheath"},
       {answer: "nodes of ranvier"},
       {answer: "dendrons"}
@@ -792,7 +792,7 @@ module.exports = [
   },
 
   {
-    question: "the uit of contraction in a voluntary muscle is:",
+    question: "the unit of contraction in a voluntary muscle is:",
     answers: [
       {answer: "sarcomere"},
       {answer: "sarcolemma"},
@@ -1140,7 +1140,7 @@ module.exports = [
       {answer: "sacrum"},
       {answer: "humerus"}
     ],
-    correct: "scapula"
+    correct: "sacrum"
   },
 
   {
@@ -1232,7 +1232,7 @@ module.exports = [
   },
 
   {
-    question: "Th condyle on a bone is?",
+    question: "A condylar process on a bone is?",
     answers: [
       {answer: "depressed are below the scapula bone"},
       {answer: "hole in a bone"},
@@ -1254,7 +1254,7 @@ module.exports = [
   },
 
   {
-    question: "A depression is a bone is known as?",
+    question: "A depression in a bone is known as?",
     answers: [
       {answer: "fossa"},
       {answer: "foramen"},
@@ -1408,7 +1408,7 @@ module.exports = [
   },
 
   {
-    question: "The location of the grater and lesser trochanters is?",
+    question: "The location of the greater and lesser trochanters is?",
     answers: [
       {answer: "humerus"},
       {answer: "tibia"},
@@ -1628,17 +1628,6 @@ module.exports = [
   },
 
   {
-    question: "synarthrosis joint?",
-    answers: [
-      {answer: "temporomandibular"},
-      {answer: "skull sutures"},
-      {answer: "between vertebrae bodies"},
-      {answer: "mandibular symphysis"}
-    ],
-    correct: "temporomandibular"
-  },
-
-  {
     question: "Stabilise the joint from the outside of the joint capsule?",
     answers: [
       {answer: "menisci"},
@@ -1814,7 +1803,7 @@ module.exports = [
   },
 
   {
-    question: "Which does not insert on the line alba?",
+    question: "Which does not insert on the linea alba?",
     answers: [
       {answer: "external abdominal oblique"},
       {answer: "transversus abdominus"},
@@ -1825,7 +1814,7 @@ module.exports = [
   },
 
   {
-    question: "Which inserts on the spin of the scapula?",
+    question: "Which inserts on the spine of the scapula?",
     answers: [
       {answer: "infraspinatus"},
       {answer: "transversus abdominus"},
@@ -1924,7 +1913,7 @@ module.exports = [
   },
 
   {
-    question: "Carries oxygenated blood to the right atrium?",
+    question: "Carries deoxygenated blood to the right atrium?",
     answers: [
       {answer: "azygous vein"},
       {answer: "coronary artery"},
@@ -2113,7 +2102,7 @@ module.exports = [
       {answer: "howell jolly bodies"},
       {answer: "monocyte"}
     ],
-    correct: "neutrophil"
+    correct: "howell jolly bodies"
   },
 
   {
@@ -2128,7 +2117,7 @@ module.exports = [
   },
 
   {
-    question: "Worn out erythrocytes takes place in?",
+    question: "Destruction of worn out erythrocytes takes place in?",
     answers: [
       {answer: "spleen"},
       {answer: "pancreas"},
@@ -2139,7 +2128,7 @@ module.exports = [
   },
 
   {
-    question: "Which are agranular leucocytes?",
+    question: "Which are granular leucocytes?",
     answers: [
       {answer: "neutrophils, leucocytes"},
       {answer: "eosinophils, basophils, neutrophils"},
@@ -2150,7 +2139,7 @@ module.exports = [
   },
 
   {
-    question: "Which agranular leucocytes absorbs acidic stain?",
+    question: "Which granular leucocytes absorbs acidic stain?",
     answers: [
       {answer: "neutrophils"},
       {answer: "eosinophils"},
@@ -2161,7 +2150,7 @@ module.exports = [
   },
 
   {
-    question: "Which agranular leucocytes absorbs basic stain?",
+    question: "Which granular leucocytes absorbs basic stain?",
     answers: [
       {answer: "neutrophils"},
       {answer: "eosinophils"},
@@ -2172,7 +2161,7 @@ module.exports = [
   },
 
   {
-    question: "Which agranular leucocytes absorbs neutral stain?",
+    question: "Which granular leucocytes absorbs neutral stain?",
     answers: [
       {answer: "neutrophils"},
       {answer: "eosinophils"},
@@ -2183,7 +2172,7 @@ module.exports = [
   },
 
   {
-    question: "Which agranular leucocytes secretes histamine?",
+    question: "Which granular leucocytes secretes histamine?",
     answers: [
       {answer: "neutrophils"},
       {answer: "eosinophils"},
@@ -2700,9 +2689,9 @@ module.exports = [
   },
 
   {
-    question: "Producer of success enteric?",
+    question: "Producer of succus entericus?",
     answers: [
-      {answer: "crypts f lieberkuhn"},
+      {answer: "crypts of lieberkuhn"},
       {answer: "parietal cells"},
       {answer: "brunners glands"},
       {answer: "lacteals"}
@@ -3049,5 +3038,335 @@ module.exports = [
       {answer: "liver"}
     ],
     correct: "liver"
+  },
+
+  {
+    question: "Penis points caudally",
+    answers: [
+      {answer: "Horse"},
+      {answer: "Dog"},
+      {answer: "Cat"},
+      {answer: "Rabbit"}
+    ],
+    correct: "Cat"
+  },
+
+  {
+    question: "Influences position of the testes in relation to temperature changes",
+    answers: [
+      {answer: "Spermatic cord"},
+      {answer: "Epididymis"},
+      {answer: "Retractor muscle"},
+      {answer: "Cremaster muscle"}
+    ],
+    correct: "Cremaster muscle"
+  },
+
+  {
+    question: "Fertilisation of the ova takes place in the",
+    answers: [
+      {answer: "Ovary"},
+      {answer: "Oviduct"},
+      {answer: "Infundibulum"},
+      {answer: "Uterus"}
+    ],
+    correct: "Oviduct"
+  },
+
+  {
+    question: "Spontaneous ovulation takes place in the",
+    answers: [
+      {answer: "Rabbit"},
+      {answer: "Cat"},
+      {answer: "Ferret"},
+      {answer: "Guinea pig"}
+    ],
+    correct: "Guinea pig"
+  },
+
+  {
+    question: "Oestrogen production in the male takes place in the",
+    answers: [
+      {answer: "Prostate gland"},
+      {answer: "Leydig cells"},
+      {answer: "Seminiferous tubules"},
+      {answer: "Sertoli cells"}
+    ],
+    correct: "Sertoli cells"
+  },
+
+  {
+    question: "Oxytocin secretion stimulates",
+    answers: [
+      {answer: "Mammary development"},
+      {answer: "Fall in blood calcium levels"},
+      {answer: "Induced ovulation"},
+      {answer: "Smooth muscle contractions"}
+    ],
+    correct: "Smooth muscle contractions"
+  },
+
+  {
+    question: "External opening of the female reproductive tract",
+    answers: [
+      {answer: "Vestibule"},
+      {answer: "Vulva"},
+      {answer: "Vagina"},
+      {answer: "Urethral orifice"}
+    ],
+    correct: "Vulva"
+  },
+
+  {
+    question: "Testosterone is produced by the",
+    answers: [
+      {answer: "Epididymis"},
+      {answer: "Sertoli cells"},
+      {answer: "Leydig cells"},
+      {answer: "Prostate gland"}
+    ],
+    correct: "Leydig cells"
+  },
+
+  {
+    question: "Function of the fimbriae",
+    answers: [
+      {answer: "Draw ova into the oviduct"},
+      {answer: "Produce ova"},
+      {answer: "Lubricates the birth passage"},
+      {answer: "Development of the ova."}
+    ],
+    correct: "Draw ova into the oviduct"
+  },
+
+  {
+    question: "Does not have a bulbo-urethral gland",
+    answers: [
+      {answer: "Horse"},
+      {answer: "Guinea pig"},
+      {answer: "Dog"},
+      {answer: "Cat"}
+    ],
+    correct: "Dog"
+  },
+
+  {
+    question: " Hormone that maintains a pregnancy",
+    answers: [
+      {answer: "Prolactin"},
+      {answer: "Oxytocin"},
+      {answer: "Progesterone"},
+      {answer: "Oestrogen"}
+    ],
+    correct: "Progesterone"
+  },
+
+  {
+    question: "The os penis of a dog lies",
+    answers: [
+      {answer: "Ventral to the urethra"},
+      {answer: "Dorsal to the urethra"},
+      {answer: "Caudal to the prostate"},
+      {answer: "In the centre of the urethra."}
+    ],
+    correct: "Dorsal to the urethra"
+  },
+
+  {
+    question: "The bitch and the queen are described as",
+    answers: [
+      {answer: "Primigravid"},
+      {answer: "Uniparous"},
+      {answer: "Multigravid"},
+      {answer: "Multiparous"}
+    ],
+    correct: "Multiparous"
+  },
+
+  {
+    question: "The fold of the peritoneum supporting the uterus within the abdominal cavity is the",
+    answers: [
+      {answer: "Broad ligament"},
+      {answer: "Mesosalpinx"},
+      {answer: "Mesovarium"},
+      {answer: "Mesocolon"}
+    ],
+    correct: "Broad ligament"
+  },
+
+  {
+    question: "The queen is described as being",
+    answers: [
+      {answer: "A spontaneous ovulatory and seasonally polyoestrous"},
+      {answer: "An induced ovulator and monoestrous"},
+      {answer: "An induced ovulator and seasonally polyoestrous"},
+      {answer: "A spontaneous ovulatory and monoestrous."}
+    ],
+    correct: "An induced ovulator and seasonally polyoestrous"
+  },
+
+  {
+    question: "Which of the following species gives birth to precocial young",
+    answers: [
+      {answer: "Mustela putorius furo"},
+      {answer: "Oryctolagus cuniculus"},
+      {answer: "Mus musculus"},
+      {answer: "Chinchilla lanigera"}
+    ],
+    correct: "Chinchilla lanigera"
+  },
+
+  {
+    question: "Which body system does not open into the cloaca of a snake",
+    answers: [
+      {answer: "Digestive"},
+      {answer: "Urinary"},
+      {answer: "Circulatory"},
+      {answer: "Reproductive"}
+    ],
+    correct: "Circulatory"
+  },
+
+  {
+    question: "Which of the following accurately describes the reproductive pattern of the mare",
+    answers: [
+      {answer: "Short day breeder, seasonally polyoestrous and an induced ovulatory"},
+      {answer: "Long day breeder, seasonally polyoestrous, and a spontaneous ovulator"},
+      {answer: "Long day breeder, monoestrous, and an induced ovulator"},
+      {answer: "Short day breeder, monoetrous, and a spontaneous ovulator"}
+    ],
+    correct: "Long day breeder, seasonally polyoestrous, and a spontaneous ovulator"
+  },
+
+  {
+    question: "The oestrous cycle of the bitch is divided into four stages. In order these are",
+    answers: [
+      {answer: "Proetrus, Anoestrus, Dioestrus, Oestrus"},
+      {answer: "Oestrus, Anoestrus, Dioestrus, Proestrus"},
+      {answer: "Proestrus, Dioestrus, Oestrus, Anoestrus"},
+      {answer: "Proestrus, Oestrus, Dioestrus, Anoestrus"}
+    ],
+    correct: "Proestrus, Oestrus, Dioestrus, Anoestrus"
+  },
+
+  {
+    question: "Which one of the following is not a role of oestrogen in the female",
+    answers: [
+      {answer: "Development of the mammary glands"},
+      {answer: "Thickening of the endometrium of the uterus"},
+      {answer: "Maintaining a pregnancy"},
+      {answer: "Receptive to a male for mating"}
+    ],
+    correct: "Maintaining a pregnancy"
+  },
+
+  {
+    question: " A surge of this hormone stimulates ovulatuion",
+    answers: [
+      {answer: "Follicle Stimulating Hormone (FSH)"},
+      {answer: "Luteinising Hormone (LH)"},
+      {answer: "Oestradiol (Oestrogen)"},
+      {answer: "Progesterone"}
+    ],
+    correct: "Luteinising Hormone (LH)"
+  },
+
+  {
+    question: "This hormone stimulates the maturation of the Graafian Follicle",
+    answers: [
+      {answer: "LH"},
+      {answer: "Oxytocin"},
+      {answer: "Oestrogen"},
+      {answer: "FSH"}
+    ],
+    correct: "FSH"
+  },
+
+  {
+    question: "The inner layer of the uterus is the",
+    answers: [
+      {answer: "Myometrium"},
+      {answer: "Endometrium"},
+      {answer: "Mesometrium"},
+      {answer: "Endodermis"}
+    ],
+    correct: "Endometrium"
+  },
+
+  {
+    question: "The layer of peritoneum covering the testes is known as the",
+    answers: [
+      {answer: "Tunica externa"},
+      {answer: "Tunica vasculosa"},
+      {answer: "Tunica vaginalis"},
+      {answer: "Tunica spermatica"}
+    ],
+    correct: "Tunica vaginalis"
+  },
+
+  {
+    question: "This hormone is responsible for milk production, and high levels may result in a false pregnancy",
+    answers: [
+      {answer: "Oxytocin"},
+      {answer: "Prostaglandin 2α"},
+      {answer: "Relaxin"},
+      {answer: "Prolactin"}
+    ],
+    correct: "Prolactin"
+  },
+
+  {
+    question: "In the testes the interstitial cells are also called",
+    answers: [
+      {answer: "Accessory cells"},
+      {answer: "Leydig cells"},
+      {answer: "Seminiferous tubules"},
+      {answer: "Sertoli cells"}
+    ],
+    correct: "Leydig cells"
+  },
+
+  {
+    question: "The main hormone secreted by the corpus luteum of the ovary",
+    answers: [
+      {answer: "Oxytocin"},
+      {answer: "FSH"},
+      {answer: "Oestrogen"},
+      {answer: "Progesterone"}
+    ],
+    correct: "Progesterone"
+  },
+
+  {
+    question: "Which hormone is responsible for uterine smooth muscle contractions and milk “let down”",
+    answers: [
+      {answer: "Relaxin"},
+      {answer: "Prolactin"},
+      {answer: "Oxytocin"},
+      {answer: "Progesterone "}
+    ],
+    correct: "Oxytocin"
+  },
+
+  {
+    question: " At parturition dilation of the cervix and a loosening of the pelvic joints is due to the secretion of",
+    answers: [
+      {answer: "Prolactin"},
+      {answer: "Progesterone"},
+      {answer: "Adrenaline"},
+      {answer: "Relaxin"}
+    ],
+    correct: "Relaxin"
+  },
+
+  {
+    question: "Gonadotropin Releasing Hormone (GnRH) is released by the",
+    answers: [
+      {answer: "Cerebrum"},
+      {answer: "Pituitary gland"},
+      {answer: "Hypothalamus"},
+      {answer: "Medulla oblongata"}
+    ],
+    correct: "Hypothalamus"
   }
 ];
