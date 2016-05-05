@@ -3368,5 +3368,533 @@ module.exports = [
       {answer: "Medulla oblongata"}
     ],
     correct: "Hypothalamus"
+  },
+
+  {
+    question: "Structure lined with simple cuboidal epithelium :",
+    answers: [
+      {answer: "Bladder"},
+      {answer: "Kidney tubules"},
+      {answer: "Lungs"},
+      {answer: "Small intestine"}
+    ],
+    correct: "Kidney tubules"
+  },
+
+  {
+    question: "Organ receives blood from the caudal tail vein in a snake :",
+    answers: [
+      {answer: "Liver"},
+      {answer: "Stomach"},
+      {answer: "Kidney"},
+      {answer: "Spleen"}
+    ],
+    correct: "Kidney"
+  },
+
+  {
+    question: "Physiological process taking place in the renal nephrons :",
+    answers: [
+      {answer: "Assimilation"},
+      {answer: "Phagocytosis"},
+      {answer: "Reabsorption"},
+      {answer: "Storage"}
+    ],
+    correct: "Reabsorption"
+  },
+
+  {
+    question: "Angiotensin converting enzyme (ACE) converts :",
+    answers: [
+      {answer: "Aldosterone to angiotensin I"},
+      {answer: "Angiotensin I  to  Angiotensin II"},
+      {answer: "Angiotensin II  to  Renin"},
+      {answer: "Angiotensin I  to  erythropoietin"}
+    ],
+    correct: "Angiotensin I  to  Angiotensin II"
+  },
+
+  {
+    question: "In the urinary system this is the location of the trigone :",
+    answers: [
+      {answer: "Kidney"},
+      {answer: "Ureter"},
+      {answer: "Urethra"},
+      {answer: "Bladder"}
+    ],
+    correct: "Bladder"
+  },
+
+  {
+    question: "Structure located on the inner aspect of the kidney :",
+    answers: [
+      {answer: "Renal capsule"},
+      {answer: "Renal cortex"},
+    {answer: "Renal medulla"},
+    {answer: "Renal hilus"}
+    ],
+    correct: "Renal medulla"
+  },
+
+  {
+    question: "Urine is moved through the ureter by :",
+    answers: [
+      {answer: "Gravity"},
+      {answer: "Peristalsis"},
+      {answer: "Diffusion"},
+      {answer: "Cilia"}
+    ],
+    correct: "Peristalsis"
+  },
+
+  {
+    question: "Monitors arterial blood pressure :",
+    answers: [
+      {answer: "Chemoreceptors"},
+      {answer: "Thermoreceptors"},
+      {answer: "Baroreceptors"},
+      {answer: "Proprioreceptors"}
+    ],
+    correct: "Baroreceptors"
+  },
+
+  {
+    question: "Antidiuretic hormone is responsible for :",
+    answers: [
+      {answer: "Vasoconstriction"},
+      {answer: "Sodium excretion"},
+      {answer: "Potassium excretion"},
+      {answer: "Water reabsorption"}
+    ],
+    correct: "Water reabsorption"
+  },
+
+  {
+    question: " Which of the following is false :",
+    answers: [
+      {answer: "The position of the kidney in the abdomen is described as retroperitoneal"},
+      {answer: "The right kidney is caudal to the left kidney"},
+      {answer: "The kidneys lie in the cranial abdomen closely attached to the lumbar hypaxial muscles"},
+      {answer: "The ovaries and adrenal glands lie close to the cranial pole of each kidney"}
+    ],
+    correct: "The right kidney is caudal to the left kidney"
+  },
+
+  {
+    question: "Which of the following does not occur in the proximal convoluted tubule (PCT)",
+    answers: [
+      {answer: "Secretion of penicillin"},
+      {answer: "Reabsorption of glucose"},
+      {answer: "Control of acid/base balance"},
+      {answer: "Reabsorption of water"}
+    ],
+    correct: "Control of acid/base balance"
+  },
+
+  {
+    question: "Which of the following statements is false :",
+    answers: [
+      {answer: "Aldosterone is secreted by the anterior pituitary located at the base of the brain"},
+      {answer: "Aldosterone acts mainly on the Distal Convoluted Tubule (DCT) and controls the reabsorption of sodium"},
+      {answer: "Anti-diuretic Hormone (ADH) is secreted when an animal is dehydrated"},
+      {answer: "The release of aldosterone is stimulated by angiotensin"}
+    ],
+    correct: "Aldosterone is secreted by the anterior pituitary located at the base of the brain"
+  },
+
+  {
+    question: "Which of the following hormones does not have an effect on the kidney :",
+    answers: [
+      {answer: "Renin"},
+      {answer: "Aldosterone"},
+      {answer: "Anti-diuretic hormone"},
+      {answer: "Erythropoietin"}
+    ],
+    correct: "Erythropoietin"
+  },
+
+  {
+    question: "If an animal is over-hydrated which of the following will happen:",
+    answers: [
+      {answer: "Blood pressure will fall and will be detected by baroreceptors in the blood vessel walls"},
+      {answer: "Osmotic pressure will rise and the osmoreceptors will stimulate the thirst centre"},
+      {answer: "Secretion of ADH will decrease and a large volume of dilute urine will be excreted"},
+      {answer: "Water will be reabsorbed into the capillaries of the renal medulla from the descending loop of Henle"}
+    ],
+    correct: "Secretion of ADH will decrease and a large volume of dilute urine will be excreted"
+  },
+
+  {
+    question: "Normal urine contains  ",
+    answers: [
+      {answer: "Glucose, water, urea"},
+      {answer: "Water, salts/electrolytes, urea"},
+      {answer: "Protein, amino acids, water"},
+      {answer: "Urea, crystals, glucose"}
+    ],
+    correct: "Water, salts/electrolytes, urea"
+  },
+
+  {
+    question: "If an animal is fed on a high salt diet, which of the following will not happen:",
+    answers: [
+      {answer: "The osmotic pressure of the plasma will rise"},
+      {answer: "Water will be drawn into the circulation by osmosis, increasing the circulating blood volume"},
+      {answer: "The animal will become hypertensive"},
+      {answer: "Aldosterone secretion will rise and sodium will be reabsorbed from the DCT"}
+    ],
+    correct: "Aldosterone secretion will rise and sodium will be reabsorbed from the DCT"
+  },
+
+  {
+    question: "Deamination is the :",
+    answers: [
+      {answer: "Conversion of glucose into glycogen"},
+      {answer: "Conversion of glycogen to glucose"},
+      {answer: "The breakdown of amino acids by the liver"},
+      {answer: "The synthesis of a protein from amino acids"}
+    ],
+    correct: "The breakdown of amino acids by the liver"
+  },
+
+  {
+    question: " Which part of the nephron is not located in the cortex of the kidney :",
+    answers: [
+      {answer: "Glomerulus"},
+      {answer: "Loop of Henle"},
+      {answer: "PCT"},
+      {answer: "DCT"}
+    ],
+    correct: "Loop of Henle"
+  },
+
+  {
+    question: "Blood enters the glomerulus via :",
+    answers: [
+      {answer: "Afferent arteriole"},
+      {answer: "Efferent arteriole"},
+      {answer: "Renal artery"},
+      {answer: "Afferent venule"}
+    ],
+    correct: "Afferent arteriole"
+  },
+
+  {
+    question: " This hormone is responsible for stimulating the red bone marrow during periods of hypoxia:",
+    answers: [
+      {answer: "Renin"},
+      {answer: "Anti-diuretic hormone"},
+      {answer: "Erythropoietin"},
+      {answer: "Oxytocin"}
+    ],
+    correct: "Erythropoietin"
+  },
+
+  {
+    question: "The process in which fluid passes from the blood capillaries of the glomerulus, through the basement membrane of the Bowman’s capsule and into the lumen of the nephron is called:",
+    answers: [
+      {answer: "Secretion"},
+      {answer: "Osmosis"},
+      {answer: "Reabsorption"},
+      {answer: "Ultrafiltration"}
+    ],
+    correct: "Ultrafiltration"
+  },
+
+  {
+    question: "Approximately what % of the glomeruli filtrate is reabsorbed along the nephron :",
+    answers: [
+      {answer: "50%"},
+      {answer: "75%"},
+      {answer: "80%"},
+      {answer: "90+%"}
+    ],
+    correct: "90+%"
+  },
+
+  {
+    question: " Osmosis is the :",
+    answers: [
+      {answer: "Movement of water from a strong to a weak solution through a semi-permeable membrane"},
+      {answer: "Movement of water from a hypertonic solution to a hypotonic solution through a semi-permeable membrane"},
+      {answer: "Movement of water from a weak to a strong solution through a semi-permeable membrane"},
+      {answer: "Movement of water between isotonic solutions"}
+    ],
+    correct: "Movement of water from a weak to a strong solution through a semi-permeable membrane"
+  },
+
+  {
+    question: "The movement of Na+Cl- from the ascending loop of Henle into the surrounding, interstitial tissue is through :",
+    answers: [
+      {answer: "Diffusion"},
+      {answer: "Osmosis"},
+      {answer: "Active transport"},
+      {answer: "Facilitated diffusion"}
+    ],
+    correct: "Active transport"
+  },
+
+  {
+    question: "When the pH of the blood plasma falls, the kidney will :",
+    answers: [
+      {answer: "Excrete H+ ions"},
+      {answer: "Reabsorb H+ ions"},
+      {answer: "Excrete K+ ions"},
+      {answer: "Excrete HCO3- ions (Bicarbonate)"}
+    ],
+    correct: "Excrete H+ ions"
+  },
+
+  {
+    question: "Prolactin",
+    answers: [
+      {answer: "Stimulates milk production"},
+      {answer: "Increases blood calcium levels"},
+      {answer: "Stimulates ovulation"},
+      {answer: "Contraction of smooth muscle"}
+    ],
+    correct: "Stimulates milk production"
+  },
+
+  {
+    question: "Not produced by the thyroid gland",
+    answers: [
+      {answer: "Thyroxine"},
+      {answer: "Tri-iodothyronine"},
+      {answer: "Calcitonin"},
+      {answer: "Thyroid Stimulating hormone"}
+    ],
+    correct: "Calcitonin"
+  },
+
+  {
+    question: "In the male oestrogen is produced by the :",
+    answers: [
+      {answer: "Prostate gland"},
+      {answer: "Leydig cells"},
+      {answer: "Spermatogonia"},
+      {answer: "Sertoli cells"}
+    ],
+    correct: "Sertoli cells"
+  },
+
+  {
+    question: "Parasympathetic nervous system innervates :",
+    answers: [
+      {answer: "Vasodilation"},
+      {answer: "Pupil constriction"},
+      {answer: "Pilo-erection of hairs"},
+      {answer: "Inhibition of gastric juices"}
+    ],
+    correct: "Pupil constriction"
+  },
+
+  {
+    question: "Produces nor-adrenaline :",
+    answers: [
+      {answer: "Adrenal cortex"},
+      {answer: "Adrenal medulla"},
+      {answer: "Pancreas"},
+      {answer: "Thyroid gland"}
+    ],
+    correct: "Adrenal medulla"
+  },
+
+  {
+    question: "Oxytocin stimulates :",
+    answers: [
+      {answer: "Mammary development"},
+      {answer: "A fall in blood calcium levels"},
+      {answer: "Spontaneous ovulation"},
+      {answer: "Smooth muscle contractions"}
+    ],
+    correct: "Smooth muscle contractions"
+  },
+
+  {
+    question: "Anti-diuretic hormone stimulates :",
+    answers: [
+      {answer: "Vasoconstriction"},
+      {answer: "Hypotension"},
+      {answer: "Excretion of Na+Cl-"},
+      {answer: "Water reabsorption"}
+    ],
+    correct: "Water reabsorption"
+  },
+
+  {
+    question: "Cells producing testosterone :",
+    answers: [
+      {answer: "Epididymis"},
+      {answer: "Sertoli cells"},
+      {answer: "Seminiferous tubules"},
+      {answer: "Leydig cells"}
+    ],
+    correct: "Leydig cells"
+  },
+
+  {
+    question: "Which of the following statements about endocrine glands is false :",
+    answers: [
+      {answer: "The secretion of thyroxine (T3 and T4) is regulated by a positive feed back system"},
+      {answer: "Endocrine glands are ductless"},
+      {answer: "Gonadotropin Releasing Hormone regulates the release of FSH and LH by the anterior pituitary gland"},
+      {answer: "Adrenocorticotropic Hormone (ACTH) stimulates the release of the glucocorticoids"}
+    ],
+    correct: "The secretion of thyroxine (T3 and T4) is regulated by a positive feed back system"
+  },
+
+  {
+    question: " Which of the following hormones are secreted by the posterior pituitary :",
+    answers: [
+      {answer: "ACTH"},
+      {answer: "TSH – thyroid stimulating hormone"},
+      {answer: "ADH – anti diuretic hormone"},
+      {answer: "FSH -  follicle stimulating hormone"}
+    ],
+    correct: "ADH – anti diuretic hormone"
+  },
+
+  {
+    question: " Which of the following is not secreted by adrenal cortex :",
+    answers: [
+      {answer: "Aldosterone"},
+      {answer: "Cortisol"},
+      {answer: "Oestrogen"},
+      {answer: "Epinephrine (Adrenalin)"}
+    ],
+    correct: "Epinephrine (Adrenalin)"
+  },
+
+  {
+    question: "In an emergency situation the sympathetic nervous system and epinephrine will stimulate :",
+    answers: [
+      {answer: "Constriction of the airways"},
+      {answer: "Secretion of digestive juices"},
+      {answer: "Pupil dilation"},
+      {answer: "A reduction in sweating"}
+    ],
+    correct: "Pupil dilation"
+  },
+
+  {
+    question: "Polydipsia, polyuria and bilateral symmetrical alopecia are symptoms of :",
+    answers: [
+      {answer: "Diabetes mellitus"},
+      {answer: "Diabetes insipidus"},
+      {answer: "Hyperthyroidism"},
+      {answer: "Cushing’s disease"}
+    ],
+    correct: "Cushing’s disease"
+  },
+
+  {
+    question: "Hypoglycaemia will stimulate the secretion of which pancreatic hormone :",
+    answers: [
+      {answer: "Glucagon"},
+      {answer: "Glycogen"},
+      {answer: "Insulin"},
+      {answer: "Somatostatin"}
+    ],
+    correct: "Glucagon"
+  },
+
+  {
+    question: "This mineral is required for the synthesis of T3 and T4 :",
+    answers: [
+      {answer: "Iron"},
+      {answer: "Sodium"},
+      {answer: "Calcium"},
+      {answer: "Iodine"}
+    ],
+    correct: "Iodine"
+  },
+
+  {
+    question: "Parathyroid hormone is responsible for :",
+    answers: [
+      {answer: "Activating osteoclasts to move calcium from the bones to the blood plasma"},
+      {answer: "Reducing calcium uptake from the small intestine"},
+      {answer: "Increasing the excretion of calcium in the urine"},
+      {answer: "Activating osteoblasts to move soluble calcium from the plasma to the bones"}
+    ],
+    correct: "Activating osteoclasts to move calcium from the bones to the blood plasma"
+  },
+
+  {
+    question: " Aldosterone is responsible for :",
+    answers: [
+      {answer: "Reabsorption of K+ from the kidney tubules to the bloodstream"},
+      {answer: "Excretion of Na+ in the urine"},
+      {answer: "Reabsorption of Na+ from the kidney tubules to the bloodstream"},
+      {answer: "Stimulating the reabsorption of Ca++ from the kidney tubules"}
+    ],
+    correct: "Reabsorption of Na+ from the kidney tubules to the bloodstream"
+  },
+
+  {
+    question: " Calcitonin is secreted by the :",
+    answers: [
+      {answer: "Parathyroid gland"},
+      {answer: "Anterior pituitary"},
+      {answer: "Thyroid gland"},
+      {answer: "Adrenal cortex"}
+    ],
+    correct: "Thyroid gland"
+  },
+
+  {
+    question: "The following are signs of hyperthyroidism :",
+    answers: [
+      {answer: "Bradycardia, lethargy, increase in weight"},
+      {answer: "Swollen abdomen, skin thinning, polydipsia"},
+      {answer: "Polyuria, hypotension, bone fractures"},
+      {answer: "Tachycardia, polyphagia, loss of weight"}
+    ],
+    correct: "Tachycardia, polyphagia, loss of weight"
+  },
+
+  {
+    question: "The pancreatic cells which secrete hormones are known as the :",
+    answers: [
+      {answer: "Acinar cells"},
+      {answer: "Crypts of Lieberkuhn"},
+      {answer: "Islets of Langerhans"},
+      {answer: "Pancreatic cortex"}
+    ],
+    correct: "Islets of Langerhans"
+  },
+
+  {
+    question: "Which one of the following is true :",
+    answers: [
+      {answer: "Glucagon is secreted by beta cells"},
+      {answer: "Insulin stimulates the conversion of plasma glucose to glycogen"},
+      {answer: "Glucagon stimulates body cells to take up glucose"},
+      {answer: "Insulin is secreted by alpha cells"}
+    ],
+    correct: "Insulin stimulates the conversion of plasma glucose to glycogen"
+  },
+
+  {
+    question: "Erythropoietin and renin are secreted by the :",
+    answers: [
+      {answer: "Kidneys"},
+      {answer: "Liver"},
+      {answer: "Thyroid Gland"},
+      {answer: "Pituitary gland"}
+    ],
+    correct: "Kidneys"
+  },
+
+  {
+    question: " Diabetes insipidus is due to a deficiency  of :",
+    answers: [
+      {answer: "Insulin"},
+      {answer: "Glucocorticoids"},
+      {answer: "Anti-diuretic hormone"},
+      {answer: "Thyroxine"}
+    ],
+    correct: "Anti-diuretic hormone"
   }
 ];
