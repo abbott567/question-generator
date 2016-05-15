@@ -242,7 +242,7 @@ module.exports = [
   },
 
   {
-    question: 'Which one of the following would increase the risks of pancreatitis if given in excess? ',
+    question: 'Which one of the following would increase the risks of pancreatitis if given in excess?',
     answers: [
       {answer: 'Carbohydrates'},
       {answer: 'Fats'},
@@ -429,7 +429,7 @@ module.exports = [
   },
 
   {
-    question: 'Which best describes agalactia? ',
+    question: 'Which best describes agalactia?',
     answers: [
       {answer: 'Absence of milk'},
       {answer: 'Absence of uterine contractions'},
@@ -745,5 +745,313 @@ module.exports = [
       {answer: 'Guinea Pig'}
     ],
     correct: 'Guinea Pig'
+  },
+
+  {
+    question: 'In cats, a deficiency of which nutrient can cause retinal degeneration?',
+    answers: [
+      {answer: 'Vitamin A'},
+      {answer: 'Taurine'},
+      {answer: 'Methionine'},
+      {answer: 'Tryptophan'}
+    ],
+    correct: 'Taurine'
+  },
+
+  {
+    question: 'The vitamin that affects the growth and mineralization of bones and increased calcium absorption from the intestines is:',
+    answers: [
+      {answer: 'Vitamin A'},
+      {answer: 'Thiamine'},
+      {answer: 'Niacin'},
+      {answer: 'Vitamin D'}
+    ],
+    correct: 'Vitamin D'
+  },
+
+  {
+    question: 'The basal metabolic rate is:',
+    answers: [
+      {answer: 'The amount of energy an active animal uses in a day'},
+      {answer: 'The amount of energy a healthy animal doing nothing uses in a day'},
+      {answer: 'The amount of energy needed to metabolise 1kg of food'},
+      {answer: 'The amount of energy released from 1kg of food'}
+    ],
+    correct: 'The amount of energy a healthy animal doing nothing uses in a day'
+  },
+
+  {
+    question: 'Unlike most species, guinea pigs required an adequate supply of which vitamin in their diet because they are unable to synthesize it?',
+    answers: [
+      {answer: 'Vitamin A'},
+      {answer: 'Vitamin B'},
+      {answer: 'Vitamin C'},
+      {answer: 'Vitamin D'}
+    ],
+    correct: 'Vitamin C'
+  },
+
+  {
+    question: ' A diet consisting solely of lean meat would be deficient in which nutrients?',
+    answers: [
+      {answer: 'Protein and fat'},
+      {answer: 'Fat and B  vitamin'},
+      {answer: 'Calcium, phosphorus and fat-soluble vitamins'},
+      {answer: 'Calcium, phosphorus and protein'}
+    ],
+    correct: 'Calcium, phosphorus and fat-soluble vitamins'
+  },
+
+  {
+    question: 'Which of the following is a good source of B vitamin',
+    answers: [
+      {answer: 'Yeast'},
+      {answer: 'Lean meat'},
+      {answer: 'Green vegetables'},
+      {answer: 'Cod-liver oil'}
+    ],
+    correct: 'Yeast'
+  },
+
+  {
+    question: 'In growing animals, what ratio of calcium to phosphorus should be fed?',
+    answers: [
+      {answer: '4:1'},
+      {answer: '3:1'},
+      {answer: '2:1'},
+      {answer: '1:1'}
+    ],
+    correct: '1:1'
+  },
+
+  {
+    question: 'Which dietary imbalance could result in excessive bone proliferation, leading to the eventual fusion of vertebrae and limb bones?',
+    answers: [
+      {answer: 'Excess vitamin A'},
+      {answer: 'Vitamin E deficiency'},
+      {answer: 'Vitamin B deficiency'},
+      {answer: 'Excess vitamin K'}
+    ],
+    correct: 'Excess vitamin A'
+  },
+
+  {
+    question: 'Copper is needed within the body for',
+    answers: [
+      {answer: 'Bone production'},
+      {answer: 'Thyroid hormone'},
+      {answer: 'Haemoglobin synthesis'},
+      {answer: 'Nerve and muscle function'}
+    ],
+    correct: 'Haemoglobin synthesis'
+  },
+
+  {
+    question: 'Increasing fibre in the diet may be beneficial for animals with',
+    answers: [
+      {answer: 'Colitis'},
+      {answer: 'Pancreatitis'},
+      {answer: 'Cardiac disease'},
+      {answer: 'Acute enteritis'}
+    ],
+    correct: 'Colitis'
+  },
+
+  {
+    question: 'Which disease condition requires a diet low in protein, high in B vitamins and with increased carbohydrate?',
+    answers: [
+      {answer: 'Diabetes mellitus'},
+      {answer: 'Obesity'},
+      {answer: 'Renal disease'},
+      {answer: 'Malabsorption syndromes'}
+    ],
+    correct: 'Renal disease'
+  },
+
+  {
+    question: 'Which of the following are B vitamins?',
+    answers: [
+      {answer: 'Tryptophan and thiamine'},
+      {answer: 'Thiamine and vitamin K'},
+      {answer: 'Riboflavin and ascorbic acid'},
+      {answer: 'Thiamine and pantothenic acid'}
+    ],
+    correct: 'Thiamine and pantothenic acid'
+  },
+
+  {
+    question: 'Approximately how much water is present in a proprietary tinned food?',
+    answers: [
+      {answer: '20%'},
+      {answer: '40%'},
+      {answer: '60%'},
+      {answer: '80%'}
+    ],
+    correct: '80%'
+  },
+
+  {
+    question: 'At what stage of pregnancy would you start to increase the amount of food given to a bitch?',
+    answers: [
+      {answer: 'As soon as she is mated'},
+      {answer: 'In the fifth or sixth week of pregnancy'},
+      {answer: 'Once pregnancy is diagnosed at 3-4 weeks'},
+      {answer: 'Once the puppies are born'}
+    ],
+    correct: 'In the fifth or sixth week of pregnancy'
+  },
+
+  {
+    question: 'Canned dog food should not be fed to cats as an exclusive diet because:',
+    answers: [
+      {answer: 'Canned dog food contain too much fat'},
+      {answer: 'Canned dog foods have to mixed with biscuit meal'},
+      {answer: 'Cats need different proteins to dogs'},
+      {answer: 'Cats need more carbohydrate'}
+    ],
+    correct: 'Cats need different proteins to dogs'
+  },
+
+  {
+    question: 'Most amino acids can be manufactured in the body from smaller constituents, but others have to be taken in the diet already manufactured, these are called the:',
+    answers: [
+      {answer: 'Catalysts'},
+      {answer: 'Enzymes'},
+      {answer: 'Essential amino acids'},
+      {answer: 'Proteins'}
+    ],
+    correct: 'Essential amino acids'
+  },
+
+  {
+    question: 'Vitamin A deficiency in terrapins may lead to:',
+    answers: [
+      {answer: 'Deformity of the shell'},
+      {answer: 'Paralysis of the hind limbs'},
+      {answer: 'Swollen eyelids'},
+      {answer: 'All of the above'}
+    ],
+    correct: 'Swollen eyelids'
+  },
+
+  {
+    question: 'Which one of the following groups are the fat soluble vitamins?',
+    answers: [
+      {answer: 'A,B,E,K'},
+      {answer: 'A,D,E,K'},
+      {answer: 'B,C,D,K'},
+      {answer: 'B,D,E,K'}
+    ],
+    correct: 'A,D,E,K'
+  },
+
+  {
+    question: 'Which one of the following foodstuffs contains protein of the highest biological value?',
+    answers: [
+      {answer: 'Beef'},
+      {answer: 'Cereals'},
+      {answer: 'Chicken'},
+      {answer: 'Soya'}
+    ],
+    correct: 'Chicken'
+  },
+
+  {
+    question: 'Which one of the following foodstuffs may be responsible for an excessive amount of vitamin A in the diet?',
+    answers: [
+      {answer: 'Egg'},
+      {answer: 'Liver'},
+      {answer: 'Muscle meat'},
+      {answer: 'Raw vegetables'}
+    ],
+    correct: 'Liver'
+  },
+
+  {
+    question: 'Which one of the following is not made of protein?',
+    answers: [
+      {answer: 'Collagen'},
+      {answer: 'Elastin'},
+      {answer: 'Keratin'},
+      {answer: 'Phospholipid'}
+    ],
+    correct: 'Phospholipid'
+  },
+
+  {
+    question: 'Which one of the following is a fat soluble vitamin?',
+    answers: [
+      {answer: 'Biotin'},
+      {answer: 'Vitamin A'},
+      {answer: 'Vitamin B'},
+      {answer: 'Vitamin C'}
+    ],
+    correct: 'Vitamin A'
+  },
+
+  {
+    question: 'Which one of the following is a soluble carbohydrate?',
+    answers: [
+      {answer: 'Bran'},
+      {answer: 'Cellulose'},
+      {answer: 'Fibre'},
+      {answer: 'Starch'}
+    ],
+    correct: 'Starch'
+  },
+
+  {
+    question: 'Which one of the following is an essential amino acid for cats?',
+    answers: [
+      {answer: 'Ascorbic acid'},
+      {answer: 'Biotin'},
+      {answer: 'Taurine'},
+      {answer: 'Tocopherol'}
+    ],
+    correct: 'Taurine'
+  },
+
+  {
+    question: 'Which one of the following is an essential fatty acid for dogs?',
+    answers: [
+      {answer: 'Argenine'},
+      {answer: 'Ascorbic acid'},
+      {answer: 'Linoleic acid'},
+      {answer: 'Tocopherol'}
+    ],
+    correct: 'Linoleic acid'
+  },
+
+  {
+    question: 'Which one of the following pairs of minerals plays an important part in skeletal mineralisation?',
+    answers: [
+      {answer: 'Calcium and phosphorus'},
+      {answer: 'Calcium and sodium'},
+      {answer: 'Phosphorus and magnesium'},
+      {answer: 'Sodium and phosphorus'}
+    ],
+    correct: 'Calcium and phosphorus'
+  },
+
+  {
+    question: 'Which one of the following vitamins is also known as retinol?',
+    answers: [
+      {answer: 'Vitamin A'},
+      {answer: 'Vitamin B'},
+      {answer: 'Vitamin C'},
+      {answer: 'Vitamin D'}
+    ],
+    correct: 'Vitamin A'
+  },
+
+  {
+    question: 'Which dietary item, if lacking in the diet of the budgerigar will cause the bird to develop hypothyroidism?',
+    answers: [
+      {answer: 'Iodine'},
+      {answer: 'Protein'},
+      {answer: 'Sulphur'},
+      {answer: 'Vitamin A'}
+    ],
+    correct: 'Iodine'
   }
 ];
