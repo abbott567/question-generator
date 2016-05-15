@@ -39,6 +39,8 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
+app.use('/anatomy', require(path.join(__dirname, './routes/anatomy.js')));
+app.use('/health', require(path.join(__dirname, './routes/health.js')));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
