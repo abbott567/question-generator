@@ -1,8 +1,25 @@
 {% extends "layout.html" %}
 
 {% block body %}
-  <h1>Practice quiz</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <h1>Veterinary nursing revision tool</h1>
 
-  <a href="/anatomy/">Start Anatomy</a>
-  <a href="/health/">Start Health</a>
+      <hr />
+
+      <p>
+        <a class="btn btn-lg btn-default" href="/anatomy/">
+          Start Anatomy and Physiology
+        </a>
+      </p>
+
+      <p>
+        <a class="btn btn-lg btn-default" href="/health/">
+          Start Health and Husbandry
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
 {% endblock %}
