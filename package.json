@@ -17,6 +17,7 @@
     "xo": "^0.15.0"
   },
   "xo": {
-    "space": true
+    "space": true,
+    "esnext": true
   }
 }

@@ -1,9 +1,9 @@
-"use strict";
+'use strict';
 const express = require('express');
 const router = new express.Router();
 const allQuestions = require('../routes/questions');
 
-router.get('/', function (req, res) {
+router.get('/', (req, res) => {
   const qOrder = getOrder();
   const correct = [];
   const incorrect = [];
@@ -14,7 +14,7 @@ router.get('/', function (req, res) {
   res.redirect('questions/1');
 });
 
-router.get('/questions/:id', function (req, res) {
+router.get('/questions/:id', (req, res) => {
   const qOrder = req.cookies.qOrder;
   const getQ = shuffle(qOrder).pop();
   const question = allQuestions[getQ];
@@ -30,12 +30,12 @@ router.get('/questions/:id', function (req, res) {
   }
 });
 
-router.post('/questions/:id', function (req, res) {
+router.post('/questions/:id', (req, res) => {
   const nextQuestion = parseInt(req.params.id, 10) + 1;
   const correct = req.body.correct.toLowerCase();
   const answer = req.body.answer.toLowerCase();
-  let correctArray = JSON.parse(req.cookies.correct);
-  let incorrectArray = JSON.parse(req.cookies.incorrect);
+  const correctArray = JSON.parse(req.cookies.correct);
+  const incorrectArray = JSON.parse(req.cookies.incorrect);
 
   if (answer === correct) {
     correctArray.push(req.body.arrayPos);
@@ -47,7 +47,7 @@ router.post('/questions/:id', function (req, res) {
   res.redirect(`${nextQuestion}`);
 });
 
-router.get('/results', function (req, res) {
+router.get('/results', (req, res) => {
   const correctArray = JSON.parse(req.cookies.correct);
   const incorrectArray = JSON.parse(req.cookies.incorrect);
   const show = {correct: false, incorrect: false};
@@ -73,8 +73,8 @@ router.get('/results', function (req, res) {
   res.render('results.html', {results, allQuestions, show});
 });
 
-router.get('/reset', function (req, res) {
-  for (let cookie in req.cookies) {
+router.get('/reset', (req, res) => {
+  for (const cookie in req.cookies) {
     if (req.cookies.hasOwnProperty(cookie)) {
       res.clearCookie(cookie);
     }
@@ -82,7 +82,7 @@ router.get('/reset', function (req, res) {
   res.redirect('/');
 });
 
-router.get('/question-checker', function (req, res) {
+router.get('/question-checker', (req, res) => {
   const mismatch = [];
 
   for (let i = 0; i < allQuestions.length; i++) {
@@ -90,8 +90,8 @@ router.get('/question-checker', function (req, res) {
     let correct = 0;
 
     for (let n = 0; n < allQuestions[i].answers.length; n++) {
-      let thisAnswer = allQuestions[i].answers[n].answer.toLowerCase();
-      let correctAnswer = allQuestions[i].correct.toLowerCase();
+      const thisAnswer = allQuestions[i].answers[n].answer.toLowerCase();
+      const correctAnswer = allQuestions[i].correct.toLowerCase();
 
       if (thisAnswer === correctAnswer) {
         correct++;
@@ -111,9 +111,9 @@ router.get('/question-checker', function (req, res) {
 module.exports = router;
 
 function shuffle(array) {
-  var currentIndex = array.length;
-  var temporaryValue;
-  var randomIndex;
+  let currentIndex = array.length;
+  let temporaryValue;
+  let randomIndex;
 
   while (currentIndex !== 0) {
     randomIndex = Math.floor(Math.random() * currentIndex);
