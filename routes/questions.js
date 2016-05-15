@@ -1,3900 +1,3900 @@
 module.exports = [
   {
-    question: "The correct order of the meninges, from the outer layer inwards:",
+    question: 'The correct order of the meninges, from the outer layer inwards:',
     answers: [
-      {answer: "Dura mater, Pia mater, Arachnoid membrane"},
-      {answer: "Pia mater, Arachnoid membrane, Dura mater"},
-      {answer: "Arachnoid membrane, Pia mater, Dura mater"},
-      {answer: "Dura mater, Arachnoid membrane, Pia mater"}
+      {answer: 'Dura mater, Pia mater, Arachnoid membrane'},
+      {answer: 'Pia mater, Arachnoid membrane, Dura mater'},
+      {answer: 'Arachnoid membrane, Pia mater, Dura mater'},
+      {answer: 'Dura mater, Arachnoid membrane, Pia mater'}
     ],
-    correct: "Dura mater, Arachnoid membrane, Pia mater"
+    correct: 'Dura mater, Arachnoid membrane, Pia mater'
   },
 
   {
-    question: "Which statement is false::",
+    question: 'Which statement is false::',
     answers: [
-      {answer: "Cytoplasm is an aqueous solution"},
-      {answer: "Cytoplasm is surrounded by a plasma membrane"},
-      {answer: "Ribosomes are located in the cytoplasm"},
-      {answer: "Cytoplasm has a pH of 5.5"}
+      {answer: 'Cytoplasm is an aqueous solution'},
+      {answer: 'Cytoplasm is surrounded by a plasma membrane'},
+      {answer: 'Ribosomes are located in the cytoplasm'},
+      {answer: 'Cytoplasm has a pH of 5.5'}
     ],
-    correct: "Cytoplasm has a pH of 5.5"
+    correct: 'Cytoplasm has a pH of 5.5'
   },
 
   {
-    question: "Organic catalysts:",
+    question: 'Organic catalysts:',
     answers: [
-      {answer: "Slow down rate of reaction"},
-      {answer: "Take part in the reaction"},
-      {answer: "Speed up rate of reaction"},
-      {answer: "Are all carbohydrates"}
+      {answer: 'Slow down rate of reaction'},
+      {answer: 'Take part in the reaction'},
+      {answer: 'Speed up rate of reaction'},
+      {answer: 'Are all carbohydrates'}
     ],
-    correct: "Speed up rate of reaction"
+    correct: 'Speed up rate of reaction'
   },
 
   {
-    question: "Organic catalysts:",
+    question: 'Organic catalysts:',
     answers: [
-      {answer: "Slow down rate of reaction"},
-      {answer: "Take part in the reaction"},
-      {answer: "speed up rate of reaction"},
-      {answer: "Are all carbohydrates"}
+      {answer: 'Slow down rate of reaction'},
+      {answer: 'Take part in the reaction'},
+      {answer: 'speed up rate of reaction'},
+      {answer: 'Are all carbohydrates'}
     ],
-    correct: "speed up rate of reaction"
+    correct: 'speed up rate of reaction'
   },
 
   {
-    question: "Which is true:",
+    question: 'Which is true:',
     answers: [
-      {answer: "Plasma membrane is impermeable"},
-      {answer: "plasma membrane has a protein bi-layer"},
-      {answer: "plasma membrane is semi permeable"},
-      {answer: "large carbohdrate molecules form transport channels."}
+      {answer: 'Plasma membrane is impermeable'},
+      {answer: 'plasma membrane has a protein bi-layer'},
+      {answer: 'plasma membrane is semi permeable'},
+      {answer: 'large carbohdrate molecules form transport channels.'}
     ],
-    correct: "plasma membrane is semi permeable"
+    correct: 'plasma membrane is semi permeable'
   },
 
   {
-    question: "A solid that dissolves in a solvent is:",
+    question: 'A solid that dissolves in a solvent is:',
     answers: [
-      {answer: "solution"},
-      {answer: "solute"},
-      {answer: "precipitate"},
-      {answer: "ion"}
+      {answer: 'solution'},
+      {answer: 'solute'},
+      {answer: 'precipitate'},
+      {answer: 'ion'}
     ],
-    correct: "solute"
+    correct: 'solute'
   },
 
   {
-    question: "deoxyribose nucleic acid is located in the:",
+    question: 'deoxyribose nucleic acid is located in the:',
     answers: [
-      {answer: "nucleolus"},
-      {answer: "vacuole"},
-      {answer: "nucleus"},
-      {answer: "ribosomes"}
+      {answer: 'nucleolus'},
+      {answer: 'vacuole'},
+      {answer: 'nucleus'},
+      {answer: 'ribosomes'}
     ],
-    correct: "nucleus"
+    correct: 'nucleus'
   },
 
   {
-    question: "ribosomes are produced in the:",
+    question: 'ribosomes are produced in the:',
     answers: [
-      {answer: "vacuole"},
-      {answer: "nucleolus"},
-      {answer: "lysosomes"},
-      {answer: "mitochondria"}
+      {answer: 'vacuole'},
+      {answer: 'nucleolus'},
+      {answer: 'lysosomes'},
+      {answer: 'mitochondria'}
     ],
-    correct: "nucleolus"
+    correct: 'nucleolus'
   },
 
   {
-    question: "The following are all proteins:",
+    question: 'The following are all proteins:',
     answers: [
-      {answer: "keratin, collagen, insulin, cellulose"},
-      {answer: "keratin, collagen, albumin, starch"},
-      {answer: "actin, keratin, collagen, albumin"},
-      {answer: "actin, keratin, insulin, DNA"}
+      {answer: 'keratin, collagen, insulin, cellulose'},
+      {answer: 'keratin, collagen, albumin, starch'},
+      {answer: 'actin, keratin, collagen, albumin'},
+      {answer: 'actin, keratin, insulin, DNA'}
     ],
-    correct: "actin, keratin, collagen, albumin"
+    correct: 'actin, keratin, collagen, albumin'
   },
 
   {
-    question: "Which is false:",
+    question: 'Which is false:',
     answers: [
-      {answer: "mammalian erythrocytes do not have a nucleus"},
-      {answer: "reptile erythrocytes possess a nucleus"},
-      {answer: "erythrocytes contain haemoglobin to grasp oxygen"},
-      {answer: "erythrocytes are produced in the yellow bone marrow"}
+      {answer: 'mammalian erythrocytes do not have a nucleus'},
+      {answer: 'reptile erythrocytes possess a nucleus'},
+      {answer: 'erythrocytes contain haemoglobin to grasp oxygen'},
+      {answer: 'erythrocytes are produced in the yellow bone marrow'}
     ],
-    correct: "erythrocytes are produced in the yellow bone marrow"
+    correct: 'erythrocytes are produced in the yellow bone marrow'
   },
 
   {
-    question: "When erythrocytes are placed in a hypertonic solution:",
+    question: 'When erythrocytes are placed in a hypertonic solution:',
     answers: [
-      {answer: "water will leave by osmosis"},
-      {answer: "water will enter by osmosis"},
-      {answer: "no water movement"},
-      {answer: "water will move in and out"}
+      {answer: 'water will leave by osmosis'},
+      {answer: 'water will enter by osmosis'},
+      {answer: 'no water movement'},
+      {answer: 'water will move in and out'}
     ],
-    correct: "water will leave by osmosis"
+    correct: 'water will leave by osmosis'
   },
 
   {
-    question: "When erythrocytes are placed in a weak solution:",
+    question: 'When erythrocytes are placed in a weak solution:',
     answers: [
-      {answer: "water will move out by osmosis"},
-      {answer: "water will enter by osmosis"},
-      {answer: "water will move in both directions"},
-      {answer: "no water movement"}
+      {answer: 'water will move out by osmosis'},
+      {answer: 'water will enter by osmosis'},
+      {answer: 'water will move in both directions'},
+      {answer: 'no water movement'}
     ],
-    correct: "water will enter by osmosis"
+    correct: 'water will enter by osmosis'
   },
 
   {
-    question: "Site of aerobic respiration in a cell:",
+    question: 'Site of aerobic respiration in a cell:',
     answers: [
-      {answer: "ribosomes"},
-      {answer: "golgi apparatus"},
-      {answer: "mitochondria"},
-      {answer: "lysosome"}
+      {answer: 'ribosomes'},
+      {answer: 'golgi apparatus'},
+      {answer: 'mitochondria'},
+      {answer: 'lysosome'}
     ],
-    correct: "mitochondria"
+    correct: 'mitochondria'
   },
 
   {
-    question: "toxic by product of anareobic respiration:",
+    question: 'toxic by product of anareobic respiration:',
     answers: [
-      {answer: "linoleic acid"},
-      {answer: "hydrochloric acid"},
-      {answer: "hydrogen peroxide"},
-      {answer: "lactic acid"}
+      {answer: 'linoleic acid'},
+      {answer: 'hydrochloric acid'},
+      {answer: 'hydrogen peroxide'},
+      {answer: 'lactic acid'}
     ],
-    correct: "lactic acid"
+    correct: 'lactic acid'
   },
 
   {
-    question: "structure covered by ribosomes:",
+    question: 'structure covered by ribosomes:',
     answers: [
-      {answer: "SER"},
-      {answer: "golgi apparatus"},
-      {answer: "RER"},
-      {answer: "lysosomes"}
+      {answer: 'SER'},
+      {answer: 'golgi apparatus'},
+      {answer: 'RER'},
+      {answer: 'lysosomes'}
     ],
-    correct: "RER"
+    correct: 'RER'
   },
 
   {
-    question: "Synthesises lysosomes:",
+    question: 'Synthesises lysosomes:',
     answers: [
-      {answer: "mitochondria"},
-      {answer: "golgi apparatus"},
-      {answer: "ribosomes"},
-      {answer: "centrosome"}
+      {answer: 'mitochondria'},
+      {answer: 'golgi apparatus'},
+      {answer: 'ribosomes'},
+      {answer: 'centrosome'}
     ],
-    correct: "golgi apparatus"
+    correct: 'golgi apparatus'
   },
 
   {
-    question: "consists of 2 centrioles:",
+    question: 'consists of 2 centrioles:',
     answers: [
-      {answer: "centrosome"},
-      {answer: "flagella"},
-      {answer: "centromere"},
-      {answer: "sarcomere"}
+      {answer: 'centrosome'},
+      {answer: 'flagella'},
+      {answer: 'centromere'},
+      {answer: 'sarcomere'}
     ],
-    correct: "centrosome"
+    correct: 'centrosome'
   },
 
   {
-    question: "Neutrophils are rich in:",
+    question: 'Neutrophils are rich in:',
     answers: [
-      {answer: "centrosomes"},
-      {answer: "nucleoulus"},
-      {answer: "cilia"},
-      {answer: "lysosomes"}
+      {answer: 'centrosomes'},
+      {answer: 'nucleoulus'},
+      {answer: 'cilia'},
+      {answer: 'lysosomes'}
     ],
-    correct: "lysosomes"
+    correct: 'lysosomes'
   },
 
   {
-    question: "cilia rich epithelial tissue:",
+    question: 'cilia rich epithelial tissue:',
     answers: [
-      {answer: "uterus and fallopian tubes"},
-      {answer: "trachea and oesophagus"},
-      {answer: "trachea and fallopian tube"},
-      {answer: "fallopian tube and oesophagus"}
+      {answer: 'uterus and fallopian tubes'},
+      {answer: 'trachea and oesophagus'},
+      {answer: 'trachea and fallopian tube'},
+      {answer: 'fallopian tube and oesophagus'}
     ],
-    correct: "trachea and fallopian tube"
+    correct: 'trachea and fallopian tube'
   },
 
   {
-    question: "A positive ion of any element is:",
+    question: 'A positive ion of any element is:',
     answers: [
-      {answer: "proton"},
-      {answer: "cation"},
-      {answer: "anion"},
-      {answer: "electron"}
+      {answer: 'proton'},
+      {answer: 'cation'},
+      {answer: 'anion'},
+      {answer: 'electron'}
     ],
-    correct: "cation"
+    correct: 'cation'
   },
 
   {
-    question: "which are all acidic in pH:",
+    question: 'which are all acidic in pH:',
     answers: [
-      {answer: "5, 6.5, 2, 7.5"},
-      {answer: "3, 6.5, 5, 7"},
-      {answer: "7.5, 9.5, 8.5, 9"},
-      {answer: "6, 2, 5, 6.5"}
+      {answer: '5, 6.5, 2, 7.5'},
+      {answer: '3, 6.5, 5, 7'},
+      {answer: '7.5, 9.5, 8.5, 9'},
+      {answer: '6, 2, 5, 6.5'}
     ],
-    correct: "6, 2, 5, 6.5"
+    correct: '6, 2, 5, 6.5'
   },
 
   {
-    question: "Which will increase acidity of a solution:",
+    question: 'Which will increase acidity of a solution:',
     answers: [
-      {answer: "OH-"},
-      {answer: "HCO3-"},
-      {answer: "H+"},
-      {answer: "Na2+"}
+      {answer: 'OH-'},
+      {answer: 'HCO3-'},
+      {answer: 'H+'},
+      {answer: 'Na2+'}
     ],
-    correct: "H+"
+    correct: 'H+'
   },
 
   {
-    question: "Normal pH of blood plasma:",
+    question: 'Normal pH of blood plasma:',
     answers: [
-      {answer: "7"},
-      {answer: "7.5"},
-      {answer: "6"},
-      {answer: "7.4"}
+      {answer: '7'},
+      {answer: '7.5'},
+      {answer: '6'},
+      {answer: '7.4'}
     ],
-    correct: "7.4"
+    correct: '7.4'
   },
 
   {
-    question: "The following is the most acidic:",
+    question: 'The following is the most acidic:',
     answers: [
-      {answer: "5"},
-      {answer: "7.1"},
-      {answer: "3.3"},
-      {answer: "9"}
+      {answer: '5'},
+      {answer: '7.1'},
+      {answer: '3.3'},
+      {answer: '9'}
     ],
-    correct: "3.3"
+    correct: '3.3'
   },
 
   {
-    question: "A buffer corrects acidosis by:",
+    question: 'A buffer corrects acidosis by:',
     answers: [
-      {answer: "releasing H+ ions"},
-      {answer: "removing H+ ions"},
-      {answer: "removing HCO3- ions"},
-      {answer: "Adding more CO2"}
+      {answer: 'releasing H+ ions'},
+      {answer: 'removing H+ ions'},
+      {answer: 'removing HCO3- ions'},
+      {answer: 'Adding more CO2'}
     ],
-    correct: "removing H+ ions"
+    correct: 'removing H+ ions'
   },
 
   {
-    question: "Under alkalosis the kidney tubules will:",
+    question: 'Under alkalosis the kidney tubules will:',
     answers: [
-      {answer: "excrete H+ ions"},
-      {answer: "Retain H+ ions"},
-      {answer: "Retain HCO3-"},
-      {answer: "Retain Na+"}
+      {answer: 'excrete H+ ions'},
+      {answer: 'Retain H+ ions'},
+      {answer: 'Retain HCO3-'},
+      {answer: 'Retain Na+'}
     ],
-    correct: "Retain H+ ions"
+    correct: 'Retain H+ ions'
   },
 
   {
-    question: "Simple diffusion- particles move from:",
+    question: 'Simple diffusion- particles move from:',
     answers: [
-      {answer: "low to high concentration"},
-      {answer: "high to low concentration"},
-      {answer: "high to low using energy"},
-      {answer: "low to high using carrier proteins"}
+      {answer: 'low to high concentration'},
+      {answer: 'high to low concentration'},
+      {answer: 'high to low using energy'},
+      {answer: 'low to high using carrier proteins'}
     ],
-    correct: "high to low concentration"
+    correct: 'high to low concentration'
   },
 
   {
-    question: "Active transport involves the movement of particles from:",
+    question: 'Active transport involves the movement of particles from:',
     answers: [
-      {answer: "strong to weak solution"},
-      {answer: "liquid to gas solution"},
-      {answer: "high to low conc using ATP"},
-      {answer: "Low to high conc using ATP"}
+      {answer: 'strong to weak solution'},
+      {answer: 'liquid to gas solution'},
+      {answer: 'high to low conc using ATP'},
+      {answer: 'Low to high conc using ATP'}
     ],
-    correct: "Low to high conc using ATP"
+    correct: 'Low to high conc using ATP'
   },
 
   {
-    question: "Pinocytosis is:",
+    question: 'Pinocytosis is:',
     answers: [
-      {answer: "cell eating"},
-      {answer: "cell drinking"},
-      {answer: "cell enlargement"},
-      {answer: "cell minimisation"}
+      {answer: 'cell eating'},
+      {answer: 'cell drinking'},
+      {answer: 'cell enlargement'},
+      {answer: 'cell minimisation'}
     ],
-    correct: "cell drinking"
+    correct: 'cell drinking'
   },
 
   {
-    question: "Organelle that organises the spindle during cell division:",
+    question: 'Organelle that organises the spindle during cell division:',
     answers: [
-      {answer: "centromere"},
-      {answer: "centrosome"},
-      {answer: "nucleoulus"},
-      {answer: "cytokinesis"}
+      {answer: 'centromere'},
+      {answer: 'centrosome'},
+      {answer: 'nucleoulus'},
+      {answer: 'cytokinesis'}
     ],
-    correct: "centrosome"
+    correct: 'centrosome'
   },
 
   {
-    question: "which is true:",
+    question: 'which is true:',
     answers: [
-      {answer: "mitosis halves the diploid number of chromosomes"},
-      {answer: "crossing over takes place in prophase 2 of meiosis"},
-      {answer: "nucler membrane disintegrates in metaphase"},
-      {answer: "mitosis results in 2 identical daughter cells"}
+      {answer: 'mitosis halves the diploid number of chromosomes'},
+      {answer: 'crossing over takes place in prophase 2 of meiosis'},
+      {answer: 'nucler membrane disintegrates in metaphase'},
+      {answer: 'mitosis results in 2 identical daughter cells'}
     ],
-    correct: "mitosis results in 2 identical daughter cells"
+    correct: 'mitosis results in 2 identical daughter cells'
   },
 
   {
-    question: "The diploid number for a dog is 2n=78 At the end of mitosis the daughter cells will have:",
+    question: 'The diploid number for a dog is 2n=78 At the end of mitosis the daughter cells will have:',
     answers: [
-      {answer: "78"},
-      {answer: "39"},
-      {answer: "156"},
-      {answer: "46"}
+      {answer: '78'},
+      {answer: '39'},
+      {answer: '156'},
+      {answer: '46'}
     ],
-    correct: "78"
+    correct: '78'
   },
 
   {
-    question: "Sister chromosomes line up along the equator in:",
+    question: 'Sister chromosomes line up along the equator in:',
     answers: [
-      {answer: "anaphase"},
-      {answer: "metaphase"},
-      {answer: "telophase"},
-      {answer: "interphase"}
+      {answer: 'anaphase'},
+      {answer: 'metaphase'},
+      {answer: 'telophase'},
+      {answer: 'interphase'}
     ],
-    correct: "metaphase"
+    correct: 'metaphase'
   },
 
   {
-    question: "which is true:",
+    question: 'which is true:',
     answers: [
-      {answer: "meiosis maintains the diploid number of chromosomes in daughter cells"},
-      {answer: "replication of DNA takes place in interphase"},
-      {answer: "somatic cells are located in the genitals"},
-      {answer: "mitosis consists of 2 cell divisions"}
+      {answer: 'meiosis maintains the diploid number of chromosomes in daughter cells'},
+      {answer: 'replication of DNA takes place in interphase'},
+      {answer: 'somatic cells are located in the genitals'},
+      {answer: 'mitosis consists of 2 cell divisions'}
     ],
-    correct: "replication of DNA takes place in interphase"
+    correct: 'replication of DNA takes place in interphase'
   },
 
   {
-    question: "Cytokinesis takes place when:",
+    question: 'Cytokinesis takes place when:',
     answers: [
-      {answer: "at the beginning of cell division when the DNA replicates"},
-      {answer: "the chromosomes line up along the metapahase plate"},
-      {answer: "crossing over takes place in Prophase 1"},
-      {answer: "the plasma membrane constricts and separates the daughter cells"}
+      {answer: 'at the beginning of cell division when the DNA replicates'},
+      {answer: 'the chromosomes line up along the metapahase plate'},
+      {answer: 'crossing over takes place in Prophase 1'},
+      {answer: 'the plasma membrane constricts and separates the daughter cells'}
     ],
-    correct: "the plasma membrane constricts and separates the daughter cells"
+    correct: 'the plasma membrane constricts and separates the daughter cells'
   },
 
   {
-    question: "Crossing over will:",
+    question: 'Crossing over will:',
     answers: [
-      {answer: "Half the diploid number of chromosomes"},
-      {answer: "complete the first division of meiosis"},
-      {answer: "result in a variation of gametes"},
-      {answer: "shorten the length of the chromosomes"}
+      {answer: 'Half the diploid number of chromosomes'},
+      {answer: 'complete the first division of meiosis'},
+      {answer: 'result in a variation of gametes'},
+      {answer: 'shorten the length of the chromosomes'}
     ],
-    correct: "result in a variation of gametes"
+    correct: 'result in a variation of gametes'
   },
 
   {
-    question: "After meioisis each gamete of a cat will have (2n=38)",
+    question: 'After meioisis each gamete of a cat will have (2n=38)',
     answers: [
-      {answer: "19"},
-      {answer: "38"},
-      {answer: "76"},
-      {answer: "78"}
+      {answer: '19'},
+      {answer: '38'},
+      {answer: '76'},
+      {answer: '78'}
     ],
-    correct: "19"
+    correct: '19'
   },
 
   {
-    question: "The following is not a connective tissue:",
+    question: 'The following is not a connective tissue:',
     answers: [
-      {answer: "blood"},
-      {answer: "muscle"},
-      {answer: "hyaline cartilage"},
-      {answer: "bone"}
+      {answer: 'blood'},
+      {answer: 'muscle'},
+      {answer: 'hyaline cartilage'},
+      {answer: 'bone'}
     ],
-    correct: "muscle"
+    correct: 'muscle'
   },
 
   {
-    question: "Protein that provides strength to connective tissue:",
+    question: 'Protein that provides strength to connective tissue:',
     answers: [
-      {answer: "keratin"},
-      {answer: "elastin"},
-      {answer: "collagen"},
-      {answer: "fibrinogen"}
+      {answer: 'keratin'},
+      {answer: 'elastin'},
+      {answer: 'collagen'},
+      {answer: 'fibrinogen'}
     ],
-    correct: "collagen"
+    correct: 'collagen'
   },
 
   {
-    question: "cell responsible for producing the matrix and protein fibres in cartilage:",
+    question: 'cell responsible for producing the matrix and protein fibres in cartilage:',
     answers: [
-      {answer: "fibroblast"},
-      {answer: "macrophage"},
-      {answer: "adipocyte"},
-      {answer: "chondrocyte"}
+      {answer: 'fibroblast'},
+      {answer: 'macrophage'},
+      {answer: 'adipocyte'},
+      {answer: 'chondrocyte'}
     ],
-    correct: "chondrocyte"
+    correct: 'chondrocyte'
   },
 
   {
-    question: "The following stabilises a synovial joint:",
+    question: 'The following stabilises a synovial joint:',
     answers: [
-      {answer: "ligament"},
-      {answer: "tendon"},
-      {answer: "fascia"},
-      {answer: "voluntary muscle"}
+      {answer: 'ligament'},
+      {answer: 'tendon'},
+      {answer: 'fascia'},
+      {answer: 'voluntary muscle'}
     ],
-    correct: "ligament"
+    correct: 'ligament'
   },
 
   {
-    question: "connective tissue able to withstand pressure from different directions:",
+    question: 'connective tissue able to withstand pressure from different directions:',
     answers: [
-      {answer: "regular dense"},
-      {answer: "irregular dense"},
-      {answer: "loose"},
-      {answer: "areolar"}
+      {answer: 'regular dense'},
+      {answer: 'irregular dense'},
+      {answer: 'loose'},
+      {answer: 'areolar'}
     ],
-    correct: "irregular dense"
+    correct: 'irregular dense'
   },
 
   {
-    question: "A store for fat soluble vitamins:",
+    question: 'A store for fat soluble vitamins:',
     answers: [
-      {answer: "hyaline tissue"},
-      {answer: "adipose tissue"},
-      {answer: "areolar connective tissue"},
-      {answer: "elastic cartilage"}
+      {answer: 'hyaline tissue'},
+      {answer: 'adipose tissue'},
+      {answer: 'areolar connective tissue'},
+      {answer: 'elastic cartilage'}
     ],
-    correct: "adipose tissue"
+    correct: 'adipose tissue'
   },
 
   {
-    question: "Sheath surrounding hyaline cartilage:",
+    question: 'Sheath surrounding hyaline cartilage:',
     answers: [
-      {answer: "periosteum"},
-      {answer: "pericardium"},
-      {answer: "perichondrium"},
-      {answer: "peripheral membrane"}
+      {answer: 'periosteum'},
+      {answer: 'pericardium'},
+      {answer: 'perichondrium'},
+      {answer: 'peripheral membrane'}
     ],
-    correct: "perichondrium"
+    correct: 'perichondrium'
   },
 
   {
-    question: "fibrocartilage is present in the:",
+    question: 'fibrocartilage is present in the:',
     answers: [
-      {answer: "costal cartilage"},
-      {answer: "epiglottis"},
-      {answer: "intervertebral discs"},
-      {answer: "tracheal rings"}
+      {answer: 'costal cartilage'},
+      {answer: 'epiglottis'},
+      {answer: 'intervertebral discs'},
+      {answer: 'tracheal rings'}
     ],
-    correct: "intervertebral discs"
+    correct: 'intervertebral discs'
   },
 
   {
-    question: "elastic cartilage is present in the:",
+    question: 'elastic cartilage is present in the:',
     answers: [
-      {answer: "epiglottis"},
-      {answer: "costal cartilage"},
-      {answer: "larynx"},
-      {answer: "epiphysis of bones"}
+      {answer: 'epiglottis'},
+      {answer: 'costal cartilage'},
+      {answer: 'larynx'},
+      {answer: 'epiphysis of bones'}
     ],
-    correct: "epiglottis"
+    correct: 'epiglottis'
   },
 
   {
-    question: "Term that describes, layers of cells:",
+    question: 'Term that describes, layers of cells:',
     answers: [
-      {answer: "simple"},
-      {answer: "stratified"},
-      {answer: "tissue"},
-      {answer: "transitional"}
+      {answer: 'simple'},
+      {answer: 'stratified'},
+      {answer: 'tissue'},
+      {answer: 'transitional'}
     ],
-    correct: "stratified"
+    correct: 'stratified'
   },
 
   {
-    question: "simple squamous epithelial tissue is located:",
+    question: 'simple squamous epithelial tissue is located:',
     answers: [
-      {answer: "kidney tubules"},
-      {answer: "bladder"},
-      {answer: "lung alveoli"},
-      {answer: "skin epidermis"}
+      {answer: 'kidney tubules'},
+      {answer: 'bladder'},
+      {answer: 'lung alveoli'},
+      {answer: 'skin epidermis'}
     ],
-    correct: "lung alveoli"
+    correct: 'lung alveoli'
   },
 
   {
-    question: "tissue type in nephrons:",
+    question: 'tissue type in nephrons:',
     answers: [
-      {answer: "columnar epithelium"},
-      {answer: "stratified squamous epithelium"},
-      {answer: "transitional epithelium"},
-      {answer: "cuboidal epithelium"}
+      {answer: 'columnar epithelium'},
+      {answer: 'stratified squamous epithelium'},
+      {answer: 'transitional epithelium'},
+      {answer: 'cuboidal epithelium'}
     ],
-    correct: "cuboidal epithelium"
+    correct: 'cuboidal epithelium'
   },
 
   {
-    question: "Goblet cell produce:",
+    question: 'Goblet cell produce:',
     answers: [
-      {answer: "enzymes"},
-      {answer: "mucous"},
-      {answer: "hormones"},
-      {answer: "sebum"}
+      {answer: 'enzymes'},
+      {answer: 'mucous'},
+      {answer: 'hormones'},
+      {answer: 'sebum'}
     ],
-    correct: "mucous"
+    correct: 'mucous'
   },
 
   {
-    question: "waterproofing skin protein:",
+    question: 'waterproofing skin protein:',
     answers: [
-      {answer: "collagen"},
-      {answer: "myosin"},
-      {answer: "albumin"},
-      {answer: "keratin"}
+      {answer: 'collagen'},
+      {answer: 'myosin'},
+      {answer: 'albumin'},
+      {answer: 'keratin'}
     ],
-    correct: "keratin"
+    correct: 'keratin'
   },
 
   {
-    question: "The following organs are lined with stratified squamous epithelium:",
+    question: 'The following organs are lined with stratified squamous epithelium:',
     answers: [
-      {answer: "oesophagus, skin, bladder"},
-      {answer: "Small intestine, nephron, skin"},
-      {answer: "skin, oesophagus, vagina"},
-      {answer: "capillaries, skin, vagina"}
+      {answer: 'oesophagus, skin, bladder'},
+      {answer: 'Small intestine, nephron, skin'},
+      {answer: 'skin, oesophagus, vagina'},
+      {answer: 'capillaries, skin, vagina'}
     ],
-    correct: "skin, oesophagus, vagina"
+    correct: 'skin, oesophagus, vagina'
   },
 
   {
-    question: "Which is false:",
+    question: 'Which is false:',
     answers: [
-      {answer: "sweat glands are simple, coiled exocrine glands"},
-      {answer: "pituitary gland is endocrine"},
-      {answer: "exocrine glands are ductless"},
-      {answer: "endocrine glands secrete hormones into bloodstream"}
+      {answer: 'sweat glands are simple, coiled exocrine glands'},
+      {answer: 'pituitary gland is endocrine'},
+      {answer: 'exocrine glands are ductless'},
+      {answer: 'endocrine glands secrete hormones into bloodstream'}
     ],
-    correct: "exocrine glands are ductless"
+    correct: 'exocrine glands are ductless'
   },
 
   {
-    question: "Epithelial tissue that lines the ureters:",
+    question: 'Epithelial tissue that lines the ureters:',
     answers: [
-      {answer: "simple squamous"},
-      {answer: "transitional"},
-      {answer: "cuboidal"},
-      {answer: "ciliated columnar"}
+      {answer: 'simple squamous'},
+      {answer: 'transitional'},
+      {answer: 'cuboidal'},
+      {answer: 'ciliated columnar'}
     ],
-    correct: "transitional"
+    correct: 'transitional'
   },
 
   {
-    question: "ciliated columnar epithelial tissue is located in the:",
+    question: 'ciliated columnar epithelial tissue is located in the:',
     answers: [
-      {answer: "spleen"},
-      {answer: "fallopian tube"},
-      {answer: "ureters"},
-      {answer: "capillaries"}
+      {answer: 'spleen'},
+      {answer: 'fallopian tube'},
+      {answer: 'ureters'},
+      {answer: 'capillaries'}
     ],
-    correct: "fallopian tube"
+    correct: 'fallopian tube'
   },
 
   {
-    question: "term describes the 'opposite side'",
+    question: 'term describes the "opposite side"',
     answers: [
-      {answer: "ventral"},
-      {answer: "ipsilateral"},
-      {answer: "proximal"},
-      {answer: "contralateral"}
+      {answer: 'ventral'},
+      {answer: 'ipsilateral'},
+      {answer: 'proximal'},
+      {answer: 'contralateral'}
     ],
-    correct: "contralateral"
+    correct: 'contralateral'
   },
 
   {
-    question: "prefix meaning 'before'",
+    question: 'prefix meaning "before"',
     answers: [
-      {answer: "intra"},
-      {answer: "ante"},
-      {answer: "retro"},
-      {answer: "trans"}
+      {answer: 'intra'},
+      {answer: 'ante'},
+      {answer: 'retro'},
+      {answer: 'trans'}
     ],
-    correct: "ante"
+    correct: 'ante'
   },
 
   {
-    question: "suffix centesis means:",
+    question: 'suffix centesis means:',
     answers: [
-      {answer: "pain"},
-      {answer: "deificency"},
-      {answer: "excess"},
-      {answer: "puncture and removal of fluid"}
+      {answer: 'pain'},
+      {answer: 'deificency'},
+      {answer: 'excess'},
+      {answer: 'puncture and removal of fluid'}
     ],
-    correct: "puncture and removal of fluid"
+    correct: 'puncture and removal of fluid'
   },
 
   {
-    question: "Suffix 'phagia' means:",
+    question: 'Suffix "phagia" means:',
     answers: [
-      {answer: "swallowing"},
-      {answer: "mentation"},
-      {answer: "displacement"},
-      {answer: "formation of"}
+      {answer: 'swallowing'},
+      {answer: 'mentation'},
+      {answer: 'displacement'},
+      {answer: 'formation of'}
     ],
-    correct: "swallowing"
+    correct: 'swallowing'
   },
 
   {
-    question: "term for under side of front paw:",
+    question: 'term for under side of front paw:',
     answers: [
-      {answer: "plantar"},
-      {answer: "palmar"},
-      {answer: "ventral"},
-      {answer: "distal"}
+      {answer: 'plantar'},
+      {answer: 'palmar'},
+      {answer: 'ventral'},
+      {answer: 'distal'}
     ],
-    correct: "palmar"
+    correct: 'palmar'
   },
 
   {
-    question: "prefix 'dys' means:",
+    question: 'prefix "dys" means:',
     answers: [
-      {answer: "pus"},
-      {answer: "difficult"},
-      {answer: "beneath"},
-      {answer: "under"}
+      {answer: 'pus'},
+      {answer: 'difficult'},
+      {answer: 'beneath'},
+      {answer: 'under'}
     ],
-    correct: "difficult"
+    correct: 'difficult'
   },
 
   {
-    question: "Point of bone furthest form body:",
+    question: 'Point of bone furthest form body:',
     answers: [
-      {answer: "proximal"},
-      {answer: "medial"},
-      {answer: "caudal"},
-      {answer: "distal"}
+      {answer: 'proximal'},
+      {answer: 'medial'},
+      {answer: 'caudal'},
+      {answer: 'distal'}
     ],
-    correct: "distal"
+    correct: 'distal'
   },
 
   {
-    question: "longistudinal division of body into 2 halves:",
+    question: 'longistudinal division of body into 2 halves:',
     answers: [
-      {answer: "saggital plane"},
-      {answer: "median plane"},
-      {answer: "paramedian plane"},
-      {answer: "transverse plane"}
+      {answer: 'saggital plane'},
+      {answer: 'median plane'},
+      {answer: 'paramedian plane'},
+      {answer: 'transverse plane'}
     ],
-    correct: "median plane"
+    correct: 'median plane'
   },
 
   {
-    question: "Which one is not a component of the neuroglia:",
+    question: 'Which one is not a component of the neuroglia:',
     answers: [
-      {answer: "astrocyte"},
-      {answer: "schwann cell"},
-      {answer: "nephron"},
-      {answer: "micoglia"}
+      {answer: 'astrocyte'},
+      {answer: 'schwann cell'},
+      {answer: 'nephron'},
+      {answer: 'micoglia'}
     ],
-    correct: "nephron"
+    correct: 'nephron'
   },
 
   {
-    question: "The electrical nerve impulse is transmitted:",
+    question: 'The electrical nerve impulse is transmitted:',
     answers: [
-      {answer: "dendrites to cell body"},
-      {answer: "axon terminal the the axon"},
-      {answer: "axon to the cell body"},
-      {answer: "syapse to the axon terminal"}
+      {answer: 'dendrites to cell body'},
+      {answer: 'axon terminal the the axon'},
+      {answer: 'axon to the cell body'},
+      {answer: 'syapse to the axon terminal'}
     ],
-    correct: "dendrites to cell body"
+    correct: 'dendrites to cell body'
   },
 
   {
-    question: "The following speeds up the transmission of an electrical pulse:",
+    question: 'The following speeds up the transmission of an electrical pulse:',
     answers: [
-      {answer: "myelin sheath, increase in diameter of axon"},
-      {answer: "myelin sheath, inc in length of axon"},
-      {answer: "unmyelinated neurones only"},
-      {answer: "unmyelinated and inc in diameter of axon"}
+      {answer: 'myelin sheath, increase in diameter of axon'},
+      {answer: 'myelin sheath, inc in length of axon'},
+      {answer: 'unmyelinated neurones only'},
+      {answer: 'unmyelinated and inc in diameter of axon'}
     ],
-    correct: "myelin sheath, increase in diameter of axon"
+    correct: 'myelin sheath, increase in diameter of axon'
   },
 
   {
-    question: "allows the neuron to receive oxygen",
+    question: 'allows the neuron to receive oxygen',
     answers: [
-      {answer: "schwann cell"},
-      {answer: "myelin sheath"},
-      {answer: "nodes of ranvier"},
-      {answer: "dendrons"}
+      {answer: 'schwann cell'},
+      {answer: 'myelin sheath'},
+      {answer: 'nodes of ranvier'},
+      {answer: 'dendrons'}
     ],
-    correct: "nodes of ranvier"
+    correct: 'nodes of ranvier'
   },
 
   {
-    question: "gap between the axon terminal and the dendrites of an adjacent neuron is called:",
+    question: 'gap between the axon terminal and the dendrites of an adjacent neuron is called:',
     answers: [
-      {answer: "synaptic vesicle"},
-      {answer: "synaptic cleft"},
-      {answer: "pre-synaptic membrane"},
-      {answer: "post- synaptic membrane"}
+      {answer: 'synaptic vesicle'},
+      {answer: 'synaptic cleft'},
+      {answer: 'pre-synaptic membrane'},
+      {answer: 'post- synaptic membrane'}
     ],
-    correct: "synaptic cleft"
+    correct: 'synaptic cleft'
   },
 
   {
-    question: "ion needed for release of neurotransmitters into a synaptic cleft:",
+    question: 'ion needed for release of neurotransmitters into a synaptic cleft:',
     answers: [
-      {answer: "Mg2+"},
-      {answer: "Fe2+"},
-      {answer: "HCO3-"},
-      {answer: "Ca2+"}
+      {answer: 'Mg2+'},
+      {answer: 'Fe2+'},
+      {answer: 'HCO3-'},
+      {answer: 'Ca2+'}
     ],
-    correct: "Ca2+"
+    correct: 'Ca2+'
   },
 
   {
-    question: "The action potential is not generated unless the stimulus reaches the:",
+    question: 'The action potential is not generated unless the stimulus reaches the:',
     answers: [
-      {answer: "max level"},
-      {answer: "min level"},
-      {answer: "refractory level"},
-      {answer: "threshold level"}
+      {answer: 'max level'},
+      {answer: 'min level'},
+      {answer: 'refractory level'},
+      {answer: 'threshold level'}
     ],
-    correct: "threshold level"
+    correct: 'threshold level'
   },
 
   {
-    question: "The CNS consists of:",
+    question: 'The CNS consists of:',
     answers: [
-      {answer: "brain"},
-      {answer: "brain and spinal cord"},
-      {answer: "brain and spinal nerves"},
-      {answer: "brain and cranial nerves"}
+      {answer: 'brain'},
+      {answer: 'brain and spinal cord'},
+      {answer: 'brain and spinal nerves'},
+      {answer: 'brain and cranial nerves'}
     ],
-    correct: "brain and spinal cord"
+    correct: 'brain and spinal cord'
   },
 
   {
-    question: "Smooth muscle is not contained in:",
+    question: 'Smooth muscle is not contained in:',
     answers: [
-      {answer: "diaphragm"},
-      {answer: "aarterial walls"},
-      {answer: "oesophageal walls"},
-      {answer: "biceps brachii"}
+      {answer: 'diaphragm'},
+      {answer: 'aarterial walls'},
+      {answer: 'oesophageal walls'},
+      {answer: 'biceps brachii'}
     ],
-    correct: "biceps brachii"
+    correct: 'biceps brachii'
   },
 
   {
-    question: "the unit of contraction in a voluntary muscle is:",
+    question: 'the unit of contraction in a voluntary muscle is:',
     answers: [
-      {answer: "sarcomere"},
-      {answer: "sarcolemma"},
-      {answer: "sarcoplasm"},
-      {answer: "sliding filament"}
+      {answer: 'sarcomere'},
+      {answer: 'sarcolemma'},
+      {answer: 'sarcoplasm'},
+      {answer: 'sliding filament'}
     ],
-    correct: "sarcomere"
+    correct: 'sarcomere'
   },
 
   {
-    question: "The following are striated",
+    question: 'The following are striated',
     answers: [
-      {answer: "voluntary and cardiac"},
-      {answer: "involuntary and cardiac"},
-      {answer: "smooth and voluntary"},
-      {answer: "smooth"}
+      {answer: 'voluntary and cardiac'},
+      {answer: 'involuntary and cardiac'},
+      {answer: 'smooth and voluntary'},
+      {answer: 'smooth'}
     ],
-    correct: "voluntary and cardiac"
+    correct: 'voluntary and cardiac'
   },
 
   {
-    question: "following muscle cell is branched:",
+    question: 'following muscle cell is branched:',
     answers: [
-      {answer: "smooth"},
-      {answer: "striated"},
-      {answer: "cardiac"},
-      {answer: "involuntary"}
+      {answer: 'smooth'},
+      {answer: 'striated'},
+      {answer: 'cardiac'},
+      {answer: 'involuntary'}
     ],
-    correct: "cardiac"
+    correct: 'cardiac'
   },
 
   {
-    question: "The following is mutlinucleated:",
+    question: 'The following is mutlinucleated:',
     answers: [
-      {answer: "cardiac"},
-      {answer: "smooth"},
-      {answer: "involuntary"},
-      {answer: "voluntary"}
+      {answer: 'cardiac'},
+      {answer: 'smooth'},
+      {answer: 'involuntary'},
+      {answer: 'voluntary'}
     ],
-    correct: "voluntary"
+    correct: 'voluntary'
   },
 
   {
-    question: "the following is under voluntary control;",
+    question: 'the following is under voluntary control;',
     answers: [
-      {answer: "skeletal"},
-      {answer: "cardiac"},
-      {answer: "smooth"},
-      {answer: "striated"}
+      {answer: 'skeletal'},
+      {answer: 'cardiac'},
+      {answer: 'smooth'},
+      {answer: 'striated'}
     ],
-    correct: "skeletal"
+    correct: 'skeletal'
   },
 
   {
-    question: "sliding filament theory:",
+    question: 'sliding filament theory:',
     answers: [
-      {answer: "actin slides between mysosin filaments"},
-      {answer: "myosin slides between actin filaments"},
-      {answer: "calcium and vitamin K are required for contraction"},
-      {answer: "both filaments slide"}
+      {answer: 'actin slides between mysosin filaments'},
+      {answer: 'myosin slides between actin filaments'},
+      {answer: 'calcium and vitamin K are required for contraction'},
+      {answer: 'both filaments slide'}
     ],
-    correct: "actin slides between mysosin filaments"
+    correct: 'actin slides between mysosin filaments'
   },
 
   {
-    question: "These specialist nerve fibres tranmsit the electrical impulses up the ventricular walls:",
+    question: 'These specialist nerve fibres tranmsit the electrical impulses up the ventricular walls:',
     answers: [
-      {answer: "bundle of His"},
-      {answer: "sino-atrial node"},
-      {answer: "collagen fibres"},
-      {answer: "Purkinje fibres"}
+      {answer: 'bundle of His'},
+      {answer: 'sino-atrial node'},
+      {answer: 'collagen fibres'},
+      {answer: 'Purkinje fibres'}
     ],
-    correct: "Purkinje fibres"
+    correct: 'Purkinje fibres'
   },
 
   {
-    question: "Fascicles are grouped and surrounded by:",
+    question: 'Fascicles are grouped and surrounded by:',
     answers: [
-      {answer: "endomysium"},
-      {answer: "epimysium"},
-      {answer: "perimysium"},
-      {answer: "sarcolemma"}
+      {answer: 'endomysium'},
+      {answer: 'epimysium'},
+      {answer: 'perimysium'},
+      {answer: 'sarcolemma'}
     ],
-    correct: "epimysium"
+    correct: 'epimysium'
   },
 
   {
-    question: "intercalated discs are located in",
+    question: 'intercalated discs are located in',
     answers: [
-      {answer: "smooth muscle"},
-      {answer: "involuntary muscle"},
-      {answer: "voluntary muscle"},
-      {answer: "cardiac muscle"}
+      {answer: 'smooth muscle'},
+      {answer: 'involuntary muscle'},
+      {answer: 'voluntary muscle'},
+      {answer: 'cardiac muscle'}
     ],
-    correct: "cardiac muscle"
+    correct: 'cardiac muscle'
   },
 
   {
-    question: "cardiac muscle is located within the:",
+    question: 'cardiac muscle is located within the:',
     answers: [
-      {answer: "peritoneum"},
-      {answer: "myocardium"},
-      {answer: "myometrium"},
-      {answer: "myoepithelium"}
+      {answer: 'peritoneum'},
+      {answer: 'myocardium'},
+      {answer: 'myometrium'},
+      {answer: 'myoepithelium'}
     ],
-    correct: "myocardium"
+    correct: 'myocardium'
   },
 
   {
-    question: "Smooth muscle is innervated by the:",
+    question: 'Smooth muscle is innervated by the:',
     answers: [
-      {answer: "CNS"},
-      {answer: "motor neurons"},
-      {answer: "sensory neurons"},
-      {answer: "ANS"}
+      {answer: 'CNS'},
+      {answer: 'motor neurons'},
+      {answer: 'sensory neurons'},
+      {answer: 'ANS'}
     ],
-    correct: "ANS"
+    correct: 'ANS'
   },
 
   {
-    question: "The stratum corneum and stratum lucidum are located in the:",
+    question: 'The stratum corneum and stratum lucidum are located in the:',
     answers: [
-      {answer: "skin dermis"},
-      {answer: "hypodermis"},
-      {answer: "skin epidermis"},
-      {answer: "subcutaneous layer"}
+      {answer: 'skin dermis'},
+      {answer: 'hypodermis'},
+      {answer: 'skin epidermis'},
+      {answer: 'subcutaneous layer'}
     ],
-    correct: "skin epidermis"
+    correct: 'skin epidermis'
   },
 
   {
-    question: "Dermal papillae are involved in the formation of:",
+    question: 'Dermal papillae are involved in the formation of:',
     answers: [
-      {answer: "sweat glands"},
-      {answer: "sebaceous glands"},
-      {answer: "arrector pili muscles"},
-      {answer: "hair follicles"}
+      {answer: 'sweat glands'},
+      {answer: 'sebaceous glands'},
+      {answer: 'arrector pili muscles'},
+      {answer: 'hair follicles'}
     ],
-    correct: "hair follicles"
+    correct: 'hair follicles'
   },
 
   {
-    question: "These hairs form the waterproofing top coat:",
+    question: 'These hairs form the waterproofing top coat:',
     answers: [
-      {answer: "wool hairs"},
-      {answer: "tylotrich hairs"},
-      {answer: "vibrissae"},
-      {answer: "guard hairs"}
+      {answer: 'wool hairs'},
+      {answer: 'tylotrich hairs'},
+      {answer: 'vibrissae'},
+      {answer: 'guard hairs'}
     ],
-    correct: "guard hairs"
+    correct: 'guard hairs'
   },
 
   {
-    question: "the dogs claw covers the:",
+    question: 'the dogs claw covers the:',
     answers: [
-      {answer: "ungual process"},
-      {answer: "second metatarsal"},
-      {answer: "hair cone"},
-      {answer: "second phalanx"}
+      {answer: 'ungual process'},
+      {answer: 'second metatarsal'},
+      {answer: 'hair cone'},
+      {answer: 'second phalanx'}
     ],
-    correct: "ungual process"
+    correct: 'ungual process'
   },
 
   {
-    question: "This gland is only found in cats:",
+    question: 'This gland is only found in cats:',
     answers: [
-      {answer: "circum-oral glands"},
-      {answer: "circum-anal glands"},
-      {answer: "meibomian glands"},
-      {answer: "harderian glands"}
+      {answer: 'circum-oral glands'},
+      {answer: 'circum-anal glands'},
+      {answer: 'meibomian glands'},
+      {answer: 'harderian glands'}
     ],
-    correct: "circum-oral glands"
+    correct: 'circum-oral glands'
   },
 
   {
-    question: "Modified sebaceous glands only found in dogs:",
+    question: 'Modified sebaceous glands only found in dogs:',
     answers: [
-      {answer: "circum-anal glands"},
-      {answer: "circum-oral glands"},
-      {answer: "tarsal glands"},
-      {answer: "ceruminous glands"}
+      {answer: 'circum-anal glands'},
+      {answer: 'circum-oral glands'},
+      {answer: 'tarsal glands'},
+      {answer: 'ceruminous glands'}
     ],
-    correct: "circum-anal glands"
+    correct: 'circum-anal glands'
   },
 
   {
-    question: "Gland that produces the oily component of tears:",
+    question: 'Gland that produces the oily component of tears:',
     answers: [
-      {answer: "sudoriferous gland"},
-      {answer: "preen gland"},
-      {answer: "meibomian gland"},
-      {answer: "lacrimal"}
+      {answer: 'sudoriferous gland'},
+      {answer: 'preen gland'},
+      {answer: 'meibomian gland'},
+      {answer: 'lacrimal'}
     ],
-    correct: "meibomian gland"
+    correct: 'meibomian gland'
   },
 
   {
-    question: "these feathers provide a smooth, streamlined surface:",
+    question: 'these feathers provide a smooth, streamlined surface:',
     answers: [
-      {answer: "filopumes"},
-      {answer: "downy feathers"},
-      {answer: "contour feathers"},
-      {answer: "secondary feathers"}
+      {answer: 'filopumes'},
+      {answer: 'downy feathers'},
+      {answer: 'contour feathers'},
+      {answer: 'secondary feathers'}
     ],
-    correct: "contour feathers"
+    correct: 'contour feathers'
   },
 
   {
-    question: "This gland produces an oily secretion to waterproof feathers:",
+    question: 'This gland produces an oily secretion to waterproof feathers:',
     answers: [
-      {answer: "haderian gland"},
-      {answer: "uropygial gland"},
-      {answer: "apocrine gland"},
-      {answer: "eccrine gland"}
+      {answer: 'haderian gland'},
+      {answer: 'uropygial gland'},
+      {answer: 'apocrine gland'},
+      {answer: 'eccrine gland'}
     ],
-    correct: "uropygial gland"
+    correct: 'uropygial gland'
   },
 
   {
-    question: "The central shaft of a feather:",
+    question: 'The central shaft of a feather:',
     answers: [
-      {answer: "covert"},
-      {answer: "sheath"},
-      {answer: "rachis"},
-      {answer: "pin"}
+      {answer: 'covert'},
+      {answer: 'sheath'},
+      {answer: 'rachis'},
+      {answer: 'pin'}
     ],
-    correct: "rachis"
+    correct: 'rachis'
   },
 
   {
-    question: "The junction between the hairline and the hoof which produces the horn tissue:",
+    question: 'The junction between the hairline and the hoof which produces the horn tissue:',
     answers: [
-      {answer: "the frog"},
-      {answer: "the bars"},
-      {answer: "the coronary band"},
-      {answer: "the white line"}
+      {answer: 'the frog'},
+      {answer: 'the bars'},
+      {answer: 'the coronary band'},
+      {answer: 'the white line'}
     ],
-    correct: "The coronary band"
+    correct: 'The coronary band'
   },
 
   {
-    question: "Shiny, waterproof material on the outside of the hoof",
+    question: 'Shiny, waterproof material on the outside of the hoof',
     answers: [
-      {answer: "the coronet"},
-      {answer: "the digital cushion"},
-      {answer: "the corium"},
-      {answer: "the periople"}
+      {answer: 'the coronet'},
+      {answer: 'the digital cushion'},
+      {answer: 'the corium'},
+      {answer: 'the periople'}
     ],
-    correct: "The periople"
+    correct: 'The periople'
   },
 
   {
-    question: "The distal phalanx in a horse, which is protected by the hoof",
+    question: 'The distal phalanx in a horse, which is protected by the hoof',
     answers: [
-      {answer: "the navicular bone"},
-      {answer: "the cannon bone"},
-      {answer: "the short pastern"},
-      {answer: "the pedal bone"}
+      {answer: 'the navicular bone'},
+      {answer: 'the cannon bone'},
+      {answer: 'the short pastern'},
+      {answer: 'the pedal bone'}
     ],
-    correct: "The pedal bone"
+    correct: 'The pedal bone'
   },
 
   {
-    question: "The sensitive dermis of the horse foot which interdigitates with the horn of the hoof",
+    question: 'The sensitive dermis of the horse foot which interdigitates with the horn of the hoof',
     answers: [
-      {answer: "the corium"},
-      {answer: "the coronet"},
-      {answer: "the coronary band"},
-      {answer: "the waterline"}
+      {answer: 'the corium'},
+      {answer: 'the coronet'},
+      {answer: 'the coronary band'},
+      {answer: 'the waterline'}
     ],
-    correct: "The corium"
+    correct: 'The corium'
   },
 
   {
-    question: "In which layer of the epidermis are new cells manufactured",
+    question: 'In which layer of the epidermis are new cells manufactured',
     answers: [
-      {answer: "stratum granulosum"},
-      {answer: "stratum lucidum"},
-      {answer: "stratum corneum"},
-      {answer: "stratum germinativum"}
+      {answer: 'stratum granulosum'},
+      {answer: 'stratum lucidum'},
+      {answer: 'stratum corneum'},
+      {answer: 'stratum germinativum'}
     ],
-    correct: "Stratum germinativum"
+    correct: 'Stratum germinativum'
   },
 
   {
-    question: "In which layer of the skin are the sensory nerve endings located",
+    question: 'In which layer of the skin are the sensory nerve endings located',
     answers: [
-      {answer: "hypodermis"},
-      {answer: "epidermis"},
-      {answer: "dermis"},
-      {answer: "subcutaneous"}
+      {answer: 'hypodermis'},
+      {answer: 'epidermis'},
+      {answer: 'dermis'},
+      {answer: 'subcutaneous'}
     ],
-    correct: "dermis"
+    correct: 'dermis'
   },
 
   {
-    question: "Where do the ducts of the sebaceous glands open into",
+    question: 'Where do the ducts of the sebaceous glands open into',
     answers: [
-      {answer: "Surface of the skin"},
-      {answer: "hair follicle"},
-      {answer: "sweat glands"},
-      {answer: "blood capillary"}
+      {answer: 'Surface of the skin'},
+      {answer: 'hair follicle'},
+      {answer: 'sweat glands'},
+      {answer: 'blood capillary'}
     ],
-    correct: "hair follicle"
+    correct: 'hair follicle'
   },
 
   {
-    question: "Where are ceruminous glands located",
+    question: 'Where are ceruminous glands located',
     answers: [
-      {answer: "opening into the eyelids"},
-      {answer: "around the anus"},
-      {answer: "associated with hair follicles"},
-      {answer: "external ear canal"}
+      {answer: 'opening into the eyelids'},
+      {answer: 'around the anus'},
+      {answer: 'associated with hair follicles'},
+      {answer: 'external ear canal'}
     ],
-    correct: "external ear canal"
+    correct: 'external ear canal'
   },
 
   {
-    question: "How many pads are on the hind paw of a dog",
+    question: 'How many pads are on the hind paw of a dog',
     answers: [
-      {answer: "7"},
-      {answer: "4"},
-      {answer: "5"},
-      {answer: "6"}
+      {answer: '7'},
+      {answer: '4'},
+      {answer: '5'},
+      {answer: '6'}
     ],
-    correct: "5"
+    correct: '5'
   },
 
   {
-    question: "Which of the following is not a function of the integument",
+    question: 'Which of the following is not a function of the integument',
     answers: [
-      {answer: "Secretion of pheromones"},
-      {answer: "production of vitamin E"},
-      {answer: "Protection against pathogenic bacteria"},
-      {answer: "thermoregulation"}
+      {answer: 'Secretion of pheromones'},
+      {answer: 'production of vitamin E'},
+      {answer: 'Protection against pathogenic bacteria'},
+      {answer: 'thermoregulation'}
     ],
-    correct: "production of vitamin E"
+    correct: 'production of vitamin E'
   },
 
   {
-    question: "Which is not a component of the appendicular skeleton?",
+    question: 'Which is not a component of the appendicular skeleton?',
     answers: [
-      {answer: "scapula"},
-      {answer: "tarsal"},
-      {answer: "sacrum"},
-      {answer: "humerus"}
+      {answer: 'scapula'},
+      {answer: 'tarsal'},
+      {answer: 'sacrum'},
+      {answer: 'humerus'}
     ],
-    correct: "sacrum"
+    correct: 'sacrum'
   },
 
   {
-    question: "The scapula can be categorised as what type of bone?",
+    question: 'The scapula can be categorised as what type of bone?',
     answers: [
-      {answer: "irregular"},
-      {answer: "short"},
-      {answer: "flat"},
-      {answer: "sesamoid"}
+      {answer: 'irregular'},
+      {answer: 'short'},
+      {answer: 'flat'},
+      {answer: 'sesamoid'}
     ],
-    correct: "flat"
+    correct: 'flat'
   },
 
   {
-    question: "Where can the acromion process be found?",
+    question: 'Where can the acromion process be found?',
     answers: [
-      {answer: "humerus"},
-      {answer: "scapula"},
-      {answer: "ulna"},
-      {answer: "femur"}
+      {answer: 'humerus'},
+      {answer: 'scapula'},
+      {answer: 'ulna'},
+      {answer: 'femur'}
     ],
-    correct: "scapula"
+    correct: 'scapula'
   },
 
   {
-    question: "Which is classed as vestigial in the cat?",
+    question: 'Which is classed as vestigial in the cat?',
     answers: [
-      {answer: "scapula"},
-      {answer: "tarsal"},
-      {answer: "clavicle"},
-      {answer: "humerus"}
+      {answer: 'scapula'},
+      {answer: 'tarsal'},
+      {answer: 'clavicle'},
+      {answer: 'humerus'}
     ],
-    correct: "clavicle"
+    correct: 'clavicle'
   },
 
   {
-    question: "Which bone does the Greater Tubercle form a point of muscle attachment?",
+    question: 'Which bone does the Greater Tubercle form a point of muscle attachment?',
     answers: [
-      {answer: "proximal humerus"},
-      {answer: "distal humerus"},
-      {answer: "proximal femur"},
-      {answer: "distal ulna"}
+      {answer: 'proximal humerus'},
+      {answer: 'distal humerus'},
+      {answer: 'proximal femur'},
+      {answer: 'distal ulna'}
     ],
-    correct: "proximal humerus"
+    correct: 'proximal humerus'
   },
 
   {
-    question: "Which bone is the trochlea notch found?",
+    question: 'Which bone is the trochlea notch found?',
     answers: [
-      {answer: "scapula"},
-      {answer: "radius"},
-      {answer: "ulna"},
-      {answer: "humerus"}
+      {answer: 'scapula'},
+      {answer: 'radius'},
+      {answer: 'ulna'},
+      {answer: 'humerus'}
     ],
-    correct: "ulna"
+    correct: 'ulna'
   },
 
   {
-    question: "The point of the elbow is known as?",
+    question: 'The point of the elbow is known as?',
     answers: [
-      {answer: "olecranon process"},
-      {answer: "olecranon fossa"},
-      {answer: "olecranon foves"},
-      {answer: "lateral styloid"}
+      {answer: 'olecranon process'},
+      {answer: 'olecranon fossa'},
+      {answer: 'olecranon foves'},
+      {answer: 'lateral styloid'}
     ],
-    correct: "olecranon process"
+    correct: 'olecranon process'
   },
 
   {
-    question: "How many bones form the carpus?",
+    question: 'How many bones form the carpus?',
     answers: [
-      {answer: "1"},
-      {answer: "5"},
-      {answer: "7"},
-      {answer: "8"}
+      {answer: '1'},
+      {answer: '5'},
+      {answer: '7'},
+      {answer: '8'}
     ],
-    correct: "7"
+    correct: '7'
   },
 
   {
-    question: "Which metacarpal carries the dew claw?",
+    question: 'Which metacarpal carries the dew claw?',
     answers: [
-      {answer: "1"},
-      {answer: "2"},
-      {answer: "3"},
-      {answer: "4"}
+      {answer: '1'},
+      {answer: '2'},
+      {answer: '3'},
+      {answer: '4'}
     ],
-    correct: "1"
+    correct: '1'
   },
 
   {
-    question: "A condylar process on a bone is?",
+    question: 'A condylar process on a bone is?',
     answers: [
-      {answer: "depressed are below the scapula bone"},
-      {answer: "hole in a bone"},
-      {answer: "thin projection at the distal end of the radius"},
-      {answer: "a round protrusion at the distal end of the humerus"}
+      {answer: 'depressed are below the scapula bone'},
+      {answer: 'hole in a bone'},
+      {answer: 'thin projection at the distal end of the radius'},
+      {answer: 'a round protrusion at the distal end of the humerus'}
     ],
-    correct: "a round protrusion at the distal end of the humerus"
+    correct: 'a round protrusion at the distal end of the humerus'
   },
 
   {
-    question: "The condylar process is located on the?",
+    question: 'The condylar process is located on the?',
     answers: [
-      {answer: "maxilla"},
-      {answer: "mandible"},
-      {answer: "occipital"},
-      {answer: "nasal"}
+      {answer: 'maxilla'},
+      {answer: 'mandible'},
+      {answer: 'occipital'},
+      {answer: 'nasal'}
     ],
-    correct: "mandible"
+    correct: 'mandible'
   },
 
   {
-    question: "A depression in a bone is known as?",
+    question: 'A depression in a bone is known as?',
     answers: [
-      {answer: "fossa"},
-      {answer: "foramen"},
-      {answer: "groove"},
-      {answer: "condyle"}
+      {answer: 'fossa'},
+      {answer: 'foramen'},
+      {answer: 'groove'},
+      {answer: 'condyle'}
     ],
-    correct: "fossa"
+    correct: 'fossa'
   },
 
   {
-    question: "The horizontal part of the mandible is known as?",
+    question: 'The horizontal part of the mandible is known as?',
     answers: [
-      {answer: "body"},
-      {answer: "ramus"},
-      {answer: "coronoid process"},
-      {answer: "mental foramina"}
+      {answer: 'body'},
+      {answer: 'ramus'},
+      {answer: 'coronoid process'},
+      {answer: 'mental foramina'}
     ],
-    correct: "body"
+    correct: 'body'
   },
 
   {
-    question: "Which hairs have a profuse blood supply?",
+    question: 'Which hairs have a profuse blood supply?',
     answers: [
-      {answer: "guard hairs"},
-      {answer: "wool hairs"},
-      {answer: "tylotrich hairs"},
-      {answer: "vibrissae hairs"}
+      {answer: 'guard hairs'},
+      {answer: 'wool hairs'},
+      {answer: 'tylotrich hairs'},
+      {answer: 'vibrissae hairs'}
     ],
-    correct: "tylotrich hairs"
+    correct: 'tylotrich hairs'
   },
 
   {
-    question: "The name of the structure that joins the rib cage ventrally?",
+    question: 'The name of the structure that joins the rib cage ventrally?',
     answers: [
-      {answer: "spine"},
-      {answer: "sternebrae"},
-      {answer: "clavicle"},
-      {answer: "costal arch"}
+      {answer: 'spine'},
+      {answer: 'sternebrae'},
+      {answer: 'clavicle'},
+      {answer: 'costal arch'}
     ],
-    correct: "sternebrae"
+    correct: 'sternebrae'
   },
 
   {
-    question: "The sesamoid bone contained within the trochlea of the femur?",
+    question: 'The sesamoid bone contained within the trochlea of the femur?',
     answers: [
-      {answer: "fabellae"},
-      {answer: "patella"},
-      {answer: "clavicle"},
-      {answer: "ossicle"}
+      {answer: 'fabellae'},
+      {answer: 'patella'},
+      {answer: 'clavicle'},
+      {answer: 'ossicle'}
     ],
-    correct: "patella"
+    correct: 'patella'
   },
 
   {
-    question: "The sesamoid bone contained within the quadriceps femoris?",
+    question: 'The sesamoid bone contained within the quadriceps femoris?',
     answers: [
-      {answer: "fabellae"},
-      {answer: "patella"},
-      {answer: "clavicle"},
-      {answer: "ossicle"}
+      {answer: 'fabellae'},
+      {answer: 'patella'},
+      {answer: 'clavicle'},
+      {answer: 'ossicle'}
     ],
-    correct: "patella"
+    correct: 'patella'
   },
 
   {
-    question: "The sesamoid bone contained within the gastrocnemius?",
+    question: 'The sesamoid bone contained within the gastrocnemius?',
     answers: [
-      {answer: "fabellae"},
-      {answer: "patella"},
-      {answer: "clavicle"},
-      {answer: "ossicle"}
+      {answer: 'fabellae'},
+      {answer: 'patella'},
+      {answer: 'clavicle'},
+      {answer: 'ossicle'}
     ],
-    correct: "fabellae"
+    correct: 'fabellae'
   },
 
   {
-    question: "Immovable joint?",
+    question: 'Immovable joint?',
     answers: [
-      {answer: "synarthrosis"},
-      {answer: "amphiarthrosis"},
-      {answer: "diarthrosis"},
-      {answer: "ball and socket"}
+      {answer: 'synarthrosis'},
+      {answer: 'amphiarthrosis'},
+      {answer: 'diarthrosis'},
+      {answer: 'ball and socket'}
     ],
-    correct: "synarthrosis"
+    correct: 'synarthrosis'
   },
 
   {
-    question: "A joint with slight capability of movement?",
+    question: 'A joint with slight capability of movement?',
     answers: [
-      {answer: "synarthrosis"},
-      {answer: "amphiarthrosis"},
-      {answer: "diarthrosis"},
-      {answer: "ball and socket"}
+      {answer: 'synarthrosis'},
+      {answer: 'amphiarthrosis'},
+      {answer: 'diarthrosis'},
+      {answer: 'ball and socket'}
     ],
-    correct: "amphiarthrosis"
+    correct: 'amphiarthrosis'
   },
 
   {
-    question: "Movable joint?",
+    question: 'Movable joint?',
     answers: [
-      {answer: "synarthrosis"},
-      {answer: "amphiarthrosis"},
-      {answer: "diarthrosis"},
-      {answer: "ball and socket"}
+      {answer: 'synarthrosis'},
+      {answer: 'amphiarthrosis'},
+      {answer: 'diarthrosis'},
+      {answer: 'ball and socket'}
     ],
-    correct: "diarthrosis"
+    correct: 'diarthrosis'
   },
 
   {
-    question: "Which is palpated closest to the sacrum?",
+    question: 'Which is palpated closest to the sacrum?',
     answers: [
-      {answer: "ilium"},
-      {answer: "ischium"},
-      {answer: "pubis"},
-      {answer: "acetabulum"}
+      {answer: 'ilium'},
+      {answer: 'ischium'},
+      {answer: 'pubis'},
+      {answer: 'acetabulum'}
     ],
-    correct: "ilium"
+    correct: 'ilium'
   },
 
   {
-    question: "The medial malleolus is located at the?",
+    question: 'The medial malleolus is located at the?',
     answers: [
-      {answer: "distal fibula"},
-      {answer: "medial fibula"},
-      {answer: "proximal ulna"},
-      {answer: "distal tibia"}
+      {answer: 'distal fibula'},
+      {answer: 'medial fibula'},
+      {answer: 'proximal ulna'},
+      {answer: 'distal tibia'}
     ],
-    correct: "distal tibia"
+    correct: 'distal tibia'
   },
 
   {
-    question: "The lateral malleolus is located at the?",
+    question: 'The lateral malleolus is located at the?',
     answers: [
-      {answer: "distal fibula"},
-      {answer: "medial fibula"},
-      {answer: "proximal ulna"},
-      {answer: "distal tibia"}
+      {answer: 'distal fibula'},
+      {answer: 'medial fibula'},
+      {answer: 'proximal ulna'},
+      {answer: 'distal tibia'}
     ],
-    correct: "distal fibula"
+    correct: 'distal fibula'
   },
 
   {
-    question: "The part of the pelvic girdle allowing the passage of blood vessels and nerves?",
+    question: 'The part of the pelvic girdle allowing the passage of blood vessels and nerves?',
     answers: [
-      {answer: "foramen magnum"},
-      {answer: "obturator foramen"},
-      {answer: "obturator fossa"},
-      {answer: "mental foramen"}
+      {answer: 'foramen magnum'},
+      {answer: 'obturator foramen'},
+      {answer: 'obturator fossa'},
+      {answer: 'mental foramen'}
     ],
-    correct: "obturator foramen"
+    correct: 'obturator foramen'
   },
 
   {
-    question: "The location of the greater and lesser trochanters is?",
+    question: 'The location of the greater and lesser trochanters is?',
     answers: [
-      {answer: "humerus"},
-      {answer: "tibia"},
-      {answer: "fibula"},
-      {answer: "femur"}
+      {answer: 'humerus'},
+      {answer: 'tibia'},
+      {answer: 'fibula'},
+      {answer: 'femur'}
     ],
-    correct: "femur"
+    correct: 'femur'
   },
 
   {
-    question: "The lateral malleolus is located at the?",
+    question: 'The lateral malleolus is located at the?',
     answers: [
-      {answer: "distal fibula"},
-      {answer: "medial fibula"},
-      {answer: "proximal ulna"},
-      {answer: "distal tibia"}
+      {answer: 'distal fibula'},
+      {answer: 'medial fibula'},
+      {answer: 'proximal ulna'},
+      {answer: 'distal tibia'}
     ],
-    correct: "distal fibula"
+    correct: 'distal fibula'
   },
 
   {
-    question: "The patella is located in the?",
+    question: 'The patella is located in the?',
     answers: [
-      {answer: "trochlea groove"},
-      {answer: "semi- lunar notch"},
-      {answer: "proximal ulna"},
-      {answer: "tibial crest"}
+      {answer: 'trochlea groove'},
+      {answer: 'semi- lunar notch'},
+      {answer: 'proximal ulna'},
+      {answer: 'tibial crest'}
     ],
-    correct: "trochlea groove"
+    correct: 'trochlea groove'
   },
 
   {
-    question: "The lateral malleolus is located at the?",
+    question: 'The lateral malleolus is located at the?',
     answers: [
-      {answer: "distal fibula"},
-      {answer: "medial fibula"},
-      {answer: "proximal ulna"},
-      {answer: "distal tibia"}
+      {answer: 'distal fibula'},
+      {answer: 'medial fibula'},
+      {answer: 'proximal ulna'},
+      {answer: 'distal tibia'}
     ],
-    correct: "distal fibula"
+    correct: 'distal fibula'
   },
 
   {
-    question: "The achilles tendon attaches to the?",
+    question: 'The achilles tendon attaches to the?',
     answers: [
-      {answer: "olecranon fossa"},
-      {answer: "calcaneous bone"},
-      {answer: "proximal ulna"},
-      {answer: "distal femur"}
+      {answer: 'olecranon fossa'},
+      {answer: 'calcaneous bone'},
+      {answer: 'proximal ulna'},
+      {answer: 'distal femur'}
     ],
-    correct: "olecranon fossa"
+    correct: 'olecranon fossa'
   },
 
   {
-    question: "The 13th rib in the dog is a?",
+    question: 'The 13th rib in the dog is a?',
     answers: [
-      {answer: "true rib"},
-      {answer: "false rib"},
-      {answer: "floating rib"},
-      {answer: "costal arch"}
+      {answer: 'true rib'},
+      {answer: 'false rib'},
+      {answer: 'floating rib'},
+      {answer: 'costal arch'}
     ],
-    correct: "floating rib"
+    correct: 'floating rib'
   },
 
   {
-    question: "The movement that decreases the angle of a joint?",
+    question: 'The movement that decreases the angle of a joint?',
     answers: [
-      {answer: "flexion"},
-      {answer: "extension"},
-      {answer: "protraction"},
-      {answer: "supination"}
+      {answer: 'flexion'},
+      {answer: 'extension'},
+      {answer: 'protraction'},
+      {answer: 'supination'}
     ],
-    correct: "flexion"
+    correct: 'flexion'
   },
 
   {
-    question: "The movement that increases the angle of a joint?",
+    question: 'The movement that increases the angle of a joint?',
     answers: [
-      {answer: "flexion"},
-      {answer: "extension"},
-      {answer: "protraction"},
-      {answer: "supination"}
+      {answer: 'flexion'},
+      {answer: 'extension'},
+      {answer: 'protraction'},
+      {answer: 'supination'}
     ],
-    correct: "extension"
+    correct: 'extension'
   },
 
   {
-    question: "The movement that moves the limb towards the body?",
+    question: 'The movement that moves the limb towards the body?',
     answers: [
-      {answer: "flexion"},
-      {answer: "extension"},
-      {answer: "protraction"},
-      {answer: "supination"}
+      {answer: 'flexion'},
+      {answer: 'extension'},
+      {answer: 'protraction'},
+      {answer: 'supination'}
     ],
-    correct: "protraction"
+    correct: 'protraction'
   },
 
   {
-    question: "The movement causing the palm to face upwards?",
+    question: 'The movement causing the palm to face upwards?',
     answers: [
-      {answer: "flexion"},
-      {answer: "extension"},
-      {answer: "protraction"},
-      {answer: "supination"}
+      {answer: 'flexion'},
+      {answer: 'extension'},
+      {answer: 'protraction'},
+      {answer: 'supination'}
     ],
-    correct: "supination"
+    correct: 'supination'
   },
 
   {
-    question: "Which develop my intramembranous ossification?",
+    question: 'Which develop my intramembranous ossification?',
     answers: [
-      {answer: "patella and olecranon fossa"},
-      {answer: "patella"},
-      {answer: "patella and fabellae"},
-      {answer: "olecranon fossa and calcaneous"}
+      {answer: 'patella and olecranon fossa'},
+      {answer: 'patella'},
+      {answer: 'patella and fabellae'},
+      {answer: 'olecranon fossa and calcaneous'}
     ],
-    correct: "patella and fabellae"
+    correct: 'patella and fabellae'
   },
 
   {
-    question: "What is a synovial joint?",
+    question: 'What is a synovial joint?',
     answers: [
-      {answer: "fused joint"},
-      {answer: "fluid filled joint"},
-      {answer: "pubic symphysis"},
-      {answer: "supination"}
+      {answer: 'fused joint'},
+      {answer: 'fluid filled joint'},
+      {answer: 'pubic symphysis'},
+      {answer: 'supination'}
     ],
-    correct: "fluid filled joint"
+    correct: 'fluid filled joint'
   },
 
   {
-    question: "Primary centre of ossification?",
+    question: 'Primary centre of ossification?',
     answers: [
-      {answer: "diaphysis"},
-      {answer: "epiphysis"},
-      {answer: "epiphyseal plate"},
-      {answer: "metaphysis"}
+      {answer: 'diaphysis'},
+      {answer: 'epiphysis'},
+      {answer: 'epiphyseal plate'},
+      {answer: 'metaphysis'}
     ],
-    correct: "diaphysis"
+    correct: 'diaphysis'
   },
 
   {
-    question: "Secondary centre of ossification?",
+    question: 'Secondary centre of ossification?',
     answers: [
-      {answer: "diaphysis"},
-      {answer: "epiphysis"},
-      {answer: "epiphyseal plate"},
-      {answer: "metaphysis"}
+      {answer: 'diaphysis'},
+      {answer: 'epiphysis'},
+      {answer: 'epiphyseal plate'},
+      {answer: 'metaphysis'}
     ],
-    correct: "epiphysis"
+    correct: 'epiphysis'
   },
 
   {
-    question: "Narrow band of cartilage between primary and secondary centres of ossification?",
+    question: 'Narrow band of cartilage between primary and secondary centres of ossification?',
     answers: [
-      {answer: "diaphysis"},
-      {answer: "epiphysis"},
-      {answer: "epiphyseal plate"},
-      {answer: "metaphysis"}
+      {answer: 'diaphysis'},
+      {answer: 'epiphysis'},
+      {answer: 'epiphyseal plate'},
+      {answer: 'metaphysis'}
     ],
-    correct: "epiphyseal plate"
+    correct: 'epiphyseal plate'
   },
 
   {
-    question: "Ampiarthrosis joint?",
+    question: 'Ampiarthrosis joint?',
     answers: [
-      {answer: "temporomandibular"},
-      {answer: "skull sutures"},
-      {answer: "between vertebrae bodies"},
-      {answer: "mandibular symphysis"}
+      {answer: 'temporomandibular'},
+      {answer: 'skull sutures'},
+      {answer: 'between vertebrae bodies'},
+      {answer: 'mandibular symphysis'}
     ],
-    correct: "between vertebrae bodies"
+    correct: 'between vertebrae bodies'
   },
 
   {
-    question: "Synovial joint?",
+    question: 'Synovial joint?',
     answers: [
-      {answer: "Elbow"},
-      {answer: "skull sutures"},
-      {answer: "between vertebrae bodies"},
-      {answer: "mandibular symphysis"}
+      {answer: 'Elbow'},
+      {answer: 'skull sutures'},
+      {answer: 'between vertebrae bodies'},
+      {answer: 'mandibular symphysis'}
     ],
-    correct: "Elbow"
+    correct: 'Elbow'
   },
 
   {
-    question: "diarthrosis joint?",
+    question: 'diarthrosis joint?',
     answers: [
-      {answer: "knee"},
-      {answer: "skull sutures"},
-      {answer: "between vertebrae bodies"},
-      {answer: "mandibular symphysis"}
+      {answer: 'knee'},
+      {answer: 'skull sutures'},
+      {answer: 'between vertebrae bodies'},
+      {answer: 'mandibular symphysis'}
     ],
-    correct: "knee"
+    correct: 'knee'
   },
 
   {
-    question: "synarthrosis joint?",
+    question: 'synarthrosis joint?',
     answers: [
-      {answer: "temporomandibular"},
-      {answer: "knee"},
-      {answer: "between vertebrae bodies"},
-      {answer: "mandibular symphysis"}
+      {answer: 'temporomandibular'},
+      {answer: 'knee'},
+      {answer: 'between vertebrae bodies'},
+      {answer: 'mandibular symphysis'}
     ],
-    correct: "mandibular symphysis"
+    correct: 'mandibular symphysis'
   },
 
   {
-    question: "saddle joint?",
+    question: 'saddle joint?',
     answers: [
-      {answer: "interphalangeal"},
-      {answer: "skull sutures"},
-      {answer: "between vertebrae bodies"},
-      {answer: "mandibular symphysis"}
+      {answer: 'interphalangeal'},
+      {answer: 'skull sutures'},
+      {answer: 'between vertebrae bodies'},
+      {answer: 'mandibular symphysis'}
     ],
-    correct: "interphalangeal"
+    correct: 'interphalangeal'
   },
 
   {
-    question: "Stabilise the joint from the outside of the joint capsule?",
+    question: 'Stabilise the joint from the outside of the joint capsule?',
     answers: [
-      {answer: "menisci"},
-      {answer: "collateral ligaments"},
-      {answer: "collateral tendons"},
-      {answer: "cruciate ligament"}
+      {answer: 'menisci'},
+      {answer: 'collateral ligaments'},
+      {answer: 'collateral tendons'},
+      {answer: 'cruciate ligament'}
     ],
-    correct: "collateral ligaments"
+    correct: 'collateral ligaments'
   },
 
   {
-    question: "Stabilise the joint from the inside of the joint capsule?",
+    question: 'Stabilise the joint from the inside of the joint capsule?',
     answers: [
-      {answer: "menisci"},
-      {answer: "collateral ligaments"},
-      {answer: "collateral tendons"},
-      {answer: "cruciate ligament"}
+      {answer: 'menisci'},
+      {answer: 'collateral ligaments'},
+      {answer: 'collateral tendons'},
+      {answer: 'cruciate ligament'}
     ],
-    correct: "cruciate ligament"
+    correct: 'cruciate ligament'
   },
 
   {
-    question: "Main surface for attachment of wing muscles in a bird?",
+    question: 'Main surface for attachment of wing muscles in a bird?',
     answers: [
-      {answer: "alula"},
-      {answer: "quadrate bone"},
-      {answer: "uncinate process"},
-      {answer: "keel bone"}
+      {answer: 'alula'},
+      {answer: 'quadrate bone'},
+      {answer: 'uncinate process'},
+      {answer: 'keel bone'}
     ],
-    correct: "keel bone"
+    correct: 'keel bone'
   },
 
   {
-    question: "Provides an additional joint in a bird?",
+    question: 'Provides an additional joint in a bird?',
     answers: [
-      {answer: "alula"},
-      {answer: "quadrate bone"},
-      {answer: "uncinate process"},
-      {answer: "keel bone"}
+      {answer: 'alula'},
+      {answer: 'quadrate bone'},
+      {answer: 'uncinate process'},
+      {answer: 'keel bone'}
     ],
-    correct: "quadrate bone"
+    correct: 'quadrate bone'
   },
 
   {
-    question: "Fused bones in a bird?",
+    question: 'Fused bones in a bird?',
     answers: [
-      {answer: "alula"},
-      {answer: "quadrate bone"},
-      {answer: "synsacrum"},
-      {answer: "keel bone"}
+      {answer: 'alula'},
+      {answer: 'quadrate bone'},
+      {answer: 'synsacrum'},
+      {answer: 'keel bone'}
     ],
-    correct: "synsacrum"
+    correct: 'synsacrum'
   },
 
   {
-    question: "Responsible for the formation of the medullary cavity?",
+    question: 'Responsible for the formation of the medullary cavity?',
     answers: [
-      {answer: "osteoblasts"},
-      {answer: "osteoclasts"},
-      {answer: "osteocytes"},
-      {answer: "keel bone"}
+      {answer: 'osteoblasts'},
+      {answer: 'osteoclasts'},
+      {answer: 'osteocytes'},
+      {answer: 'keel bone'}
     ],
-    correct: "osteoclasts"
+    correct: 'osteoclasts'
   },
 
   {
-    question: "Responsible for the repair of bone post-fracture?",
+    question: 'Responsible for the repair of bone post-fracture?',
     answers: [
-      {answer: "osteoblasts"},
-      {answer: "osteoclasts"},
-      {answer: "osteocytes"},
-      {answer: "keel bone"}
+      {answer: 'osteoblasts'},
+      {answer: 'osteoclasts'},
+      {answer: 'osteocytes'},
+      {answer: 'keel bone'}
     ],
-    correct: "osteoblasts"
+    correct: 'osteoblasts'
   },
 
   {
-    question: "Responsible for the protraction of the forelimb and laterally bending the neck?",
+    question: 'Responsible for the protraction of the forelimb and laterally bending the neck?',
     answers: [
-      {answer: "brachiocephalicus"},
-      {answer: "brachialis"},
-      {answer: "biceps brachii"},
-      {answer: "biceps femoris"}
+      {answer: 'brachiocephalicus'},
+      {answer: 'brachialis'},
+      {answer: 'biceps brachii'},
+      {answer: 'biceps femoris'}
     ],
-    correct: "brachiocephalicus"
+    correct: 'brachiocephalicus'
   },
 
   {
-    question: "Inserts in the coronoid process?",
+    question: 'Inserts in the coronoid process?',
     answers: [
-      {answer: "brachiocephalicus"},
-      {answer: "temporalis"},
-      {answer: "masseter"},
-      {answer: "biceps femoris"}
+      {answer: 'brachiocephalicus'},
+      {answer: 'temporalis'},
+      {answer: 'masseter'},
+      {answer: 'biceps femoris'}
     ],
-    correct: "temporalis"
+    correct: 'temporalis'
   },
 
   {
-    question: "Where do the extra ocular muscles insert?",
+    question: 'Where do the extra ocular muscles insert?',
     answers: [
-      {answer: "sclera"},
-      {answer: "orbit"},
-      {answer: "retina"},
-      {answer: "cone"}
+      {answer: 'sclera'},
+      {answer: 'orbit'},
+      {answer: 'retina'},
+      {answer: 'cone'}
     ],
-    correct: "sclera"
+    correct: 'sclera'
   },
 
   {
-    question: "Which duct does the thoracic duct pass through?",
+    question: 'Which duct does the thoracic duct pass through?',
     answers: [
-      {answer: "oesophageal hiatus"},
-      {answer: "aortic hiatus"},
-      {answer: "caval foramen"},
-      {answer: "linea alba"}
+      {answer: 'oesophageal hiatus'},
+      {answer: 'aortic hiatus'},
+      {answer: 'caval foramen'},
+      {answer: 'linea alba'}
     ],
-    correct: "aortic hiatus"
+    correct: 'aortic hiatus'
   },
 
   {
-    question: "Which duct does the aorta pass through?",
+    question: 'Which duct does the aorta pass through?',
     answers: [
-      {answer: "oesophageal hiatus"},
-      {answer: "aortic hiatus"},
-      {answer: "caval foramen"},
-      {answer: "linea alba"}
+      {answer: 'oesophageal hiatus'},
+      {answer: 'aortic hiatus'},
+      {answer: 'caval foramen'},
+      {answer: 'linea alba'}
     ],
-    correct: "aortic hiatus"
+    correct: 'aortic hiatus'
   },
 
   {
-    question: "Which duct does the azygous vein pass through?",
+    question: 'Which duct does the azygous vein pass through?',
     answers: [
-      {answer: "oesophageal hiatus"},
-      {answer: "aortic hiatus"},
-      {answer: "caval foramen"},
-      {answer: "linea alba"}
+      {answer: 'oesophageal hiatus'},
+      {answer: 'aortic hiatus'},
+      {answer: 'caval foramen'},
+      {answer: 'linea alba'}
     ],
-    correct: "aortic hiatus"
+    correct: 'aortic hiatus'
   },
   {
-    question: "Which duct does the oesophagus pass through?",
+    question: 'Which duct does the oesophagus pass through?',
     answers: [
-      {answer: "oesophageal hiatus"},
-      {answer: "aortic hiatus"},
-      {answer: "caval foramen"},
-      {answer: "linea alba"}
+      {answer: 'oesophageal hiatus'},
+      {answer: 'aortic hiatus'},
+      {answer: 'caval foramen'},
+      {answer: 'linea alba'}
     ],
-    correct: "oesophageal hiatus"
+    correct: 'oesophageal hiatus'
   },
 
   {
-    question: "Which duct does the vagal nerve pass through?",
+    question: 'Which duct does the vagal nerve pass through?',
     answers: [
-      {answer: "oesophageal hiatus"},
-      {answer: "aortic hiatus"},
-      {answer: "caval foramen"},
-      {answer: "linea alba"}
+      {answer: 'oesophageal hiatus'},
+      {answer: 'aortic hiatus'},
+      {answer: 'caval foramen'},
+      {answer: 'linea alba'}
     ],
-    correct: "oesophageal hiatus"
+    correct: 'oesophageal hiatus'
   },
 
   {
-    question: "Which duct does the caudal vena cava pass through?",
+    question: 'Which duct does the caudal vena cava pass through?',
     answers: [
-      {answer: "oesophageal hiatus"},
-      {answer: "aortic hiatus"},
-      {answer: "caval foramen"},
-      {answer: "linea alba"}
+      {answer: 'oesophageal hiatus'},
+      {answer: 'aortic hiatus'},
+      {answer: 'caval foramen'},
+      {answer: 'linea alba'}
     ],
-    correct: "caval foramen"
+    correct: 'caval foramen'
   },
 
   {
-    question: "Which does not insert on the linea alba?",
+    question: 'Which does not insert on the linea alba?',
     answers: [
-      {answer: "external abdominal oblique"},
-      {answer: "transversus abdominus"},
-      {answer: "rectus abdominus"},
-      {answer: "internal abdominal oblique"}
+      {answer: 'external abdominal oblique'},
+      {answer: 'transversus abdominus'},
+      {answer: 'rectus abdominus'},
+      {answer: 'internal abdominal oblique'}
     ],
-    correct: "rectus abdominus"
+    correct: 'rectus abdominus'
   },
 
   {
-    question: "Which inserts on the spine of the scapula?",
+    question: 'Which inserts on the spine of the scapula?',
     answers: [
-      {answer: "infraspinatus"},
-      {answer: "transversus abdominus"},
-      {answer: "trapezius"},
-      {answer: "pectoralis"}
+      {answer: 'infraspinatus'},
+      {answer: 'transversus abdominus'},
+      {answer: 'trapezius'},
+      {answer: 'pectoralis'}
     ],
-    correct: "infraspinatus"
+    correct: 'infraspinatus'
   },
 
   {
-    question: "Which muscle flexes the hock?",
+    question: 'Which muscle flexes the hock?',
     answers: [
-      {answer: "biceps brachii"},
-      {answer: "biceps femoris"},
-      {answer: "gastrocnemius"},
-      {answer: "trapezius"}
+      {answer: 'biceps brachii'},
+      {answer: 'biceps femoris'},
+      {answer: 'gastrocnemius'},
+      {answer: 'trapezius'}
     ],
-    correct: "gastrocnemius"
+    correct: 'gastrocnemius'
   },
 
   {
-    question: "Which is not a component of the achilles tendon?",
+    question: 'Which is not a component of the achilles tendon?',
     answers: [
-      {answer: "semimembranosus"},
-      {answer: "biceps femoris"},
-      {answer: "semitendinous"},
-      {answer: "superficial digital flexor"}
+      {answer: 'semimembranosus'},
+      {answer: 'biceps femoris'},
+      {answer: 'semitendinous'},
+      {answer: 'superficial digital flexor'}
     ],
-    correct: "semimembranosus"
+    correct: 'semimembranosus'
   },
 
   {
-    question: "How many passages are there in the diaphragm?",
+    question: 'How many passages are there in the diaphragm?',
     answers: [
-      {answer: "1"},
-      {answer: "3"},
-      {answer: "4"},
-      {answer: "5"}
+      {answer: '1'},
+      {answer: '3'},
+      {answer: '4'},
+      {answer: '5'}
     ],
-    correct: "3"
+    correct: '3'
   },
 
   {
-    question: "Which is not a component of the hamstring group?",
+    question: 'Which is not a component of the hamstring group?',
     answers: [
-      {answer: "semimembranosus"},
-      {answer: "biceps femoris"},
-      {answer: "semitendinous"},
-      {answer: "quadriceps femoris"}
+      {answer: 'semimembranosus'},
+      {answer: 'biceps femoris'},
+      {answer: 'semitendinous'},
+      {answer: 'quadriceps femoris'}
     ],
-    correct: "quadriceps femoris"
+    correct: 'quadriceps femoris'
   },
 
   {
-    question: "Which fan shaped muscle originates on the spine and retracts the forelimb?",
+    question: 'Which fan shaped muscle originates on the spine and retracts the forelimb?',
     answers: [
-      {answer: "trapezius"},
-      {answer: "latissimus dorsi"},
-      {answer: "semitendinous"},
-      {answer: "brachicephalicus"}
+      {answer: 'trapezius'},
+      {answer: 'latissimus dorsi'},
+      {answer: 'semitendinous'},
+      {answer: 'brachicephalicus'}
     ],
-    correct: "latissimus dorsi"
+    correct: 'latissimus dorsi'
   },
 
   {
-    question: "Sphygmomanometer monitors a patients?",
+    question: 'Sphygmomanometer monitors a patients?',
     answers: [
-      {answer: "hypertension"},
-      {answer: "arrythmia"},
-      {answer: "bradycardia"},
-      {answer: "dysponea"}
+      {answer: 'hypertension'},
+      {answer: 'arrythmia'},
+      {answer: 'bradycardia'},
+      {answer: 'dysponea'}
     ],
-    correct: "hypertension"
+    correct: 'hypertension'
   },
 
   {
-    question: "The hepatic portal vein connects the liver to?",
+    question: 'The hepatic portal vein connects the liver to?',
     answers: [
-      {answer: "colon"},
-      {answer: "small intestine"},
-      {answer: "large intestine"},
-      {answer: "small and large intestine"}
+      {answer: 'colon'},
+      {answer: 'small intestine'},
+      {answer: 'large intestine'},
+      {answer: 'small and large intestine'}
     ],
-    correct: "small intestine"
+    correct: 'small intestine'
   },
 
   {
-    question: "Measures blood pressure?",
+    question: 'Measures blood pressure?',
     answers: [
-      {answer: "osmoreceptor"},
-      {answer: "chemoreceptor"},
-      {answer: "baroreceptor"},
-      {answer: "thermoreceptor"}
+      {answer: 'osmoreceptor'},
+      {answer: 'chemoreceptor'},
+      {answer: 'baroreceptor'},
+      {answer: 'thermoreceptor'}
     ],
-    correct: "baroreceptor"
+    correct: 'baroreceptor'
   },
 
   {
-    question: "Carries deoxygenated blood to the right atrium?",
+    question: 'Carries deoxygenated blood to the right atrium?',
     answers: [
-      {answer: "azygous vein"},
-      {answer: "coronary artery"},
-      {answer: "vena cava"},
-      {answer: "pulmonary vein"}
+      {answer: 'azygous vein'},
+      {answer: 'coronary artery'},
+      {answer: 'vena cava'},
+      {answer: 'pulmonary vein'}
     ],
-    correct: "vena cava"
+    correct: 'vena cava'
   },
 
   {
-    question: "AVN is located in the?",
+    question: 'AVN is located in the?',
     answers: [
-      {answer: "right atrium wall"},
-      {answer: "septum"},
-      {answer: "right ventricular wall"},
-      {answer: "purkinje fibres"}
+      {answer: 'right atrium wall'},
+      {answer: 'septum'},
+      {answer: 'right ventricular wall'},
+      {answer: 'purkinje fibres'}
     ],
-    correct: "septum"
+    correct: 'septum'
   },
 
   {
-    question: "SAN is located in the?",
+    question: 'SAN is located in the?',
     answers: [
-      {answer: "right atrium wall"},
-      {answer: "septum"},
-      {answer: "right ventricular wall"},
-      {answer: "purkinje fibres"}
+      {answer: 'right atrium wall'},
+      {answer: 'septum'},
+      {answer: 'right ventricular wall'},
+      {answer: 'purkinje fibres'}
     ],
-    correct: "right atrium wall"
+    correct: 'right atrium wall'
   },
 
   {
-    question: "Valve that separates the right atrium and right ventricle?",
+    question: 'Valve that separates the right atrium and right ventricle?',
     answers: [
-      {answer: "tricupsid"},
-      {answer: "bicuspid"},
-      {answer: "mitral"},
-      {answer: "purkinje fibres"}
+      {answer: 'tricupsid'},
+      {answer: 'bicuspid'},
+      {answer: 'mitral'},
+      {answer: 'purkinje fibres'}
     ],
-    correct: "tricupsid"
+    correct: 'tricupsid'
   },
 
   {
-    question: "Valve that separates the left atrium and left ventricle?",
+    question: 'Valve that separates the left atrium and left ventricle?',
     answers: [
-      {answer: "tricupsid"},
-      {answer: "semilunar"},
-      {answer: "mitral"},
-      {answer: "purkinje fibres"}
+      {answer: 'tricupsid'},
+      {answer: 'semilunar'},
+      {answer: 'mitral'},
+      {answer: 'purkinje fibres'}
     ],
-    correct: "mitral"
+    correct: 'mitral'
   },
   {
-    question: "Valved blood vessels?",
+    question: 'Valved blood vessels?',
     answers: [
-      {answer: "artery"},
-      {answer: "arterioles"},
-      {answer: "vein"},
-      {answer: "achilles tendon"}
+      {answer: 'artery'},
+      {answer: 'arterioles'},
+      {answer: 'vein'},
+      {answer: 'achilles tendon'}
     ],
-    correct: "vein"
+    correct: 'vein'
   },
 
   {
-    question: "blood vessels with irregular lumens?",
+    question: 'blood vessels with irregular lumens?',
     answers: [
-      {answer: "artery"},
-      {answer: "arterioles"},
-      {answer: "vein"},
-      {answer: "achilles tendon"}
+      {answer: 'artery'},
+      {answer: 'arterioles'},
+      {answer: 'vein'},
+      {answer: 'achilles tendon'}
     ],
-    correct: "vein"
+    correct: 'vein'
   },
 
   {
-    question: "Pumps deoxygenated blood into the pulmonary circulation?",
+    question: 'Pumps deoxygenated blood into the pulmonary circulation?',
     answers: [
-      {answer: "pulmonary artery"},
-      {answer: "pulmonary vein"},
-      {answer: "vein"},
-      {answer: "aorta"}
+      {answer: 'pulmonary artery'},
+      {answer: 'pulmonary vein'},
+      {answer: 'vein'},
+      {answer: 'aorta'}
     ],
-    correct: "pulmonary artery"
+    correct: 'pulmonary artery'
   },
   {
-    question: "Tendons attached to papillary muscles?",
+    question: 'Tendons attached to papillary muscles?',
     answers: [
-      {answer: "purkinje fibres"},
-      {answer: "chordae tendinae"},
-      {answer: "vein"},
-      {answer: "azygous vein"}
+      {answer: 'purkinje fibres'},
+      {answer: 'chordae tendinae'},
+      {answer: 'vein'},
+      {answer: 'azygous vein'}
     ],
-    correct: "chordae tendinae"
+    correct: 'chordae tendinae'
   },
 
   {
-    question: "Which vein is unpaired?",
+    question: 'Which vein is unpaired?',
     answers: [
-      {answer: "azygous"},
-      {answer: "jugular"},
-      {answer: "cephalic"},
-      {answer: "carotid"}
+      {answer: 'azygous'},
+      {answer: 'jugular'},
+      {answer: 'cephalic'},
+      {answer: 'carotid'}
     ],
-    correct: "azygous"
+    correct: 'azygous'
   },
   {
-    question: "Transmit an electrical impulse down the heart septum?",
+    question: 'Transmit an electrical impulse down the heart septum?',
     answers: [
-      {answer: "bundle of his"},
-      {answer: "purkinje fibres"},
-      {answer: "mitral valve"},
-      {answer: "voluntary muscle"}
+      {answer: 'bundle of his'},
+      {answer: 'purkinje fibres'},
+      {answer: 'mitral valve'},
+      {answer: 'voluntary muscle'}
     ],
-    correct: "bundle of his"
+    correct: 'bundle of his'
   },
   {
-    question: "Pulmonic and aortic valves are known as?",
+    question: 'Pulmonic and aortic valves are known as?',
     answers: [
-      {answer: "tricupsid"},
-      {answer: "semilunar"},
-      {answer: "mitral"},
-      {answer: "purkinje fibres"}
+      {answer: 'tricupsid'},
+      {answer: 'semilunar'},
+      {answer: 'mitral'},
+      {answer: 'purkinje fibres'}
     ],
-    correct: "semilunar"
+    correct: 'semilunar'
   },
 
   {
-    question: "Pulmonic stenosis is a?",
+    question: 'Pulmonic stenosis is a?',
     answers: [
-      {answer: "narrowing of the valve opening"},
-      {answer: "widening of a valve opening"},
-      {answer: "reduction in electrical activity of the heart"},
-      {answer: "unresponsive purkinje fibres"}
+      {answer: 'narrowing of the valve opening'},
+      {answer: 'widening of a valve opening'},
+      {answer: 'reduction in electrical activity of the heart'},
+      {answer: 'unresponsive purkinje fibres'}
     ],
-    correct: "narrowing of the valve opening"
+    correct: 'narrowing of the valve opening'
   },
 
   {
-    question: "Blood cell responsible for phagocytosis?",
+    question: 'Blood cell responsible for phagocytosis?',
     answers: [
-      {answer: "erythrocyte"},
-      {answer: "lymphocyte"},
-      {answer: "neutrophil"},
-      {answer: "thrombocyte"}
+      {answer: 'erythrocyte'},
+      {answer: 'lymphocyte'},
+      {answer: 'neutrophil'},
+      {answer: 'thrombocyte'}
     ],
-    correct: "neutrophil"
+    correct: 'neutrophil'
   },
   {
-    question: "Which animals have a nucleated erythrocyte?",
+    question: 'Which animals have a nucleated erythrocyte?',
     answers: [
-      {answer: "sheep"},
-      {answer: "snake"},
-      {answer: "guine pig"},
-      {answer: "gerbil"}
+      {answer: 'sheep'},
+      {answer: 'snake'},
+      {answer: 'guine pig'},
+      {answer: 'gerbil'}
     ],
-    correct: "snake"
+    correct: 'snake'
   },
 
   {
-    question: "Most common leucocyte?",
+    question: 'Most common leucocyte?',
     answers: [
-      {answer: "neutrophil"},
-      {answer: "lymphocyte"},
-      {answer: "eosinophil"},
-      {answer: "monocyte"}
+      {answer: 'neutrophil'},
+      {answer: 'lymphocyte'},
+      {answer: 'eosinophil'},
+      {answer: 'monocyte'}
     ],
-    correct: "neutrophil"
+    correct: 'neutrophil'
   },
 
   {
-    question: "Increased production of erythropoietin by which organ during periods of hypoxia?",
+    question: 'Increased production of erythropoietin by which organ during periods of hypoxia?',
     answers: [
-      {answer: "liver"},
-      {answer: "pancreas"},
-      {answer: "medulla oblongata"},
-      {answer: "kidney"}
+      {answer: 'liver'},
+      {answer: 'pancreas'},
+      {answer: 'medulla oblongata'},
+      {answer: 'kidney'}
     ],
-    correct: "kidney"
+    correct: 'kidney'
   },
 
   {
-    question: "Another name for reticulocytes?",
+    question: 'Another name for reticulocytes?',
     answers: [
-      {answer: "neutrophil"},
-      {answer: "lymphocyte"},
-      {answer: "howell jolly bodies"},
-      {answer: "monocyte"}
+      {answer: 'neutrophil'},
+      {answer: 'lymphocyte'},
+      {answer: 'howell jolly bodies'},
+      {answer: 'monocyte'}
     ],
-    correct: "howell jolly bodies"
+    correct: 'howell jolly bodies'
   },
 
   {
-    question: "Average lifespan of an erythrocyte cell?",
+    question: 'Average lifespan of an erythrocyte cell?',
     answers: [
-      {answer: "20 days"},
-      {answer: "100 days"},
-      {answer: "120 minutes"},
-      {answer: "120 days"}
+      {answer: '20 days'},
+      {answer: '100 days'},
+      {answer: '120 minutes'},
+      {answer: '120 days'}
     ],
-    correct: "120 days"
+    correct: '120 days'
   },
 
   {
-    question: "Destruction of worn out erythrocytes takes place in?",
+    question: 'Destruction of worn out erythrocytes takes place in?',
     answers: [
-      {answer: "spleen"},
-      {answer: "pancreas"},
-      {answer: "medulla oblongata"},
-      {answer: "kidney"}
+      {answer: 'spleen'},
+      {answer: 'pancreas'},
+      {answer: 'medulla oblongata'},
+      {answer: 'kidney'}
     ],
-    correct: "spleen"
+    correct: 'spleen'
   },
 
   {
-    question: "Which are granular leucocytes?",
+    question: 'Which are granular leucocytes?',
     answers: [
-      {answer: "neutrophils, leucocytes"},
-      {answer: "eosinophils, basophils, neutrophils"},
-      {answer: "lymphocytes"},
-      {answer: "monocytes"}
+      {answer: 'neutrophils, leucocytes'},
+      {answer: 'eosinophils, basophils, neutrophils'},
+      {answer: 'lymphocytes'},
+      {answer: 'monocytes'}
     ],
-    correct: "eosinophils, basophils, neutrophils"
+    correct: 'eosinophils, basophils, neutrophils'
   },
 
   {
-    question: "Which granular leucocytes absorbs acidic stain?",
+    question: 'Which granular leucocytes absorbs acidic stain?',
     answers: [
-      {answer: "neutrophils"},
-      {answer: "eosinophils"},
-      {answer: "lymphocytes"},
-      {answer: "monocytes"}
+      {answer: 'neutrophils'},
+      {answer: 'eosinophils'},
+      {answer: 'lymphocytes'},
+      {answer: 'monocytes'}
     ],
-    correct: "eosinophils"
+    correct: 'eosinophils'
   },
 
   {
-    question: "Which granular leucocytes absorbs basic stain?",
+    question: 'Which granular leucocytes absorbs basic stain?',
     answers: [
-      {answer: "neutrophils"},
-      {answer: "eosinophils"},
-      {answer: "lymphocytes"},
-      {answer: "basophils"}
+      {answer: 'neutrophils'},
+      {answer: 'eosinophils'},
+      {answer: 'lymphocytes'},
+      {answer: 'basophils'}
     ],
-    correct: "basophils"
+    correct: 'basophils'
   },
 
   {
-    question: "Which granular leucocytes absorbs neutral stain?",
+    question: 'Which granular leucocytes absorbs neutral stain?',
     answers: [
-      {answer: "neutrophils"},
-      {answer: "eosinophils"},
-      {answer: "lymphocytes"},
-      {answer: "monocytes"}
+      {answer: 'neutrophils'},
+      {answer: 'eosinophils'},
+      {answer: 'lymphocytes'},
+      {answer: 'monocytes'}
     ],
-    correct: "neutrophils"
+    correct: 'neutrophils'
   },
 
   {
-    question: "Which granular leucocytes secretes histamine?",
+    question: 'Which granular leucocytes secretes histamine?',
     answers: [
-      {answer: "neutrophils"},
-      {answer: "eosinophils"},
-      {answer: "lymphocytes"},
-      {answer: "basophil"}
+      {answer: 'neutrophils'},
+      {answer: 'eosinophils'},
+      {answer: 'lymphocytes'},
+      {answer: 'basophil'}
     ],
-    correct: "basophil"
+    correct: 'basophil'
   },
 
   {
-    question: "After clotting agents have been removed from blood it is known as?",
+    question: 'After clotting agents have been removed from blood it is known as?',
     answers: [
-      {answer: "serum"},
-      {answer: "plasma"},
-      {answer: "gel"},
-      {answer: "syrup"}
+      {answer: 'serum'},
+      {answer: 'plasma'},
+      {answer: 'gel'},
+      {answer: 'syrup'}
     ],
-    correct: "serum"
+    correct: 'serum'
   },
 
   {
-    question: "What does the immune system release in response to an allergin/ antigen?",
+    question: 'What does the immune system release in response to an allergin/ antigen?',
     answers: [
-      {answer: "antigen"},
-      {answer: "antibody"},
-      {answer: "antiserum"},
-      {answer: "albumin"}
+      {answer: 'antigen'},
+      {answer: 'antibody'},
+      {answer: 'antiserum'},
+      {answer: 'albumin'}
     ],
-    correct: "antibody"
+    correct: 'antibody'
   },
 
   {
-    question: "What triggers the release of an antibody?",
+    question: 'What triggers the release of an antibody?',
     answers: [
-      {answer: "antigen"},
-      {answer: "antibody"},
-      {answer: "antiserum"},
-      {answer: "albumin"}
+      {answer: 'antigen'},
+      {answer: 'antibody'},
+      {answer: 'antiserum'},
+      {answer: 'albumin'}
     ],
-    correct: "antigen"
+    correct: 'antigen'
   },
 
   {
-    question: "Which lymph node can be palpated behind the stifle?",
+    question: 'Which lymph node can be palpated behind the stifle?',
     answers: [
-      {answer: "popliteal"},
-      {answer: "axillary"},
-      {answer: "inguinal"},
-      {answer: "parotid"}
+      {answer: 'popliteal'},
+      {answer: 'axillary'},
+      {answer: 'inguinal'},
+      {answer: 'parotid'}
     ],
-    correct: "popliteal"
+    correct: 'popliteal'
   },
   {
-    question: "Which lymph node can be palpated under the armpit?",
+    question: 'Which lymph node can be palpated under the armpit?',
     answers: [
-      {answer: "popliteal"},
-      {answer: "axillary"},
-      {answer: "inguinal"},
-      {answer: "parotid"}
+      {answer: 'popliteal'},
+      {answer: 'axillary'},
+      {answer: 'inguinal'},
+      {answer: 'parotid'}
     ],
-    correct: "axillary"
+    correct: 'axillary'
   },
 
   {
-    question: "Which cell is involved in the humoral immune response?",
+    question: 'Which cell is involved in the humoral immune response?',
     answers: [
-      {answer: "macrophage"},
-      {answer: "B lymphocyte"},
-      {answer: "T lymphocyte"},
-      {answer: "neutrophil"}
+      {answer: 'macrophage'},
+      {answer: 'B lymphocyte'},
+      {answer: 'T lymphocyte'},
+      {answer: 'neutrophil'}
     ],
-    correct: "B lymphocyte"
+    correct: 'B lymphocyte'
   },
   {
-    question: "Which lymphatic capillary absorbs fatty acids and glycerol from the small intestine?",
+    question: 'Which lymphatic capillary absorbs fatty acids and glycerol from the small intestine?',
     answers: [
-      {answer: "lymph node"},
-      {answer: "lacteal"},
-      {answer: "lactate"},
-      {answer: "parotid"}
+      {answer: 'lymph node'},
+      {answer: 'lacteal'},
+      {answer: 'lactate'},
+      {answer: 'parotid'}
     ],
-    correct: "lacteal"
+    correct: 'lacteal'
   },
 
   {
-    question: "Which cell produces antibodies?",
+    question: 'Which cell produces antibodies?',
     answers: [
-      {answer: "macrophage"},
-      {answer: "B lymphocyte"},
-      {answer: "T lymphocyte"},
-      {answer: "neutrophil"}
+      {answer: 'macrophage'},
+      {answer: 'B lymphocyte'},
+      {answer: 'T lymphocyte'},
+      {answer: 'neutrophil'}
     ],
-    correct: "B lymphocyte"
+    correct: 'B lymphocyte'
   },
   {
-    question: "Which lymph node is associated with the small intestine?",
+    question: 'Which lymph node is associated with the small intestine?',
     answers: [
-      {answer: "popliteal"},
-      {answer: "peyers patches"},
-      {answer: "inguinal"},
-      {answer: "parotid"}
+      {answer: 'popliteal'},
+      {answer: 'peyers patches'},
+      {answer: 'inguinal'},
+      {answer: 'parotid'}
     ],
-    correct: "peyers patches"
+    correct: 'peyers patches'
   },
 
   {
-    question: "Blood plasma is a component of?",
+    question: 'Blood plasma is a component of?',
     answers: [
-      {answer: "intracellular fluid"},
-      {answer: "transcellular fluid"},
-      {answer: "extracellular fluid"},
-      {answer: "intercellular fluid"}
+      {answer: 'intracellular fluid'},
+      {answer: 'transcellular fluid'},
+      {answer: 'extracellular fluid'},
+      {answer: 'intercellular fluid'}
     ],
-    correct: "extracellular fluid"
+    correct: 'extracellular fluid'
   },
 
   {
-    question: "Non functional lymphatic tissue in the adult- adjacent to heart?",
+    question: 'Non functional lymphatic tissue in the adult- adjacent to heart?',
     answers: [
-      {answer: "popliteal"},
-      {answer: "peyers patches"},
-      {answer: "thymus"},
-      {answer: "parotid"}
+      {answer: 'popliteal'},
+      {answer: 'peyers patches'},
+      {answer: 'thymus'},
+      {answer: 'parotid'}
     ],
-    correct: "thymus"
+    correct: 'thymus'
   },
 
   {
-    question: "Which cell produces cytotoxins?",
+    question: 'Which cell produces cytotoxins?',
     answers: [
-      {answer: "macrophage"},
-      {answer: "B lymphocyte"},
-      {answer: "T lymphocyte"},
-      {answer: "neutrophil"}
+      {answer: 'macrophage'},
+      {answer: 'B lymphocyte'},
+      {answer: 'T lymphocyte'},
+      {answer: 'neutrophil'}
     ],
-    correct: "T lymphocyte"
+    correct: 'T lymphocyte'
   },
 
   {
-    question: "Which cell produces cellular immune response?",
+    question: 'Which cell produces cellular immune response?',
     answers: [
-      {answer: "macrophage"},
-      {answer: "B lymphocyte"},
-      {answer: "T lymphocyte"},
-      {answer: "neutrophil"}
+      {answer: 'macrophage'},
+      {answer: 'B lymphocyte'},
+      {answer: 'T lymphocyte'},
+      {answer: 'neutrophil'}
     ],
-    correct: "T lymphocyte"
+    correct: 'T lymphocyte'
   },
   {
-    question: "Lymphatic duct that arises in the abdomen?",
+    question: 'Lymphatic duct that arises in the abdomen?',
     answers: [
-      {answer: "right lymphatic duct"},
-      {answer: "aortic"},
-      {answer: "thoracic"},
-      {answer: "lacteal"}
+      {answer: 'right lymphatic duct'},
+      {answer: 'aortic'},
+      {answer: 'thoracic'},
+      {answer: 'lacteal'}
     ],
-    correct: "thoracic"
+    correct: 'thoracic'
   },
   {
-    question: "Amount of air exhaled in a normal breath?",
+    question: 'Amount of air exhaled in a normal breath?',
     answers: [
-      {answer: "total lung capacity"},
-      {answer: "tidal lung volume"},
-      {answer: "vital lung capacity"},
-      {answer: "residual volume"}
+      {answer: 'total lung capacity'},
+      {answer: 'tidal lung volume'},
+      {answer: 'vital lung capacity'},
+      {answer: 'residual volume'}
     ],
-    correct: "tidal lung volume"
+    correct: 'tidal lung volume'
   },
 
   {
-    question: "Maximum amount of air exhaled forcefully?",
+    question: 'Maximum amount of air exhaled forcefully?',
     answers: [
-      {answer: "total lung capacity"},
-      {answer: "tidal lung volume"},
-      {answer: "vital lung capacity"},
-      {answer: "residual volume"}
+      {answer: 'total lung capacity'},
+      {answer: 'tidal lung volume'},
+      {answer: 'vital lung capacity'},
+      {answer: 'residual volume'}
     ],
-    correct: "vital lung capacity"
+    correct: 'vital lung capacity'
   },
 
   {
-    question: "Amount of air left in the airways and lungs after exhalation?",
+    question: 'Amount of air left in the airways and lungs after exhalation?',
     answers: [
-      {answer: "total lung capacity"},
-      {answer: "dead space"},
-      {answer: "vital lung capacity"},
-      {answer: "residual volume"}
+      {answer: 'total lung capacity'},
+      {answer: 'dead space'},
+      {answer: 'vital lung capacity'},
+      {answer: 'residual volume'}
     ],
-    correct: "residual volume"
+    correct: 'residual volume'
   },
 
   {
-    question: "Site of gaseous exchange in the lungs?",
+    question: 'Site of gaseous exchange in the lungs?',
     answers: [
-      {answer: "bronchioles"},
-      {answer: "alveoli"},
-      {answer: "larynx"},
-      {answer: "pleural membranes"}
+      {answer: 'bronchioles'},
+      {answer: 'alveoli'},
+      {answer: 'larynx'},
+      {answer: 'pleural membranes'}
     ],
-    correct: "alveoli"
+    correct: 'alveoli'
   },
   {
-    question: "location of vocal cords?",
+    question: 'location of vocal cords?',
     answers: [
-      {answer: "trachea"},
-      {answer: "oesophagus"},
-      {answer: "hyoid apparatus"},
-      {answer: "larynx"}
+      {answer: 'trachea'},
+      {answer: 'oesophagus'},
+      {answer: 'hyoid apparatus'},
+      {answer: 'larynx'}
     ],
-    correct: "larynx"
+    correct: 'larynx'
   },
   {
-    question: "Role of Hering-breur reflex?",
+    question: 'Role of Hering-breur reflex?',
     answers: [
-      {answer: "prevent over inspiration"},
-      {answer: "prevent over exhalation"},
-      {answer: "limits heart rate"},
-      {answer: "slows heart rate"}
+      {answer: 'prevent over inspiration'},
+      {answer: 'prevent over exhalation'},
+      {answer: 'limits heart rate'},
+      {answer: 'slows heart rate'}
     ],
-    correct: "prevent over inspiration"
+    correct: 'prevent over inspiration'
   },
   {
-    question: "Movement of the diaphragm in respiration?",
+    question: 'Movement of the diaphragm in respiration?',
     answers: [
-      {answer: "contracts and moves caudally"},
-      {answer: "contracts and moves cranially"},
-      {answer: "relaxes and moves cranially"},
-      {answer: "relax and moves ventrally"}
+      {answer: 'contracts and moves caudally'},
+      {answer: 'contracts and moves cranially'},
+      {answer: 'relaxes and moves cranially'},
+      {answer: 'relax and moves ventrally'}
     ],
-    correct: "contracts and moves caudally"
+    correct: 'contracts and moves caudally'
   },
   {
-    question: "component of the respiratory and digestive systems?",
+    question: 'component of the respiratory and digestive systems?',
     answers: [
-      {answer: "trachea"},
-      {answer: "oesophagus"},
-      {answer: "pharynx"},
-      {answer: "larynx"}
+      {answer: 'trachea'},
+      {answer: 'oesophagus'},
+      {answer: 'pharynx'},
+      {answer: 'larynx'}
     ],
-    correct: "pharynx"
+    correct: 'pharynx'
   },
   {
-    question: "Prevents food from entering the nasal chambers when swallowing?",
+    question: 'Prevents food from entering the nasal chambers when swallowing?',
     answers: [
-      {answer: "soft palate"},
-      {answer: "epiglottis"},
-      {answer: "pharynx"},
-      {answer: "larynx"}
+      {answer: 'soft palate'},
+      {answer: 'epiglottis'},
+      {answer: 'pharynx'},
+      {answer: 'larynx'}
     ],
-    correct: "soft palate"
+    correct: 'soft palate'
   },
 
   {
-    question: "Fourth lobe of the right lung of the dog?",
+    question: 'Fourth lobe of the right lung of the dog?',
     answers: [
-      {answer: "apical"},
-      {answer: "cardiac"},
-      {answer: "accessory"},
-      {answer: "none of the above"}
+      {answer: 'apical'},
+      {answer: 'cardiac'},
+      {answer: 'accessory'},
+      {answer: 'none of the above'}
     ],
-    correct: "accessory"
+    correct: 'accessory'
   },
 
   {
-    question: "The accessory lobe of the right lung of the dog?",
+    question: 'The accessory lobe of the right lung of the dog?',
     answers: [
-      {answer: "apical"},
-      {answer: "third lobe"},
-      {answer: "fourth lobe"},
-      {answer: "none of the above"}
+      {answer: 'apical'},
+      {answer: 'third lobe'},
+      {answer: 'fourth lobe'},
+      {answer: 'none of the above'}
     ],
-    correct: "fourth lobe"
+    correct: 'fourth lobe'
   },
 
   {
-    question: "Chemoreceptors that monitor the oxygen and pH levels of the blood are situated in the?",
+    question: 'Chemoreceptors that monitor the oxygen and pH levels of the blood are situated in the?',
     answers: [
-      {answer: "lungs"},
-      {answer: "aortic and carotid bodies, medulla oblongata"},
-      {answer: "hypothalamus"},
-      {answer: "pancreas"}
+      {answer: 'lungs'},
+      {answer: 'aortic and carotid bodies, medulla oblongata'},
+      {answer: 'hypothalamus'},
+      {answer: 'pancreas'}
     ],
-    correct: "aortic and carotid bodies, medulla oblongata"
+    correct: 'aortic and carotid bodies, medulla oblongata'
   },
 
   {
-    question: "Percentage of oxygen in inhaled air?",
+    question: 'Percentage of oxygen in inhaled air?',
     answers: [
-      {answer: "16"},
-      {answer: "21"},
-      {answer: "5"},
-      {answer: "4"}
+      {answer: '16'},
+      {answer: '21'},
+      {answer: '5'},
+      {answer: '4'}
     ],
-    correct: "21"
+    correct: '21'
   },
 
   {
-    question: "Percentage of oxygen in exhaled air?",
+    question: 'Percentage of oxygen in exhaled air?',
     answers: [
-      {answer: "16"},
-      {answer: "21"},
-      {answer: "5"},
-      {answer: "4"}
+      {answer: '16'},
+      {answer: '21'},
+      {answer: '5'},
+      {answer: '4'}
     ],
-    correct: "16"
+    correct: '16'
   },
 
   {
-    question: "Percentage of oxygen used up on inspiration?",
+    question: 'Percentage of oxygen used up on inspiration?',
     answers: [
-      {answer: "16"},
-      {answer: "21"},
-      {answer: "5"},
-      {answer: "4"}
+      {answer: '16'},
+      {answer: '21'},
+      {answer: '5'},
+      {answer: '4'}
     ],
-    correct: "5"
+    correct: '5'
   },
 
   {
-    question: "Which is none functional in the snake?",
+    question: 'Which is none functional in the snake?',
     answers: [
-      {answer: "apical lobe of lung"},
-      {answer: "third lobe of right lung"},
-      {answer: "entire left lung"},
-      {answer: "none of the above"}
+      {answer: 'apical lobe of lung'},
+      {answer: 'third lobe of right lung'},
+      {answer: 'entire left lung'},
+      {answer: 'none of the above'}
     ],
-    correct: "entire left lung"
+    correct: 'entire left lung'
   },
 
   {
-    question: "The trachea rings are made up of?",
+    question: 'The trachea rings are made up of?',
     answers: [
-      {answer: "firbocartilage"},
-      {answer: "spongey cartilage"},
-      {answer: "hyaline cartilage"},
-      {answer: "epiphyseal growth plates"}
+      {answer: 'firbocartilage'},
+      {answer: 'spongey cartilage'},
+      {answer: 'hyaline cartilage'},
+      {answer: 'epiphyseal growth plates'}
     ],
-    correct: "hyaline cartilage"
+    correct: 'hyaline cartilage'
   },
 
   {
-    question: "Gaseous exchange takes place in a birds?",
+    question: 'Gaseous exchange takes place in a birds?',
     answers: [
-      {answer: "lung alveoli"},
-      {answer: "syrinx"},
-      {answer: "bronchi"},
-      {answer: "parabronchi"}
+      {answer: 'lung alveoli'},
+      {answer: 'syrinx'},
+      {answer: 'bronchi'},
+      {answer: 'parabronchi'}
     ],
-    correct: "parabronchi"
+    correct: 'parabronchi'
   },
 
   {
-    question: "Food travels through the small intestine via?",
+    question: 'Food travels through the small intestine via?',
     answers: [
-      {answer: "duodenum, jejunum, ileum"},
-      {answer: "duodenum, ileum, jejunum"},
-      {answer: "ileum, duodenum, jejunum"},
-      {answer: "none of the above"}
+      {answer: 'duodenum, jejunum, ileum'},
+      {answer: 'duodenum, ileum, jejunum'},
+      {answer: 'ileum, duodenum, jejunum'},
+      {answer: 'none of the above'}
     ],
-    correct: "duodenum, jejunum, ileum"
+    correct: 'duodenum, jejunum, ileum'
   },
 
   {
-    question: "Digestive enzyme secreted by the pancreas?",
+    question: 'Digestive enzyme secreted by the pancreas?',
     answers: [
-      {answer: "trypsin"},
-      {answer: "pancrease"},
-      {answer: "pepsin"},
-      {answer: "secretin"}
+      {answer: 'trypsin'},
+      {answer: 'pancrease'},
+      {answer: 'pepsin'},
+      {answer: 'secretin'}
     ],
-    correct: "trypsin"
+    correct: 'trypsin'
   },
 
   {
-    question: "Which of the following is not a region of the stomach?",
+    question: 'Which of the following is not a region of the stomach?',
     answers: [
-      {answer: "pylorus"},
-      {answer: "fundus"},
-      {answer: "cardia"},
-      {answer: "gastric"}
+      {answer: 'pylorus'},
+      {answer: 'fundus'},
+      {answer: 'cardia'},
+      {answer: 'gastric'}
     ],
-    correct: "gastric"
+    correct: 'gastric'
   },
 
   {
-    question: "Rennin is secreted by young animals in the?",
+    question: 'Rennin is secreted by young animals in the?',
     answers: [
-      {answer: "stomach"},
-      {answer: "duodenum, ileum, jejunum"},
-      {answer: "mouth"},
-      {answer: "colon"}
+      {answer: 'stomach'},
+      {answer: 'duodenum, ileum, jejunum'},
+      {answer: 'mouth'},
+      {answer: 'colon'}
     ],
-    correct: "stomach"
+    correct: 'stomach'
   },
 
   {
-    question: "Acidic semi solid food is known as?",
+    question: 'Acidic semi solid food is known as?',
     answers: [
-      {answer: "chyle"},
-      {answer: "gastrin"},
-      {answer: "chyme"},
-      {answer: "secretin"}
+      {answer: 'chyle'},
+      {answer: 'gastrin'},
+      {answer: 'chyme'},
+      {answer: 'secretin'}
     ],
-    correct: "chyme"
+    correct: 'chyme'
   },
 
   {
-    question: "The lacteals secrete?",
+    question: 'The lacteals secrete?',
     answers: [
-      {answer: "chyle"},
-      {answer: "gastrin"},
-      {answer: "chyme"},
-      {answer: "secretin"}
+      {answer: 'chyle'},
+      {answer: 'gastrin'},
+      {answer: 'chyme'},
+      {answer: 'secretin'}
     ],
-    correct: "chyle"
+    correct: 'chyle'
   },
   {
-    question: "The stomach of the dog produces?",
+    question: 'The stomach of the dog produces?',
     answers: [
-      {answer: "pepsinogen"},
-      {answer: "amylase"},
-      {answer: "bile"},
-      {answer: "secretin"}
+      {answer: 'pepsinogen'},
+      {answer: 'amylase'},
+      {answer: 'bile'},
+      {answer: 'secretin'}
     ],
-    correct: "pepsinogen"
+    correct: 'pepsinogen'
   },
 
   {
-    question: "Absorption of nutrients takes place mainly in?",
+    question: 'Absorption of nutrients takes place mainly in?',
     answers: [
-      {answer: "stomach"},
-      {answer: "jejunum"},
-      {answer: "mouth"},
-      {answer: "colon"}
+      {answer: 'stomach'},
+      {answer: 'jejunum'},
+      {answer: 'mouth'},
+      {answer: 'colon'}
     ],
-    correct: "jejunum"
+    correct: 'jejunum'
   },
 
   {
-    question: "digestion of nutrients takes place mainly in?",
+    question: 'digestion of nutrients takes place mainly in?',
     answers: [
-      {answer: "duodenum"},
-      {answer: "jejunum"},
-      {answer: "mouth"},
-      {answer: "colon"}
+      {answer: 'duodenum'},
+      {answer: 'jejunum'},
+      {answer: 'mouth'},
+      {answer: 'colon'}
     ],
-    correct: "duodenum"
+    correct: 'duodenum'
   },
 
   {
-    question: "Bile is?",
+    question: 'Bile is?',
     answers: [
-      {answer: "acidic"},
-      {answer: "very acidic"},
-      {answer: "alkaline"},
-      {answer: "pH7"}
+      {answer: 'acidic'},
+      {answer: 'very acidic'},
+      {answer: 'alkaline'},
+      {answer: 'pH7'}
     ],
-    correct: "alkaline"
+    correct: 'alkaline'
   },
 
   {
-    question: "Enterokinase is produced by?",
+    question: 'Enterokinase is produced by?',
     answers: [
-      {answer: "pancreas"},
-      {answer: "brunners glands"},
-      {answer: "mouth"},
-      {answer: "colon"}
+      {answer: 'pancreas'},
+      {answer: 'brunners glands'},
+      {answer: 'mouth'},
+      {answer: 'colon'}
     ],
-    correct: "brunners glands"
+    correct: 'brunners glands'
   },
 
   {
-    question: "Enterokinase role?",
+    question: 'Enterokinase role?',
     answers: [
-      {answer: "converts trypsinogen to trypsin"},
-      {answer: "digests carbohydrates"},
-      {answer: "produces mucus"},
-      {answer: "digests proteins"}
+      {answer: 'converts trypsinogen to trypsin'},
+      {answer: 'digests carbohydrates'},
+      {answer: 'produces mucus'},
+      {answer: 'digests proteins'}
     ],
-    correct: "converts trypsinogen to trypsin"
+    correct: 'converts trypsinogen to trypsin'
   },
 
   {
-    question: "Salivary gland that lies within the orbit of the eye?",
+    question: 'Salivary gland that lies within the orbit of the eye?',
     answers: [
-      {answer: "zygomatic"},
-      {answer: "brunners glands"},
-      {answer: "mandibular"},
-      {answer: "sublingual"}
+      {answer: 'zygomatic'},
+      {answer: 'brunners glands'},
+      {answer: 'mandibular'},
+      {answer: 'sublingual'}
     ],
-    correct: "zygomatic"
+    correct: 'zygomatic'
   },
 
   {
-    question: "Enzyme produced by omnivorous animals as a component of their saliva?",
+    question: 'Enzyme produced by omnivorous animals as a component of their saliva?',
     answers: [
-      {answer: "protease"},
-      {answer: "amylase"},
-      {answer: "chitin"},
-      {answer: "lipase"}
+      {answer: 'protease'},
+      {answer: 'amylase'},
+      {answer: 'chitin'},
+      {answer: 'lipase'}
     ],
-    correct: "amylase"
+    correct: 'amylase'
   },
 
   {
-    question: "Connects the oropharynx to the middle ear?",
+    question: 'Connects the oropharynx to the middle ear?',
     answers: [
-      {answer: "eustachian tube"},
-      {answer: "mallus"},
-      {answer: "lacrimal duct"},
-      {answer: "stapes"}
+      {answer: 'eustachian tube'},
+      {answer: 'mallus'},
+      {answer: 'lacrimal duct'},
+      {answer: 'stapes'}
     ],
-    correct: "eustachian tube"
+    correct: 'eustachian tube'
   },
 
   {
-    question: "Producer of succus entericus?",
+    question: 'Producer of succus entericus?',
     answers: [
-      {answer: "crypts of lieberkuhn"},
-      {answer: "parietal cells"},
-      {answer: "brunners glands"},
-      {answer: "lacteals"}
+      {answer: 'crypts of lieberkuhn'},
+      {answer: 'parietal cells'},
+      {answer: 'brunners glands'},
+      {answer: 'lacteals'}
     ],
-    correct: "brunners glands"
+    correct: 'brunners glands'
   },
 
   {
-    question: "Enzyme present in small quantities of the unweaned animal?",
+    question: 'Enzyme present in small quantities of the unweaned animal?',
     answers: [
-      {answer: "gastric amylase"},
-      {answer: "gastric lipase"},
-      {answer: "gastric lactase"},
-      {answer: "gastric lactose"}
+      {answer: 'gastric amylase'},
+      {answer: 'gastric lipase'},
+      {answer: 'gastric lactase'},
+      {answer: 'gastric lactose'}
     ],
-    correct: "gastric lipase"
+    correct: 'gastric lipase'
   },
 
   {
-    question: "The penis points caudally in the?",
+    question: 'The penis points caudally in the?',
     answers: [
-      {answer: "cat"},
-      {answer: "dog"},
-      {answer: "horse"},
-      {answer: "rabbit"}
+      {answer: 'cat'},
+      {answer: 'dog'},
+      {answer: 'horse'},
+      {answer: 'rabbit'}
     ],
-    correct: "cat"
+    correct: 'cat'
   },
 
   {
-    question: "The penis points cranially in the?",
+    question: 'The penis points cranially in the?',
     answers: [
-      {answer: "cat"},
-      {answer: "dog"},
-      {answer: "horse"},
-      {answer: "rabbit"}
+      {answer: 'cat'},
+      {answer: 'dog'},
+      {answer: 'horse'},
+      {answer: 'rabbit'}
     ],
-    correct: "dog"
+    correct: 'dog'
   },
 
   {
-    question: "Changes the position of the testes when it's cold?",
+    question: 'Changes the position of the testes when it\'s cold?',
     answers: [
-      {answer: "dartos"},
-      {answer: "cruciate ligament"},
-      {answer: "cremaster muscle"},
-      {answer: "retractor testicular"}
+      {answer: 'dartos'},
+      {answer: 'cruciate ligament'},
+      {answer: 'cremaster muscle'},
+      {answer: 'retractor testicular'}
     ],
-    correct: "cremaster muscle"
+    correct: 'cremaster muscle'
   },
 
   {
-    question: "Fertilisation takes place in the?",
+    question: 'Fertilisation takes place in the?',
     answers: [
-      {answer: "testes"},
-      {answer: "ovary"},
-      {answer: "oviduct"},
-      {answer: "uterus"}
+      {answer: 'testes'},
+      {answer: 'ovary'},
+      {answer: 'oviduct'},
+      {answer: 'uterus'}
     ],
-    correct: "oviduct"
+    correct: 'oviduct'
   },
 
   {
-    question: "Spontaneous ovulation takes place in the?",
+    question: 'Spontaneous ovulation takes place in the?',
     answers: [
-      {answer: "cat"},
-      {answer: "dog"},
-      {answer: "horse"},
-      {answer: "rabbit"}
+      {answer: 'cat'},
+      {answer: 'dog'},
+      {answer: 'horse'},
+      {answer: 'rabbit'}
     ],
-    correct: "dog"
+    correct: 'dog'
   },
 
   {
-    question: "oestrogen production takes place in?",
+    question: 'oestrogen production takes place in?',
     answers: [
-      {answer: "sertoli cells"},
-      {answer: "leydig cells"},
-      {answer: "seminiferous tubule cells"},
-      {answer: "ovary"}
+      {answer: 'sertoli cells'},
+      {answer: 'leydig cells'},
+      {answer: 'seminiferous tubule cells'},
+      {answer: 'ovary'}
     ],
-    correct: "sertoli cells"
+    correct: 'sertoli cells'
   },
 
   {
-    question: "testosterone production takes place in?",
+    question: 'testosterone production takes place in?',
     answers: [
-      {answer: "sertoli cells"},
-      {answer: "leydig cells"},
-      {answer: "seminiferous tubule cells"},
-      {answer: "ovary"}
+      {answer: 'sertoli cells'},
+      {answer: 'leydig cells'},
+      {answer: 'seminiferous tubule cells'},
+      {answer: 'ovary'}
     ],
-    correct: "leydig cells"
+    correct: 'leydig cells'
   },
 
   {
-    question: "Stimulates contractions in the uterus?",
+    question: 'Stimulates contractions in the uterus?',
     answers: [
-      {answer: "progesterone"},
-      {answer: "oestrogen"},
-      {answer: "testosterone"},
-      {answer: "oxytocin"}
+      {answer: 'progesterone'},
+      {answer: 'oestrogen'},
+      {answer: 'testosterone'},
+      {answer: 'oxytocin'}
     ],
-    correct: "oxytocin"
+    correct: 'oxytocin'
   },
 
   {
-    question: "Does not have a bulb urethral gland?",
+    question: 'Does not have a bulb urethral gland?',
     answers: [
-      {answer: "cat"},
-      {answer: "dog"},
-      {answer: "horse"},
-      {answer: "rabbit"}
+      {answer: 'cat'},
+      {answer: 'dog'},
+      {answer: 'horse'},
+      {answer: 'rabbit'}
     ],
-    correct: "dog"
+    correct: 'dog'
   },
 
   {
-    question: "Hormone that maintains pregnancy?",
+    question: 'Hormone that maintains pregnancy?',
     answers: [
-      {answer: "progesterone"},
-      {answer: "oestrogen"},
-      {answer: "testosterone"},
-      {answer: "oxytocin"}
+      {answer: 'progesterone'},
+      {answer: 'oestrogen'},
+      {answer: 'testosterone'},
+      {answer: 'oxytocin'}
     ],
-    correct: "progesterone"
+    correct: 'progesterone'
   },
 
   {
-    question: "Dogs os penis is?",
+    question: 'Dogs os penis is?',
     answers: [
-      {answer: "ventral to urethra"},
-      {answer: "dorsal to urethra"},
-      {answer: "distal to urethra"},
-      {answer: "dogs don't have an os penis"}
+      {answer: 'ventral to urethra'},
+      {answer: 'dorsal to urethra'},
+      {answer: 'distal to urethra'},
+      {answer: 'dogs don\'t have an os penis'}
     ],
-    correct: "dorsal to urethra"
+    correct: 'dorsal to urethra'
   },
 
   {
-    question: "Gives birth to precocial young?",
+    question: 'Gives birth to precocial young?',
     answers: [
-      {answer: "cat"},
-      {answer: "horse"},
-      {answer: "rabbit"},
-      {answer: "chinchilla"}
+      {answer: 'cat'},
+      {answer: 'horse'},
+      {answer: 'rabbit'},
+      {answer: 'chinchilla'}
     ],
-    correct: "chinchilla"
+    correct: 'chinchilla'
   },
 
   {
-    question: "Gives birth to precocial young?",
+    question: 'Gives birth to precocial young?',
     answers: [
-      {answer: "cat"},
-      {answer: "horse"},
-      {answer: "rabbit"},
-      {answer: "guinea pig"}
+      {answer: 'cat'},
+      {answer: 'horse'},
+      {answer: 'rabbit'},
+      {answer: 'guinea pig'}
     ],
-    correct: "guinea pig"
+    correct: 'guinea pig'
   },
 
   {
-    question: "A surge in this hormone stimulates ovulation?",
+    question: 'A surge in this hormone stimulates ovulation?',
     answers: [
-      {answer: "LH"},
-      {answer: "oestrogen"},
-      {answer: "FSH"},
-      {answer: "oxytocin"}
+      {answer: 'LH'},
+      {answer: 'oestrogen'},
+      {answer: 'FSH'},
+      {answer: 'oxytocin'}
     ],
-    correct: "LH"
+    correct: 'LH'
   },
 
   {
-    question: "A surge in this hormone stimulates maturation of the griffin follicle?",
+    question: 'A surge in this hormone stimulates maturation of the griffin follicle?',
     answers: [
-      {answer: "LH"},
-      {answer: "oestrogen"},
-      {answer: "FSH"},
-      {answer: "oxytocin"}
+      {answer: 'LH'},
+      {answer: 'oestrogen'},
+      {answer: 'FSH'},
+      {answer: 'oxytocin'}
     ],
-    correct: "FSH"
+    correct: 'FSH'
   },
 
   {
-    question: "Layer of peritoneum that covers testes?",
+    question: 'Layer of peritoneum that covers testes?',
     answers: [
-      {answer: "dartos"},
-      {answer: "cruciate ligament"},
-      {answer: "cremaster muscle"},
-      {answer: "tunica vaginalis"}
+      {answer: 'dartos'},
+      {answer: 'cruciate ligament'},
+      {answer: 'cremaster muscle'},
+      {answer: 'tunica vaginalis'}
     ],
-    correct: "tunica vaginalis"
+    correct: 'tunica vaginalis'
   },
 
   {
-    question: "Stimulates milk production?",
+    question: 'Stimulates milk production?',
     answers: [
-      {answer: "LH"},
-      {answer: "oestrogen"},
-      {answer: "FSH"},
-      {answer: "prolactin"}
+      {answer: 'LH'},
+      {answer: 'oestrogen'},
+      {answer: 'FSH'},
+      {answer: 'prolactin'}
     ],
-    correct: "prolactin"
+    correct: 'prolactin'
   },
 
   {
-    question: "Hormone secreted by the corpus luteum?",
+    question: 'Hormone secreted by the corpus luteum?',
     answers: [
-      {answer: "LH"},
-      {answer: "oestrogen"},
-      {answer: "FSH"},
-      {answer: "progesterone"}
+      {answer: 'LH'},
+      {answer: 'oestrogen'},
+      {answer: 'FSH'},
+      {answer: 'progesterone'}
     ],
-    correct: "progesterone"
+    correct: 'progesterone'
   },
 
   {
-    question: "Stimulates milk let down?",
+    question: 'Stimulates milk let down?',
     answers: [
-      {answer: "LH"},
-      {answer: "oestrogen"},
-      {answer: "FSH"},
-      {answer: "oxytocin"}
+      {answer: 'LH'},
+      {answer: 'oestrogen'},
+      {answer: 'FSH'},
+      {answer: 'oxytocin'}
     ],
-    correct: "oxytocin"
+    correct: 'oxytocin'
   },
 
   {
-    question: "Dilation of the cervix?",
+    question: 'Dilation of the cervix?',
     answers: [
-      {answer: "relaxin"},
-      {answer: "oestrogen"},
-      {answer: "progesterone"},
-      {answer: "oxytocin"}
+      {answer: 'relaxin'},
+      {answer: 'oestrogen'},
+      {answer: 'progesterone'},
+      {answer: 'oxytocin'}
     ],
-    correct: "relaxin"
+    correct: 'relaxin'
   },
 
   {
-    question: "Releases GnRH?",
+    question: 'Releases GnRH?',
     answers: [
-      {answer: "hypothalamus"},
-      {answer: "medulla oblongata"},
-      {answer: "pituitary gland"},
-      {answer: "cerebrum"}
+      {answer: 'hypothalamus'},
+      {answer: 'medulla oblongata'},
+      {answer: 'pituitary gland'},
+      {answer: 'cerebrum'}
     ],
-    correct: "hypothalamus"
+    correct: 'hypothalamus'
   },
 
   {
-    question: "Organ that receives blood from the snakes caudal tail vein?",
+    question: 'Organ that receives blood from the snakes caudal tail vein?',
     answers: [
-      {answer: "kidney"},
-      {answer: "liver"},
-      {answer: "brain"},
-      {answer: "pancreas"}
+      {answer: 'kidney'},
+      {answer: 'liver'},
+      {answer: 'brain'},
+      {answer: 'pancreas'}
     ],
-    correct: "kidney"
+    correct: 'kidney'
   },
 
   {
-    question: "Takes place in the renal nephrons?",
+    question: 'Takes place in the renal nephrons?',
     answers: [
-      {answer: "assimilation"},
-      {answer: "reabsorption"},
-      {answer: "storage"},
-      {answer: "destruction of worn out cells"}
+      {answer: 'assimilation'},
+      {answer: 'reabsorption'},
+      {answer: 'storage'},
+      {answer: 'destruction of worn out cells'}
     ],
-    correct: "reabsorption"
+    correct: 'reabsorption'
   },
 
   {
-    question: "Angiotensin I is converted by ACE to?",
+    question: 'Angiotensin I is converted by ACE to?',
     answers: [
-      {answer: "angiotensin II"},
-      {answer: "pepsin"},
-      {answer: "chyme"},
-      {answer: "renin"}
+      {answer: 'angiotensin II'},
+      {answer: 'pepsin'},
+      {answer: 'chyme'},
+      {answer: 'renin'}
     ],
-    correct: "angiotensin II"
+    correct: 'angiotensin II'
   },
 
   {
-    question: "The trigone is located in the?",
+    question: 'The trigone is located in the?',
     answers: [
-      {answer: "kidney"},
-      {answer: "bladder"},
-      {answer: "nephron"},
-      {answer: "liver"}
+      {answer: 'kidney'},
+      {answer: 'bladder'},
+      {answer: 'nephron'},
+      {answer: 'liver'}
     ],
-    correct: "bladder"
+    correct: 'bladder'
   },
 
   {
-    question: "Inner aspect of the kidney?",
+    question: 'Inner aspect of the kidney?',
     answers: [
-      {answer: "medulla"},
-      {answer: "cortex"},
-      {answer: "vein"},
-      {answer: "trigone"}
+      {answer: 'medulla'},
+      {answer: 'cortex'},
+      {answer: 'vein'},
+      {answer: 'trigone'}
     ],
-    correct: "medulla"
+    correct: 'medulla'
   },
 
   {
-    question: "ADH is reponsible for?",
+    question: 'ADH is reponsible for?',
     answers: [
-      {answer: "water expulsion"},
-      {answer: "water reabsorption"},
-      {answer: "ultrafiltration"},
-      {answer: "trigone dilation"}
+      {answer: 'water expulsion'},
+      {answer: 'water reabsorption'},
+      {answer: 'ultrafiltration'},
+      {answer: 'trigone dilation'}
     ],
-    correct: "water reabsorption"
+    correct: 'water reabsorption'
   },
 
   {
-    question: "Which of the following does not happen in the PCT?",
+    question: 'Which of the following does not happen in the PCT?',
     answers: [
-      {answer: "glucose reabsorption"},
-      {answer: "water reabsorption"},
-      {answer: "secretion of drugs"},
-      {answer: "adjustment of pH"}
+      {answer: 'glucose reabsorption'},
+      {answer: 'water reabsorption'},
+      {answer: 'secretion of drugs'},
+      {answer: 'adjustment of pH'}
     ],
-    correct: "adjustment of pH"
+    correct: 'adjustment of pH'
   },
 
   {
-    question: "Normal urine contains?",
+    question: 'Normal urine contains?',
     answers: [
-      {answer: "glucose"},
-      {answer: "crystals"},
-      {answer: "salts"},
-      {answer: "protein"}
+      {answer: 'glucose'},
+      {answer: 'crystals'},
+      {answer: 'salts'},
+      {answer: 'protein'}
     ],
-    correct: "salts"
+    correct: 'salts'
   },
 
   {
-    question: "Deamination takes place in the?",
+    question: 'Deamination takes place in the?',
     answers: [
-      {answer: "kidney"},
-      {answer: "bladder"},
-      {answer: "nephron"},
-      {answer: "liver"}
+      {answer: 'kidney'},
+      {answer: 'bladder'},
+      {answer: 'nephron'},
+      {answer: 'liver'}
     ],
-    correct: "liver"
+    correct: 'liver'
   },
 
   {
-    question: "Penis points caudally",
+    question: 'Penis points caudally',
     answers: [
-      {answer: "Horse"},
-      {answer: "Dog"},
-      {answer: "Cat"},
-      {answer: "Rabbit"}
+      {answer: 'Horse'},
+      {answer: 'Dog'},
+      {answer: 'Cat'},
+      {answer: 'Rabbit'}
     ],
-    correct: "Cat"
+    correct: 'Cat'
   },
 
   {
-    question: "Influences position of the testes in relation to temperature changes",
+    question: 'Influences position of the testes in relation to temperature changes',
     answers: [
-      {answer: "Spermatic cord"},
-      {answer: "Epididymis"},
-      {answer: "Retractor muscle"},
-      {answer: "Cremaster muscle"}
+      {answer: 'Spermatic cord'},
+      {answer: 'Epididymis'},
+      {answer: 'Retractor muscle'},
+      {answer: 'Cremaster muscle'}
     ],
-    correct: "Cremaster muscle"
+    correct: 'Cremaster muscle'
   },
 
   {
-    question: "Fertilisation of the ova takes place in the",
+    question: 'Fertilisation of the ova takes place in the',
     answers: [
-      {answer: "Ovary"},
-      {answer: "Oviduct"},
-      {answer: "Infundibulum"},
-      {answer: "Uterus"}
+      {answer: 'Ovary'},
+      {answer: 'Oviduct'},
+      {answer: 'Infundibulum'},
+      {answer: 'Uterus'}
     ],
-    correct: "Oviduct"
+    correct: 'Oviduct'
   },
 
   {
-    question: "Spontaneous ovulation takes place in the",
+    question: 'Spontaneous ovulation takes place in the',
     answers: [
-      {answer: "Rabbit"},
-      {answer: "Cat"},
-      {answer: "Ferret"},
-      {answer: "Guinea pig"}
+      {answer: 'Rabbit'},
+      {answer: 'Cat'},
+      {answer: 'Ferret'},
+      {answer: 'Guinea pig'}
     ],
-    correct: "Guinea pig"
+    correct: 'Guinea pig'
   },
 
   {
-    question: "Oestrogen production in the male takes place in the",
+    question: 'Oestrogen production in the male takes place in the',
     answers: [
-      {answer: "Prostate gland"},
-      {answer: "Leydig cells"},
-      {answer: "Seminiferous tubules"},
-      {answer: "Sertoli cells"}
+      {answer: 'Prostate gland'},
+      {answer: 'Leydig cells'},
+      {answer: 'Seminiferous tubules'},
+      {answer: 'Sertoli cells'}
     ],
-    correct: "Sertoli cells"
+    correct: 'Sertoli cells'
   },
 
   {
-    question: "Oxytocin secretion stimulates",
+    question: 'Oxytocin secretion stimulates',
     answers: [
-      {answer: "Mammary development"},
-      {answer: "Fall in blood calcium levels"},
-      {answer: "Induced ovulation"},
-      {answer: "Smooth muscle contractions"}
+      {answer: 'Mammary development'},
+      {answer: 'Fall in blood calcium levels'},
+      {answer: 'Induced ovulation'},
+      {answer: 'Smooth muscle contractions'}
     ],
-    correct: "Smooth muscle contractions"
+    correct: 'Smooth muscle contractions'
   },
 
   {
-    question: "External opening of the female reproductive tract",
+    question: 'External opening of the female reproductive tract',
     answers: [
-      {answer: "Vestibule"},
-      {answer: "Vulva"},
-      {answer: "Vagina"},
-      {answer: "Urethral orifice"}
+      {answer: 'Vestibule'},
+      {answer: 'Vulva'},
+      {answer: 'Vagina'},
+      {answer: 'Urethral orifice'}
     ],
-    correct: "Vulva"
+    correct: 'Vulva'
   },
 
   {
-    question: "Testosterone is produced by the",
+    question: 'Testosterone is produced by the',
     answers: [
-      {answer: "Epididymis"},
-      {answer: "Sertoli cells"},
-      {answer: "Leydig cells"},
-      {answer: "Prostate gland"}
+      {answer: 'Epididymis'},
+      {answer: 'Sertoli cells'},
+      {answer: 'Leydig cells'},
+      {answer: 'Prostate gland'}
     ],
-    correct: "Leydig cells"
+    correct: 'Leydig cells'
   },
 
   {
-    question: "Function of the fimbriae",
+    question: 'Function of the fimbriae',
     answers: [
-      {answer: "Draw ova into the oviduct"},
-      {answer: "Produce ova"},
-      {answer: "Lubricates the birth passage"},
-      {answer: "Development of the ova."}
+      {answer: 'Draw ova into the oviduct'},
+      {answer: 'Produce ova'},
+      {answer: 'Lubricates the birth passage'},
+      {answer: 'Development of the ova.'}
     ],
-    correct: "Draw ova into the oviduct"
+    correct: 'Draw ova into the oviduct'
   },
 
   {
-    question: "Does not have a bulbo-urethral gland",
+    question: 'Does not have a bulbo-urethral gland',
     answers: [
-      {answer: "Horse"},
-      {answer: "Guinea pig"},
-      {answer: "Dog"},
-      {answer: "Cat"}
+      {answer: 'Horse'},
+      {answer: 'Guinea pig'},
+      {answer: 'Dog'},
+      {answer: 'Cat'}
     ],
-    correct: "Dog"
+    correct: 'Dog'
   },
 
   {
-    question: " Hormone that maintains a pregnancy",
+    question: ' Hormone that maintains a pregnancy',
     answers: [
-      {answer: "Prolactin"},
-      {answer: "Oxytocin"},
-      {answer: "Progesterone"},
-      {answer: "Oestrogen"}
+      {answer: 'Prolactin'},
+      {answer: 'Oxytocin'},
+      {answer: 'Progesterone'},
+      {answer: 'Oestrogen'}
     ],
-    correct: "Progesterone"
+    correct: 'Progesterone'
   },
 
   {
-    question: "The os penis of a dog lies",
+    question: 'The os penis of a dog lies',
     answers: [
-      {answer: "Ventral to the urethra"},
-      {answer: "Dorsal to the urethra"},
-      {answer: "Caudal to the prostate"},
-      {answer: "In the centre of the urethra."}
+      {answer: 'Ventral to the urethra'},
+      {answer: 'Dorsal to the urethra'},
+      {answer: 'Caudal to the prostate'},
+      {answer: 'In the centre of the urethra.'}
     ],
-    correct: "Dorsal to the urethra"
+    correct: 'Dorsal to the urethra'
   },
 
   {
-    question: "The bitch and the queen are described as",
+    question: 'The bitch and the queen are described as',
     answers: [
-      {answer: "Primigravid"},
-      {answer: "Uniparous"},
-      {answer: "Multigravid"},
-      {answer: "Multiparous"}
+      {answer: 'Primigravid'},
+      {answer: 'Uniparous'},
+      {answer: 'Multigravid'},
+      {answer: 'Multiparous'}
     ],
-    correct: "Multiparous"
+    correct: 'Multiparous'
   },
 
   {
-    question: "The fold of the peritoneum supporting the uterus within the abdominal cavity is the",
+    question: 'The fold of the peritoneum supporting the uterus within the abdominal cavity is the',
     answers: [
-      {answer: "Broad ligament"},
-      {answer: "Mesosalpinx"},
-      {answer: "Mesovarium"},
-      {answer: "Mesocolon"}
+      {answer: 'Broad ligament'},
+      {answer: 'Mesosalpinx'},
+      {answer: 'Mesovarium'},
+      {answer: 'Mesocolon'}
     ],
-    correct: "Broad ligament"
+    correct: 'Broad ligament'
   },
 
   {
-    question: "The queen is described as being",
+    question: 'The queen is described as being',
     answers: [
-      {answer: "A spontaneous ovulatory and seasonally polyoestrous"},
-      {answer: "An induced ovulator and monoestrous"},
-      {answer: "An induced ovulator and seasonally polyoestrous"},
-      {answer: "A spontaneous ovulatory and monoestrous."}
+      {answer: 'A spontaneous ovulatory and seasonally polyoestrous'},
+      {answer: 'An induced ovulator and monoestrous'},
+      {answer: 'An induced ovulator and seasonally polyoestrous'},
+      {answer: 'A spontaneous ovulatory and monoestrous.'}
     ],
-    correct: "An induced ovulator and seasonally polyoestrous"
+    correct: 'An induced ovulator and seasonally polyoestrous'
   },
 
   {
-    question: "Which of the following species gives birth to precocial young",
+    question: 'Which of the following species gives birth to precocial young',
     answers: [
-      {answer: "Mustela putorius furo"},
-      {answer: "Oryctolagus cuniculus"},
-      {answer: "Mus musculus"},
-      {answer: "Chinchilla lanigera"}
+      {answer: 'Mustela putorius furo'},
+      {answer: 'Oryctolagus cuniculus'},
+      {answer: 'Mus musculus'},
+      {answer: 'Chinchilla lanigera'}
     ],
-    correct: "Chinchilla lanigera"
+    correct: 'Chinchilla lanigera'
   },
 
   {
-    question: "Which body system does not open into the cloaca of a snake",
+    question: 'Which body system does not open into the cloaca of a snake',
     answers: [
-      {answer: "Digestive"},
-      {answer: "Urinary"},
-      {answer: "Circulatory"},
-      {answer: "Reproductive"}
+      {answer: 'Digestive'},
+      {answer: 'Urinary'},
+      {answer: 'Circulatory'},
+      {answer: 'Reproductive'}
     ],
-    correct: "Circulatory"
+    correct: 'Circulatory'
   },
 
   {
-    question: "Which of the following accurately describes the reproductive pattern of the mare",
+    question: 'Which of the following accurately describes the reproductive pattern of the mare',
     answers: [
-      {answer: "Short day breeder, seasonally polyoestrous and an induced ovulatory"},
-      {answer: "Long day breeder, seasonally polyoestrous, and a spontaneous ovulator"},
-      {answer: "Long day breeder, monoestrous, and an induced ovulator"},
-      {answer: "Short day breeder, monoetrous, and a spontaneous ovulator"}
+      {answer: 'Short day breeder, seasonally polyoestrous and an induced ovulatory'},
+      {answer: 'Long day breeder, seasonally polyoestrous, and a spontaneous ovulator'},
+      {answer: 'Long day breeder, monoestrous, and an induced ovulator'},
+      {answer: 'Short day breeder, monoetrous, and a spontaneous ovulator'}
     ],
-    correct: "Long day breeder, seasonally polyoestrous, and a spontaneous ovulator"
+    correct: 'Long day breeder, seasonally polyoestrous, and a spontaneous ovulator'
   },
 
   {
-    question: "The oestrous cycle of the bitch is divided into four stages. In order these are",
+    question: 'The oestrous cycle of the bitch is divided into four stages. In order these are',
     answers: [
-      {answer: "Proetrus, Anoestrus, Dioestrus, Oestrus"},
-      {answer: "Oestrus, Anoestrus, Dioestrus, Proestrus"},
-      {answer: "Proestrus, Dioestrus, Oestrus, Anoestrus"},
-      {answer: "Proestrus, Oestrus, Dioestrus, Anoestrus"}
+      {answer: 'Proetrus, Anoestrus, Dioestrus, Oestrus'},
+      {answer: 'Oestrus, Anoestrus, Dioestrus, Proestrus'},
+      {answer: 'Proestrus, Dioestrus, Oestrus, Anoestrus'},
+      {answer: 'Proestrus, Oestrus, Dioestrus, Anoestrus'}
     ],
-    correct: "Proestrus, Oestrus, Dioestrus, Anoestrus"
+    correct: 'Proestrus, Oestrus, Dioestrus, Anoestrus'
   },
 
   {
-    question: "Which one of the following is not a role of oestrogen in the female",
+    question: 'Which one of the following is not a role of oestrogen in the female',
     answers: [
-      {answer: "Development of the mammary glands"},
-      {answer: "Thickening of the endometrium of the uterus"},
-      {answer: "Maintaining a pregnancy"},
-      {answer: "Receptive to a male for mating"}
+      {answer: 'Development of the mammary glands'},
+      {answer: 'Thickening of the endometrium of the uterus'},
+      {answer: 'Maintaining a pregnancy'},
+      {answer: 'Receptive to a male for mating'}
     ],
-    correct: "Maintaining a pregnancy"
+    correct: 'Maintaining a pregnancy'
   },
 
   {
-    question: " A surge of this hormone stimulates ovulatuion",
+    question: ' A surge of this hormone stimulates ovulatuion',
     answers: [
-      {answer: "Follicle Stimulating Hormone (FSH)"},
-      {answer: "Luteinising Hormone (LH)"},
-      {answer: "Oestradiol (Oestrogen)"},
-      {answer: "Progesterone"}
+      {answer: 'Follicle Stimulating Hormone (FSH)'},
+      {answer: 'Luteinising Hormone (LH)'},
+      {answer: 'Oestradiol (Oestrogen)'},
+      {answer: 'Progesterone'}
     ],
-    correct: "Luteinising Hormone (LH)"
+    correct: 'Luteinising Hormone (LH)'
   },
 
   {
-    question: "This hormone stimulates the maturation of the Graafian Follicle",
+    question: 'This hormone stimulates the maturation of the Graafian Follicle',
     answers: [
-      {answer: "LH"},
-      {answer: "Oxytocin"},
-      {answer: "Oestrogen"},
-      {answer: "FSH"}
+      {answer: 'LH'},
+      {answer: 'Oxytocin'},
+      {answer: 'Oestrogen'},
+      {answer: 'FSH'}
     ],
-    correct: "FSH"
+    correct: 'FSH'
   },
 
   {
-    question: "The inner layer of the uterus is the",
+    question: 'The inner layer of the uterus is the',
     answers: [
-      {answer: "Myometrium"},
-      {answer: "Endometrium"},
-      {answer: "Mesometrium"},
-      {answer: "Endodermis"}
+      {answer: 'Myometrium'},
+      {answer: 'Endometrium'},
+      {answer: 'Mesometrium'},
+      {answer: 'Endodermis'}
     ],
-    correct: "Endometrium"
+    correct: 'Endometrium'
   },
 
   {
-    question: "The layer of peritoneum covering the testes is known as the",
+    question: 'The layer of peritoneum covering the testes is known as the',
     answers: [
-      {answer: "Tunica externa"},
-      {answer: "Tunica vasculosa"},
-      {answer: "Tunica vaginalis"},
-      {answer: "Tunica spermatica"}
+      {answer: 'Tunica externa'},
+      {answer: 'Tunica vasculosa'},
+      {answer: 'Tunica vaginalis'},
+      {answer: 'Tunica spermatica'}
     ],
-    correct: "Tunica vaginalis"
+    correct: 'Tunica vaginalis'
   },
 
   {
-    question: "This hormone is responsible for milk production, and high levels may result in a false pregnancy",
+    question: 'This hormone is responsible for milk production, and high levels may result in a false pregnancy',
     answers: [
-      {answer: "Oxytocin"},
-      {answer: "Prostaglandin 2α"},
-      {answer: "Relaxin"},
-      {answer: "Prolactin"}
+      {answer: 'Oxytocin'},
+      {answer: 'Prostaglandin 2α'},
+      {answer: 'Relaxin'},
+      {answer: 'Prolactin'}
     ],
-    correct: "Prolactin"
+    correct: 'Prolactin'
   },
 
   {
-    question: "In the testes the interstitial cells are also called",
+    question: 'In the testes the interstitial cells are also called',
     answers: [
-      {answer: "Accessory cells"},
-      {answer: "Leydig cells"},
-      {answer: "Seminiferous tubules"},
-      {answer: "Sertoli cells"}
+      {answer: 'Accessory cells'},
+      {answer: 'Leydig cells'},
+      {answer: 'Seminiferous tubules'},
+      {answer: 'Sertoli cells'}
     ],
-    correct: "Leydig cells"
+    correct: 'Leydig cells'
   },
 
   {
-    question: "The main hormone secreted by the corpus luteum of the ovary",
+    question: 'The main hormone secreted by the corpus luteum of the ovary',
     answers: [
-      {answer: "Oxytocin"},
-      {answer: "FSH"},
-      {answer: "Oestrogen"},
-      {answer: "Progesterone"}
+      {answer: 'Oxytocin'},
+      {answer: 'FSH'},
+      {answer: 'Oestrogen'},
+      {answer: 'Progesterone'}
     ],
-    correct: "Progesterone"
+    correct: 'Progesterone'
   },
 
   {
-    question: "Which hormone is responsible for uterine smooth muscle contractions and milk “let down”",
+    question: 'Which hormone is responsible for uterine smooth muscle contractions and milk “let down”',
     answers: [
-      {answer: "Relaxin"},
-      {answer: "Prolactin"},
-      {answer: "Oxytocin"},
-      {answer: "Progesterone "}
+      {answer: 'Relaxin'},
+      {answer: 'Prolactin'},
+      {answer: 'Oxytocin'},
+      {answer: 'Progesterone '}
     ],
-    correct: "Oxytocin"
+    correct: 'Oxytocin'
   },
 
   {
-    question: " At parturition dilation of the cervix and a loosening of the pelvic joints is due to the secretion of",
+    question: ' At parturition dilation of the cervix and a loosening of the pelvic joints is due to the secretion of',
     answers: [
-      {answer: "Prolactin"},
-      {answer: "Progesterone"},
-      {answer: "Adrenaline"},
-      {answer: "Relaxin"}
+      {answer: 'Prolactin'},
+      {answer: 'Progesterone'},
+      {answer: 'Adrenaline'},
+      {answer: 'Relaxin'}
     ],
-    correct: "Relaxin"
+    correct: 'Relaxin'
   },
 
   {
-    question: "Gonadotropin Releasing Hormone (GnRH) is released by the",
+    question: 'Gonadotropin Releasing Hormone (GnRH) is released by the',
     answers: [
-      {answer: "Cerebrum"},
-      {answer: "Pituitary gland"},
-      {answer: "Hypothalamus"},
-      {answer: "Medulla oblongata"}
+      {answer: 'Cerebrum'},
+      {answer: 'Pituitary gland'},
+      {answer: 'Hypothalamus'},
+      {answer: 'Medulla oblongata'}
     ],
-    correct: "Hypothalamus"
+    correct: 'Hypothalamus'
   },
 
   {
-    question: "Structure lined with simple cuboidal epithelium :",
+    question: 'Structure lined with simple cuboidal epithelium :',
     answers: [
-      {answer: "Bladder"},
-      {answer: "Kidney tubules"},
-      {answer: "Lungs"},
-      {answer: "Small intestine"}
+      {answer: 'Bladder'},
+      {answer: 'Kidney tubules'},
+      {answer: 'Lungs'},
+      {answer: 'Small intestine'}
     ],
-    correct: "Kidney tubules"
+    correct: 'Kidney tubules'
   },
 
   {
-    question: "Organ receives blood from the caudal tail vein in a snake :",
+    question: 'Organ receives blood from the caudal tail vein in a snake :',
     answers: [
-      {answer: "Liver"},
-      {answer: "Stomach"},
-      {answer: "Kidney"},
-      {answer: "Spleen"}
+      {answer: 'Liver'},
+      {answer: 'Stomach'},
+      {answer: 'Kidney'},
+      {answer: 'Spleen'}
     ],
-    correct: "Kidney"
+    correct: 'Kidney'
   },
 
   {
-    question: "Physiological process taking place in the renal nephrons :",
+    question: 'Physiological process taking place in the renal nephrons :',
     answers: [
-      {answer: "Assimilation"},
-      {answer: "Phagocytosis"},
-      {answer: "Reabsorption"},
-      {answer: "Storage"}
+      {answer: 'Assimilation'},
+      {answer: 'Phagocytosis'},
+      {answer: 'Reabsorption'},
+      {answer: 'Storage'}
     ],
-    correct: "Reabsorption"
+    correct: 'Reabsorption'
   },
 
   {
-    question: "Angiotensin converting enzyme (ACE) converts :",
+    question: 'Angiotensin converting enzyme (ACE) converts :',
     answers: [
-      {answer: "Aldosterone to angiotensin I"},
-      {answer: "Angiotensin I  to  Angiotensin II"},
-      {answer: "Angiotensin II  to  Renin"},
-      {answer: "Angiotensin I  to  erythropoietin"}
+      {answer: 'Aldosterone to angiotensin I'},
+      {answer: 'Angiotensin I  to  Angiotensin II'},
+      {answer: 'Angiotensin II  to  Renin'},
+      {answer: 'Angiotensin I  to  erythropoietin'}
     ],
-    correct: "Angiotensin I  to  Angiotensin II"
+    correct: 'Angiotensin I  to  Angiotensin II'
   },
 
   {
-    question: "In the urinary system this is the location of the trigone :",
+    question: 'In the urinary system this is the location of the trigone :',
     answers: [
-      {answer: "Kidney"},
-      {answer: "Ureter"},
-      {answer: "Urethra"},
-      {answer: "Bladder"}
+      {answer: 'Kidney'},
+      {answer: 'Ureter'},
+      {answer: 'Urethra'},
+      {answer: 'Bladder'}
     ],
-    correct: "Bladder"
+    correct: 'Bladder'
   },
 
   {
-    question: "Structure located on the inner aspect of the kidney :",
+    question: 'Structure located on the inner aspect of the kidney :',
     answers: [
-      {answer: "Renal capsule"},
-      {answer: "Renal cortex"},
-    {answer: "Renal medulla"},
-    {answer: "Renal hilus"}
+      {answer: 'Renal capsule'},
+      {answer: 'Renal cortex'},
+    {answer: 'Renal medulla'},
+    {answer: 'Renal hilus'}
     ],
-    correct: "Renal medulla"
+    correct: 'Renal medulla'
   },
 
   {
-    question: "Urine is moved through the ureter by :",
+    question: 'Urine is moved through the ureter by :',
     answers: [
-      {answer: "Gravity"},
-      {answer: "Peristalsis"},
-      {answer: "Diffusion"},
-      {answer: "Cilia"}
+      {answer: 'Gravity'},
+      {answer: 'Peristalsis'},
+      {answer: 'Diffusion'},
+      {answer: 'Cilia'}
     ],
-    correct: "Peristalsis"
+    correct: 'Peristalsis'
   },
 
   {
-    question: "Monitors arterial blood pressure :",
+    question: 'Monitors arterial blood pressure :',
     answers: [
-      {answer: "Chemoreceptors"},
-      {answer: "Thermoreceptors"},
-      {answer: "Baroreceptors"},
-      {answer: "Proprioreceptors"}
+      {answer: 'Chemoreceptors'},
+      {answer: 'Thermoreceptors'},
+      {answer: 'Baroreceptors'},
+      {answer: 'Proprioreceptors'}
     ],
-    correct: "Baroreceptors"
+    correct: 'Baroreceptors'
   },
 
   {
-    question: "Antidiuretic hormone is responsible for :",
+    question: 'Antidiuretic hormone is responsible for :',
     answers: [
-      {answer: "Vasoconstriction"},
-      {answer: "Sodium excretion"},
-      {answer: "Potassium excretion"},
-      {answer: "Water reabsorption"}
+      {answer: 'Vasoconstriction'},
+      {answer: 'Sodium excretion'},
+      {answer: 'Potassium excretion'},
+      {answer: 'Water reabsorption'}
     ],
-    correct: "Water reabsorption"
+    correct: 'Water reabsorption'
   },
 
   {
-    question: " Which of the following is false :",
+    question: ' Which of the following is false :',
     answers: [
-      {answer: "The position of the kidney in the abdomen is described as retroperitoneal"},
-      {answer: "The right kidney is caudal to the left kidney"},
-      {answer: "The kidneys lie in the cranial abdomen closely attached to the lumbar hypaxial muscles"},
-      {answer: "The ovaries and adrenal glands lie close to the cranial pole of each kidney"}
+      {answer: 'The position of the kidney in the abdomen is described as retroperitoneal'},
+      {answer: 'The right kidney is caudal to the left kidney'},
+      {answer: 'The kidneys lie in the cranial abdomen closely attached to the lumbar hypaxial muscles'},
+      {answer: 'The ovaries and adrenal glands lie close to the cranial pole of each kidney'}
     ],
-    correct: "The right kidney is caudal to the left kidney"
+    correct: 'The right kidney is caudal to the left kidney'
   },
 
   {
-    question: "Which of the following does not occur in the proximal convoluted tubule (PCT)",
+    question: 'Which of the following does not occur in the proximal convoluted tubule (PCT)',
     answers: [
-      {answer: "Secretion of penicillin"},
-      {answer: "Reabsorption of glucose"},
-      {answer: "Control of acid/base balance"},
-      {answer: "Reabsorption of water"}
+      {answer: 'Secretion of penicillin'},
+      {answer: 'Reabsorption of glucose'},
+      {answer: 'Control of acid/base balance'},
+      {answer: 'Reabsorption of water'}
     ],
-    correct: "Control of acid/base balance"
+    correct: 'Control of acid/base balance'
   },
 
   {
-    question: "Which of the following statements is false :",
+    question: 'Which of the following statements is false :',
     answers: [
-      {answer: "Aldosterone is secreted by the anterior pituitary located at the base of the brain"},
-      {answer: "Aldosterone acts mainly on the Distal Convoluted Tubule (DCT) and controls the reabsorption of sodium"},
-      {answer: "Anti-diuretic Hormone (ADH) is secreted when an animal is dehydrated"},
-      {answer: "The release of aldosterone is stimulated by angiotensin"}
+      {answer: 'Aldosterone is secreted by the anterior pituitary located at the base of the brain'},
+      {answer: 'Aldosterone acts mainly on the Distal Convoluted Tubule (DCT) and controls the reabsorption of sodium'},
+      {answer: 'Anti-diuretic Hormone (ADH) is secreted when an animal is dehydrated'},
+      {answer: 'The release of aldosterone is stimulated by angiotensin'}
     ],
-    correct: "Aldosterone is secreted by the anterior pituitary located at the base of the brain"
+    correct: 'Aldosterone is secreted by the anterior pituitary located at the base of the brain'
   },
 
   {
-    question: "Which of the following hormones does not have an effect on the kidney :",
+    question: 'Which of the following hormones does not have an effect on the kidney :',
     answers: [
-      {answer: "Renin"},
-      {answer: "Aldosterone"},
-      {answer: "Anti-diuretic hormone"},
-      {answer: "Erythropoietin"}
+      {answer: 'Renin'},
+      {answer: 'Aldosterone'},
+      {answer: 'Anti-diuretic hormone'},
+      {answer: 'Erythropoietin'}
     ],
-    correct: "Erythropoietin"
+    correct: 'Erythropoietin'
   },
 
   {
-    question: "If an animal is over-hydrated which of the following will happen:",
+    question: 'If an animal is over-hydrated which of the following will happen:',
     answers: [
-      {answer: "Blood pressure will fall and will be detected by baroreceptors in the blood vessel walls"},
-      {answer: "Osmotic pressure will rise and the osmoreceptors will stimulate the thirst centre"},
-      {answer: "Secretion of ADH will decrease and a large volume of dilute urine will be excreted"},
-      {answer: "Water will be reabsorbed into the capillaries of the renal medulla from the descending loop of Henle"}
+      {answer: 'Blood pressure will fall and will be detected by baroreceptors in the blood vessel walls'},
+      {answer: 'Osmotic pressure will rise and the osmoreceptors will stimulate the thirst centre'},
+      {answer: 'Secretion of ADH will decrease and a large volume of dilute urine will be excreted'},
+      {answer: 'Water will be reabsorbed into the capillaries of the renal medulla from the descending loop of Henle'}
     ],
-    correct: "Secretion of ADH will decrease and a large volume of dilute urine will be excreted"
+    correct: 'Secretion of ADH will decrease and a large volume of dilute urine will be excreted'
   },
 
   {
-    question: "Normal urine contains  ",
+    question: 'Normal urine contains  ',
     answers: [
-      {answer: "Glucose, water, urea"},
-      {answer: "Water, salts/electrolytes, urea"},
-      {answer: "Protein, amino acids, water"},
-      {answer: "Urea, crystals, glucose"}
+      {answer: 'Glucose, water, urea'},
+      {answer: 'Water, salts/electrolytes, urea'},
+      {answer: 'Protein, amino acids, water'},
+      {answer: 'Urea, crystals, glucose'}
     ],
-    correct: "Water, salts/electrolytes, urea"
+    correct: 'Water, salts/electrolytes, urea'
   },
 
   {
-    question: "If an animal is fed on a high salt diet, which of the following will not happen:",
+    question: 'If an animal is fed on a high salt diet, which of the following will not happen:',
     answers: [
-      {answer: "The osmotic pressure of the plasma will rise"},
-      {answer: "Water will be drawn into the circulation by osmosis, increasing the circulating blood volume"},
-      {answer: "The animal will become hypertensive"},
-      {answer: "Aldosterone secretion will rise and sodium will be reabsorbed from the DCT"}
+      {answer: 'The osmotic pressure of the plasma will rise'},
+      {answer: 'Water will be drawn into the circulation by osmosis, increasing the circulating blood volume'},
+      {answer: 'The animal will become hypertensive'},
+      {answer: 'Aldosterone secretion will rise and sodium will be reabsorbed from the DCT'}
     ],
-    correct: "Aldosterone secretion will rise and sodium will be reabsorbed from the DCT"
+    correct: 'Aldosterone secretion will rise and sodium will be reabsorbed from the DCT'
   },
 
   {
-    question: "Deamination is the :",
+    question: 'Deamination is the :',
     answers: [
-      {answer: "Conversion of glucose into glycogen"},
-      {answer: "Conversion of glycogen to glucose"},
-      {answer: "The breakdown of amino acids by the liver"},
-      {answer: "The synthesis of a protein from amino acids"}
+      {answer: 'Conversion of glucose into glycogen'},
+      {answer: 'Conversion of glycogen to glucose'},
+      {answer: 'The breakdown of amino acids by the liver'},
+      {answer: 'The synthesis of a protein from amino acids'}
     ],
-    correct: "The breakdown of amino acids by the liver"
+    correct: 'The breakdown of amino acids by the liver'
   },
 
   {
-    question: " Which part of the nephron is not located in the cortex of the kidney :",
+    question: ' Which part of the nephron is not located in the cortex of the kidney :',
     answers: [
-      {answer: "Glomerulus"},
-      {answer: "Loop of Henle"},
-      {answer: "PCT"},
-      {answer: "DCT"}
+      {answer: 'Glomerulus'},
+      {answer: 'Loop of Henle'},
+      {answer: 'PCT'},
+      {answer: 'DCT'}
     ],
-    correct: "Loop of Henle"
+    correct: 'Loop of Henle'
   },
 
   {
-    question: "Blood enters the glomerulus via :",
+    question: 'Blood enters the glomerulus via :',
     answers: [
-      {answer: "Afferent arteriole"},
-      {answer: "Efferent arteriole"},
-      {answer: "Renal artery"},
-      {answer: "Afferent venule"}
+      {answer: 'Afferent arteriole'},
+      {answer: 'Efferent arteriole'},
+      {answer: 'Renal artery'},
+      {answer: 'Afferent venule'}
     ],
-    correct: "Afferent arteriole"
+    correct: 'Afferent arteriole'
   },
 
   {
-    question: " This hormone is responsible for stimulating the red bone marrow during periods of hypoxia:",
+    question: ' This hormone is responsible for stimulating the red bone marrow during periods of hypoxia:',
     answers: [
-      {answer: "Renin"},
-      {answer: "Anti-diuretic hormone"},
-      {answer: "Erythropoietin"},
-      {answer: "Oxytocin"}
+      {answer: 'Renin'},
+      {answer: 'Anti-diuretic hormone'},
+      {answer: 'Erythropoietin'},
+      {answer: 'Oxytocin'}
     ],
-    correct: "Erythropoietin"
+    correct: 'Erythropoietin'
   },
 
   {
-    question: "The process in which fluid passes from the blood capillaries of the glomerulus, through the basement membrane of the Bowman’s capsule and into the lumen of the nephron is called:",
+    question: 'The process in which fluid passes from the blood capillaries of the glomerulus, through the basement membrane of the Bowman’s capsule and into the lumen of the nephron is called:',
     answers: [
-      {answer: "Secretion"},
-      {answer: "Osmosis"},
-      {answer: "Reabsorption"},
-      {answer: "Ultrafiltration"}
+      {answer: 'Secretion'},
+      {answer: 'Osmosis'},
+      {answer: 'Reabsorption'},
+      {answer: 'Ultrafiltration'}
     ],
-    correct: "Ultrafiltration"
+    correct: 'Ultrafiltration'
   },
 
   {
-    question: "Approximately what % of the glomeruli filtrate is reabsorbed along the nephron :",
+    question: 'Approximately what % of the glomeruli filtrate is reabsorbed along the nephron :',
     answers: [
-      {answer: "50%"},
-      {answer: "75%"},
-      {answer: "80%"},
-      {answer: "90+%"}
+      {answer: '50%'},
+      {answer: '75%'},
+      {answer: '80%'},
+      {answer: '90+%'}
     ],
-    correct: "90+%"
+    correct: '90+%'
   },
 
   {
-    question: " Osmosis is the :",
+    question: ' Osmosis is the :',
     answers: [
-      {answer: "Movement of water from a strong to a weak solution through a semi-permeable membrane"},
-      {answer: "Movement of water from a hypertonic solution to a hypotonic solution through a semi-permeable membrane"},
-      {answer: "Movement of water from a weak to a strong solution through a semi-permeable membrane"},
-      {answer: "Movement of water between isotonic solutions"}
+      {answer: 'Movement of water from a strong to a weak solution through a semi-permeable membrane'},
+      {answer: 'Movement of water from a hypertonic solution to a hypotonic solution through a semi-permeable membrane'},
+      {answer: 'Movement of water from a weak to a strong solution through a semi-permeable membrane'},
+      {answer: 'Movement of water between isotonic solutions'}
     ],
-    correct: "Movement of water from a weak to a strong solution through a semi-permeable membrane"
+    correct: 'Movement of water from a weak to a strong solution through a semi-permeable membrane'
   },
 
   {
-    question: "The movement of Na+Cl- from the ascending loop of Henle into the surrounding, interstitial tissue is through :",
+    question: 'The movement of Na+Cl- from the ascending loop of Henle into the surrounding, interstitial tissue is through :',
     answers: [
-      {answer: "Diffusion"},
-      {answer: "Osmosis"},
-      {answer: "Active transport"},
-      {answer: "Facilitated diffusion"}
+      {answer: 'Diffusion'},
+      {answer: 'Osmosis'},
+      {answer: 'Active transport'},
+      {answer: 'Facilitated diffusion'}
     ],
-    correct: "Active transport"
+    correct: 'Active transport'
   },
 
   {
-    question: "When the pH of the blood plasma falls, the kidney will :",
+    question: 'When the pH of the blood plasma falls, the kidney will :',
     answers: [
-      {answer: "Excrete H+ ions"},
-      {answer: "Reabsorb H+ ions"},
-      {answer: "Excrete K+ ions"},
-      {answer: "Excrete HCO3- ions (Bicarbonate)"}
+      {answer: 'Excrete H+ ions'},
+      {answer: 'Reabsorb H+ ions'},
+      {answer: 'Excrete K+ ions'},
+      {answer: 'Excrete HCO3- ions (Bicarbonate)'}
     ],
-    correct: "Excrete H+ ions"
+    correct: 'Excrete H+ ions'
   },
 
   {
-    question: "Prolactin",
+    question: 'Prolactin',
     answers: [
-      {answer: "Stimulates milk production"},
-      {answer: "Increases blood calcium levels"},
-      {answer: "Stimulates ovulation"},
-      {answer: "Contraction of smooth muscle"}
+      {answer: 'Stimulates milk production'},
+      {answer: 'Increases blood calcium levels'},
+      {answer: 'Stimulates ovulation'},
+      {answer: 'Contraction of smooth muscle'}
     ],
-    correct: "Stimulates milk production"
+    correct: 'Stimulates milk production'
   },
 
   {
-    question: "Not produced by the thyroid gland",
+    question: 'Not produced by the thyroid gland',
     answers: [
-      {answer: "Thyroxine"},
-      {answer: "Tri-iodothyronine"},
-      {answer: "Calcitonin"},
-      {answer: "Thyroid Stimulating hormone"}
+      {answer: 'Thyroxine'},
+      {answer: 'Tri-iodothyronine'},
+      {answer: 'Calcitonin'},
+      {answer: 'Thyroid Stimulating hormone'}
     ],
-    correct: "Calcitonin"
+    correct: 'Calcitonin'
   },
 
   {
-    question: "In the male oestrogen is produced by the :",
+    question: 'In the male oestrogen is produced by the :',
     answers: [
-      {answer: "Prostate gland"},
-      {answer: "Leydig cells"},
-      {answer: "Spermatogonia"},
-      {answer: "Sertoli cells"}
+      {answer: 'Prostate gland'},
+      {answer: 'Leydig cells'},
+      {answer: 'Spermatogonia'},
+      {answer: 'Sertoli cells'}
     ],
-    correct: "Sertoli cells"
+    correct: 'Sertoli cells'
   },
 
   {
-    question: "Parasympathetic nervous system innervates :",
+    question: 'Parasympathetic nervous system innervates :',
     answers: [
-      {answer: "Vasodilation"},
-      {answer: "Pupil constriction"},
-      {answer: "Pilo-erection of hairs"},
-      {answer: "Inhibition of gastric juices"}
+      {answer: 'Vasodilation'},
+      {answer: 'Pupil constriction'},
+      {answer: 'Pilo-erection of hairs'},
+      {answer: 'Inhibition of gastric juices'}
     ],
-    correct: "Pupil constriction"
+    correct: 'Pupil constriction'
   },
 
   {
-    question: "Produces nor-adrenaline :",
+    question: 'Produces nor-adrenaline :',
     answers: [
-      {answer: "Adrenal cortex"},
-      {answer: "Adrenal medulla"},
-      {answer: "Pancreas"},
-      {answer: "Thyroid gland"}
+      {answer: 'Adrenal cortex'},
+      {answer: 'Adrenal medulla'},
+      {answer: 'Pancreas'},
+      {answer: 'Thyroid gland'}
     ],
-    correct: "Adrenal medulla"
+    correct: 'Adrenal medulla'
   },
 
   {
-    question: "Oxytocin stimulates :",
+    question: 'Oxytocin stimulates :',
     answers: [
-      {answer: "Mammary development"},
-      {answer: "A fall in blood calcium levels"},
-      {answer: "Spontaneous ovulation"},
-      {answer: "Smooth muscle contractions"}
+      {answer: 'Mammary development'},
+      {answer: 'A fall in blood calcium levels'},
+      {answer: 'Spontaneous ovulation'},
+      {answer: 'Smooth muscle contractions'}
     ],
-    correct: "Smooth muscle contractions"
+    correct: 'Smooth muscle contractions'
   },
 
   {
-    question: "Anti-diuretic hormone stimulates :",
+    question: 'Anti-diuretic hormone stimulates :',
     answers: [
-      {answer: "Vasoconstriction"},
-      {answer: "Hypotension"},
-      {answer: "Excretion of Na+Cl-"},
-      {answer: "Water reabsorption"}
+      {answer: 'Vasoconstriction'},
+      {answer: 'Hypotension'},
+      {answer: 'Excretion of Na+Cl-'},
+      {answer: 'Water reabsorption'}
     ],
-    correct: "Water reabsorption"
+    correct: 'Water reabsorption'
   },
 
   {
-    question: "Cells producing testosterone :",
+    question: 'Cells producing testosterone :',
     answers: [
-      {answer: "Epididymis"},
-      {answer: "Sertoli cells"},
-      {answer: "Seminiferous tubules"},
-      {answer: "Leydig cells"}
+      {answer: 'Epididymis'},
+      {answer: 'Sertoli cells'},
+      {answer: 'Seminiferous tubules'},
+      {answer: 'Leydig cells'}
     ],
-    correct: "Leydig cells"
+    correct: 'Leydig cells'
   },
 
   {
-    question: "Which of the following statements about endocrine glands is false :",
+    question: 'Which of the following statements about endocrine glands is false :',
     answers: [
-      {answer: "The secretion of thyroxine (T3 and T4) is regulated by a positive feed back system"},
-      {answer: "Endocrine glands are ductless"},
-      {answer: "Gonadotropin Releasing Hormone regulates the release of FSH and LH by the anterior pituitary gland"},
-      {answer: "Adrenocorticotropic Hormone (ACTH) stimulates the release of the glucocorticoids"}
+      {answer: 'The secretion of thyroxine (T3 and T4) is regulated by a positive feed back system'},
+      {answer: 'Endocrine glands are ductless'},
+      {answer: 'Gonadotropin Releasing Hormone regulates the release of FSH and LH by the anterior pituitary gland'},
+      {answer: 'Adrenocorticotropic Hormone (ACTH) stimulates the release of the glucocorticoids'}
     ],
-    correct: "The secretion of thyroxine (T3 and T4) is regulated by a positive feed back system"
+    correct: 'The secretion of thyroxine (T3 and T4) is regulated by a positive feed back system'
   },
 
   {
-    question: " Which of the following hormones are secreted by the posterior pituitary :",
+    question: ' Which of the following hormones are secreted by the posterior pituitary :',
     answers: [
-      {answer: "ACTH"},
-      {answer: "TSH – thyroid stimulating hormone"},
-      {answer: "ADH – anti diuretic hormone"},
-      {answer: "FSH -  follicle stimulating hormone"}
+      {answer: 'ACTH'},
+      {answer: 'TSH – thyroid stimulating hormone'},
+      {answer: 'ADH – anti diuretic hormone'},
+      {answer: 'FSH -  follicle stimulating hormone'}
     ],
-    correct: "ADH – anti diuretic hormone"
+    correct: 'ADH – anti diuretic hormone'
   },
 
   {
-    question: " Which of the following is not secreted by adrenal cortex :",
+    question: ' Which of the following is not secreted by adrenal cortex :',
     answers: [
-      {answer: "Aldosterone"},
-      {answer: "Cortisol"},
-      {answer: "Oestrogen"},
-      {answer: "Epinephrine (Adrenalin)"}
+      {answer: 'Aldosterone'},
+      {answer: 'Cortisol'},
+      {answer: 'Oestrogen'},
+      {answer: 'Epinephrine (Adrenalin)'}
     ],
-    correct: "Epinephrine (Adrenalin)"
+    correct: 'Epinephrine (Adrenalin)'
   },
 
   {
-    question: "In an emergency situation the sympathetic nervous system and epinephrine will stimulate :",
+    question: 'In an emergency situation the sympathetic nervous system and epinephrine will stimulate :',
     answers: [
-      {answer: "Constriction of the airways"},
-      {answer: "Secretion of digestive juices"},
-      {answer: "Pupil dilation"},
-      {answer: "A reduction in sweating"}
+      {answer: 'Constriction of the airways'},
+      {answer: 'Secretion of digestive juices'},
+      {answer: 'Pupil dilation'},
+      {answer: 'A reduction in sweating'}
     ],
-    correct: "Pupil dilation"
+    correct: 'Pupil dilation'
   },
 
   {
-    question: "Polydipsia, polyuria and bilateral symmetrical alopecia are symptoms of :",
+    question: 'Polydipsia, polyuria and bilateral symmetrical alopecia are symptoms of :',
     answers: [
-      {answer: "Diabetes mellitus"},
-      {answer: "Diabetes insipidus"},
-      {answer: "Hyperthyroidism"},
-      {answer: "Cushing’s disease"}
+      {answer: 'Diabetes mellitus'},
+      {answer: 'Diabetes insipidus'},
+      {answer: 'Hyperthyroidism'},
+      {answer: 'Cushing’s disease'}
     ],
-    correct: "Cushing’s disease"
+    correct: 'Cushing’s disease'
   },
 
   {
-    question: "Hypoglycaemia will stimulate the secretion of which pancreatic hormone :",
+    question: 'Hypoglycaemia will stimulate the secretion of which pancreatic hormone :',
     answers: [
-      {answer: "Glucagon"},
-      {answer: "Glycogen"},
-      {answer: "Insulin"},
-      {answer: "Somatostatin"}
+      {answer: 'Glucagon'},
+      {answer: 'Glycogen'},
+      {answer: 'Insulin'},
+      {answer: 'Somatostatin'}
     ],
-    correct: "Glucagon"
+    correct: 'Glucagon'
   },
 
   {
-    question: "This mineral is required for the synthesis of T3 and T4 :",
+    question: 'This mineral is required for the synthesis of T3 and T4 :',
     answers: [
-      {answer: "Iron"},
-      {answer: "Sodium"},
-      {answer: "Calcium"},
-      {answer: "Iodine"}
+      {answer: 'Iron'},
+      {answer: 'Sodium'},
+      {answer: 'Calcium'},
+      {answer: 'Iodine'}
     ],
-    correct: "Iodine"
+    correct: 'Iodine'
   },
 
   {
-    question: "Parathyroid hormone is responsible for :",
+    question: 'Parathyroid hormone is responsible for :',
     answers: [
-      {answer: "Activating osteoclasts to move calcium from the bones to the blood plasma"},
-      {answer: "Reducing calcium uptake from the small intestine"},
-      {answer: "Increasing the excretion of calcium in the urine"},
-      {answer: "Activating osteoblasts to move soluble calcium from the plasma to the bones"}
+      {answer: 'Activating osteoclasts to move calcium from the bones to the blood plasma'},
+      {answer: 'Reducing calcium uptake from the small intestine'},
+      {answer: 'Increasing the excretion of calcium in the urine'},
+      {answer: 'Activating osteoblasts to move soluble calcium from the plasma to the bones'}
     ],
-    correct: "Activating osteoclasts to move calcium from the bones to the blood plasma"
+    correct: 'Activating osteoclasts to move calcium from the bones to the blood plasma'
   },
 
   {
-    question: " Aldosterone is responsible for :",
+    question: ' Aldosterone is responsible for :',
     answers: [
-      {answer: "Reabsorption of K+ from the kidney tubules to the bloodstream"},
-      {answer: "Excretion of Na+ in the urine"},
-      {answer: "Reabsorption of Na+ from the kidney tubules to the bloodstream"},
-      {answer: "Stimulating the reabsorption of Ca++ from the kidney tubules"}
+      {answer: 'Reabsorption of K+ from the kidney tubules to the bloodstream'},
+      {answer: 'Excretion of Na+ in the urine'},
+      {answer: 'Reabsorption of Na+ from the kidney tubules to the bloodstream'},
+      {answer: 'Stimulating the reabsorption of Ca++ from the kidney tubules'}
     ],
-    correct: "Reabsorption of Na+ from the kidney tubules to the bloodstream"
+    correct: 'Reabsorption of Na+ from the kidney tubules to the bloodstream'
   },
 
   {
-    question: " Calcitonin is secreted by the :",
+    question: ' Calcitonin is secreted by the :',
     answers: [
-      {answer: "Parathyroid gland"},
-      {answer: "Anterior pituitary"},
-      {answer: "Thyroid gland"},
-      {answer: "Adrenal cortex"}
+      {answer: 'Parathyroid gland'},
+      {answer: 'Anterior pituitary'},
+      {answer: 'Thyroid gland'},
+      {answer: 'Adrenal cortex'}
     ],
-    correct: "Thyroid gland"
+    correct: 'Thyroid gland'
   },
 
   {
-    question: "The following are signs of hyperthyroidism :",
+    question: 'The following are signs of hyperthyroidism :',
     answers: [
-      {answer: "Bradycardia, lethargy, increase in weight"},
-      {answer: "Swollen abdomen, skin thinning, polydipsia"},
-      {answer: "Polyuria, hypotension, bone fractures"},
-      {answer: "Tachycardia, polyphagia, loss of weight"}
+      {answer: 'Bradycardia, lethargy, increase in weight'},
+      {answer: 'Swollen abdomen, skin thinning, polydipsia'},
+      {answer: 'Polyuria, hypotension, bone fractures'},
+      {answer: 'Tachycardia, polyphagia, loss of weight'}
     ],
-    correct: "Tachycardia, polyphagia, loss of weight"
+    correct: 'Tachycardia, polyphagia, loss of weight'
   },
 
   {
-    question: "The pancreatic cells which secrete hormones are known as the :",
+    question: 'The pancreatic cells which secrete hormones are known as the :',
     answers: [
-      {answer: "Acinar cells"},
-      {answer: "Crypts of Lieberkuhn"},
-      {answer: "Islets of Langerhans"},
-      {answer: "Pancreatic cortex"}
+      {answer: 'Acinar cells'},
+      {answer: 'Crypts of Lieberkuhn'},
+      {answer: 'Islets of Langerhans'},
+      {answer: 'Pancreatic cortex'}
     ],
-    correct: "Islets of Langerhans"
+    correct: 'Islets of Langerhans'
   },
 
   {
-    question: "Which one of the following is true :",
+    question: 'Which one of the following is true :',
     answers: [
-      {answer: "Glucagon is secreted by beta cells"},
-      {answer: "Insulin stimulates the conversion of plasma glucose to glycogen"},
-      {answer: "Glucagon stimulates body cells to take up glucose"},
-      {answer: "Insulin is secreted by alpha cells"}
+      {answer: 'Glucagon is secreted by beta cells'},
+      {answer: 'Insulin stimulates the conversion of plasma glucose to glycogen'},
+      {answer: 'Glucagon stimulates body cells to take up glucose'},
+      {answer: 'Insulin is secreted by alpha cells'}
     ],
-    correct: "Insulin stimulates the conversion of plasma glucose to glycogen"
+    correct: 'Insulin stimulates the conversion of plasma glucose to glycogen'
   },
 
   {
-    question: "Erythropoietin and renin are secreted by the :",
+    question: 'Erythropoietin and renin are secreted by the :',
     answers: [
-      {answer: "Kidneys"},
-      {answer: "Liver"},
-      {answer: "Thyroid Gland"},
-      {answer: "Pituitary gland"}
+      {answer: 'Kidneys'},
+      {answer: 'Liver'},
+      {answer: 'Thyroid Gland'},
+      {answer: 'Pituitary gland'}
     ],
-    correct: "Kidneys"
+    correct: 'Kidneys'
   },
 
   {
-    question: " Diabetes insipidus is due to a deficiency  of :",
+    question: ' Diabetes insipidus is due to a deficiency  of :',
     answers: [
-      {answer: "Insulin"},
-      {answer: "Glucocorticoids"},
-      {answer: "Anti-diuretic hormone"},
-      {answer: "Thyroxine"}
+      {answer: 'Insulin'},
+      {answer: 'Glucocorticoids'},
+      {answer: 'Anti-diuretic hormone'},
+      {answer: 'Thyroxine'}
     ],
-    correct: "Anti-diuretic hormone"
+    correct: 'Anti-diuretic hormone'
   }
 ];
