@@ -1107,7 +1107,7 @@ module.exports = [
       {answer: 'After 21 days'},
       {answer: 'After 50 days'}
     ],
-    correct: ''
+    correct: 'After 45 days'
   },
 
   {
