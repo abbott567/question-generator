@@ -1053,5 +1053,379 @@ module.exports = [
       {answer: 'Vitamin A'}
     ],
     correct: 'Iodine'
+  },
+
+  {
+    question: 'The gestation period of the bitch is',
+    answers: [
+      {answer: '36 days'},
+      {answer: '7 weeks'},
+      {answer: '60 days'},
+      {answer: '63 days'}
+    ],
+    correct: '63 days'
+  },
+
+  {
+    question: 'The gestation period of the bitch is',
+    answers: [
+      {answer: '36-40 days'},
+      {answer: '7- 8 weeks'},
+      {answer: '60 days'},
+      {answer: '58- 63 days'}
+    ],
+    correct: '58- 63 days'
+  },
+
+  {
+    question: 'Fertilisation occurs how long after mating in the queen?',
+    answers: [
+      {answer: '1-2 hours'},
+      {answer: '12 hours'},
+      {answer: '24 hours'},
+      {answer: 'immediately'}
+    ],
+    correct: '12 hours'
+  },
+
+  {
+    question: 'Fertilisation occurs how long after mating in the bitch?',
+    answers: [
+      {answer: '1-2 hours'},
+      {answer: '12 hours'},
+      {answer: '24 hours'},
+      {answer: 'immediately'}
+    ],
+    correct: '12 hours'
+  },
+
+  {
+    question: 'How long after conception can radiography be used to diagnose pregnancy in a bitch?',
+    answers: [
+      {answer: 'After 30 days'},
+      {answer: 'After 45 days'},
+      {answer: 'After 21 days'},
+      {answer: 'After 50 days'}
+    ],
+    correct: ''
+  },
+
+  {
+    question: 'How long after conception can radiography be used to diagnose pregnancy in a queen?',
+    answers: [
+      {answer: 'After 30 days'},
+      {answer: 'After 14 days'},
+      {answer: 'After 21 days'},
+      {answer: 'After 50 days'}
+    ],
+    correct: 'After 14 days'
+  },
+
+  {
+    question: 'Mating occurs how long after bloody discharge from the vagina?',
+    answers: [
+      {answer: '1-2 days'},
+      {answer: '10-14 days'},
+      {answer: '24 days'},
+      {answer: 'immediately'}
+    ],
+    correct: '10-14 days'
+  },
+
+  {
+    question: 'How long does the copulatory tie in dogs last?',
+    answers: [
+      {answer: '1-2 minutes'},
+      {answer: '15-20 minutes'},
+      {answer: '5 minutes'},
+      {answer: '10 minutes'}
+    ],
+    correct: '15-20 minutes'
+  },
+
+  {
+    question: 'The life-span of sperm in the female reproductive tract is',
+    answers: [
+      {answer: '24 hours'},
+      {answer: '2-3 days'},
+      {answer: '4-5 days'},
+      {answer: 'One week'}
+    ],
+    correct: '2-3 days'
+  },
+
+  {
+    question: 'The life-span of sperm of the unfertilised ovum?',
+    answers: [
+      {answer: '24 hours'},
+      {answer: '2-20 hours'},
+      {answer: '4 days'},
+      {answer: '12 hours'}
+    ],
+    correct: '2-20 hours'
+  },
+
+  {
+    question: 'The egg will be fertilised by how many sperm?',
+    answers: [
+      {answer: 'One'},
+      {answer: 'Several'},
+      {answer: 'Hundreds'},
+      {answer: 'Millions'}
+    ],
+    correct: 'One'
+  },
+
+  {
+    question: 'Before they are able to fertilise an ovum, the sperm must undergo a change known as',
+    answers: [
+      {answer: 'Cavitation'},
+      {answer: 'Gastrulation'},
+      {answer: 'Cleavage'},
+      {answer: 'Capacitation'}
+    ],
+    correct: 'Capacitation'
+  },
+
+  {
+    question: 'The oocyte contains',
+    answers: [
+      {answer: 'A Y chromosome'},
+      {answer: 'The diploid number of chromosomes'},
+      {answer: 'The haploid number of chromosomes'},
+      {answer: 'No chromosomes'}
+    ],
+    correct: 'The haploid number of chromosomes'
+  },
+
+  {
+    question: 'Once the egg has been fertilised, cell division commences by',
+    answers: [
+      {answer: 'Binary fission'},
+      {answer: 'Mitosis'},
+      {answer: 'Meiosis'},
+      {answer: 'Embryogenesis'}
+    ],
+    correct: 'Mitosis'
+  },
+
+  {
+    question: 'The first layer of cells to migrate from the inner cell mass is the',
+    answers: [
+      {answer: 'Endoderm'},
+      {answer: 'Trophoblast'},
+      {answer: 'Mesoderm'},
+      {answer: 'Ectoderm'}
+    ],
+    correct: 'Trophoblast'
+  },
+
+  {
+    question: 'The inner cell mass will become the',
+    answers: [
+      {answer: 'Allantois'},
+      {answer: 'Urachus'},
+      {answer: 'Umbilical cord'},
+      {answer: 'Embryo'}
+    ],
+    correct: 'Embryo'
+  },
+
+  {
+    question: 'The gastrointestinal tract is formed from ',
+    answers: [
+      {answer: 'Trophoblast'},
+      {answer: 'Ectoderm'},
+      {answer: 'Endoderm'},
+      {answer: 'Mesoderm'}
+    ],
+    correct: 'Endoderm'
+  },
+
+  {
+    question: 'The membrane closest to the embryo is the',
+    answers: [
+      {answer: 'Allantochorion'},
+      {answer: 'Allantois'},
+      {answer: 'Amnion'},
+      {answer: 'Chorion'}
+    ],
+    correct: 'Amnion'
+  },
+
+  {
+    question: 'The embryo becomes known as a foetus when',
+    answers: [
+      {answer: 'The membranes form'},
+      {answer: 'The placenta forms'},
+      {answer: 'It is recognisable as an animal type'},
+      {answer: 'The last third of pregnancy is reached'}
+    ],
+    correct: 'It is recognisable as an animal type'
+  },
+
+  {
+    question: 'The umbilical vein carries',
+    answers: [
+      {answer: 'Oxygenated blood to the foetus'},
+      {answer: 'Deoxygenated blood from the foetus'},
+      {answer: 'Oxygenated blood from the foetus'},
+      {answer: 'Deoxygenated blood to the foetus'}
+    ],
+    correct: 'Oxygenated blood to the foetus'
+  },
+
+  {
+    question: 'The umbilical artery carries',
+    answers: [
+      {answer: 'Oxygenated blood to the foetus'},
+      {answer: 'Deoxygenated blood from the foetus'},
+      {answer: 'Oxygenated blood from the foetus'},
+      {answer: 'Deoxygenated blood to the foetus'}
+    ],
+    correct: 'Deoxygenated blood from the foetus'
+  },
+
+  {
+    question: 'The Morula is formed how many days after conception:',
+    answers: [
+      {answer: '7'},
+      {answer: '9'},
+      {answer: '11'},
+      {answer: '8'}
+    ],
+    correct: '9'
+  },
+
+  {
+    question: 'The embryo consist of 2 cells, how many days after conception:',
+    answers: [
+      {answer: '7'},
+      {answer: '9'},
+      {answer: '11'},
+      {answer: '8'}
+    ],
+    correct: '7'
+  },
+
+  {
+    question: 'The Blastocyst is formed how many days after conception:',
+    answers: [
+      {answer: '10'},
+      {answer: '13'},
+      {answer: '11'},
+      {answer: '8'}
+    ],
+    correct: '13'
+  },
+
+  {
+    question: 'Implantation occurs how many days after conception in the bitch:',
+    answers: [
+      {answer: '12- 13'},
+      {answer: '14-20'},
+      {answer: '9-11'},
+      {answer: '17- 23'}
+    ],
+    correct: '14-20'
+  },
+
+  {
+    question: 'Implantation occurs how many days after conception in the queen:',
+    answers: [
+      {answer: '12- 13'},
+      {answer: '11- 16'},
+      {answer: '9-11'},
+      {answer: '17- 23'}
+    ],
+    correct: '11- 16'
+  },
+
+  {
+    question: 'The head and tail of the embryo are established how many days after conception:',
+    answers: [
+      {answer: '12'},
+      {answer: '20'},
+      {answer: '21'},
+      {answer: '25'}
+    ],
+    correct: '20'
+  },
+
+  {
+    question: 'The head and tail of the embryo are established how many days after conception:',
+    answers: [
+      {answer: '12'},
+      {answer: '21'},
+      {answer: '20'},
+      {answer: '25'}
+    ],
+    correct: '21'
+  },
+
+  {
+    question: 'The limb buds are present how many days after conception:',
+    answers: [
+      {answer: '12'},
+      {answer: '21'},
+      {answer: '20'},
+      {answer: '25'}
+    ],
+    correct: '21'
+  },
+
+  {
+    question: 'The eyes of embryo are pigmented how many days after conception:',
+    answers: [
+      {answer: '12'},
+      {answer: '28'},
+      {answer: '20'},
+      {answer: '25'}
+    ],
+    correct: '28'
+  },
+
+  {
+    question: 'The external genitalia can be seen how many days after conception:',
+    answers: [
+      {answer: '12'},
+      {answer: '35'},
+      {answer: '20'},
+      {answer: '29'}
+    ],
+    correct: '35'
+  },
+
+  {
+    question: 'Ossification occurs how many days after conception:',
+    answers: [
+      {answer: '12'},
+      {answer: '42'},
+      {answer: '35'},
+      {answer: '25'}
+    ],
+    correct: '42'
+  },
+
+  {
+    question: 'Embryos reach the uterus how many days after conception in a dog:',
+    answers: [
+      {answer: '6'},
+      {answer: '8-10'},
+      {answer: '12-14'},
+      {answer: '21'}
+    ],
+    correct: '8-10'
+  },
+
+  {
+    question: 'Embryos reach the uterus how many days after conception in a queen:',
+    answers: [
+      {answer: '9'},
+      {answer: '3'},
+      {answer: '12-14'},
+      {answer: '10'}
+    ],
+    correct: '3'
   }
 ];
